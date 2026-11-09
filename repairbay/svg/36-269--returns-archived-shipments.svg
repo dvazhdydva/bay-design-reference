@@ -1,0 +1,54 @@
+<svg width="1280" height="535" viewBox="0 0 1280 535" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="535" fill="#F3F7FA"/>
+<rect width="1280" height="64" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="16" y="39.6364">RepairBay</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="200" y="36.3636">Active jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="314" y="36.3636">Archived jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="443" y="36.3636">Returns</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="527" y="36.3636">Users</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="597" y="36.3636">Spare parts</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1074" y="36.3636">Alex Naumov</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1198" y="36.3636">Sign out</tspan></text>
+<rect x="443" y="60" width="60" height="4" fill="#2D805F"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="32" y="134.636">Returns</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="1038" y="109.364">Warehouse</tspan></text>
+<path d="M1042 120.5H1244C1245.93 120.5 1247.5 122.067 1247.5 124V154C1247.5 155.933 1245.93 157.5 1244 157.5H1042C1040.07 157.5 1038.5 155.933 1038.5 154V124L1038.5 123.82C1038.6 121.971 1040.13 120.5 1042 120.5Z" fill="white"/>
+<path d="M1042 120.5H1244C1245.93 120.5 1247.5 122.067 1247.5 124V154C1247.5 155.933 1245.93 157.5 1244 157.5H1042C1040.07 157.5 1038.5 155.933 1038.5 154V124L1038.5 123.82C1038.6 121.971 1040.13 120.5 1042 120.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1049" y="143.727">Reading</tspan></text>
+<path d="M1223 136L1229 142L1235 136" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="32" y="187.364">Pending parts</tspan></text>
+<rect x="32" y="202" width="130" height="3" fill="#F3F7FA"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="186" y="187.364">Shipments</tspan></text>
+<rect x="186" y="202" width="130" height="3" fill="#F3F7FA"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="340" y="187.364">Archived shipments</tspan></text>
+<rect x="340" y="202" width="170" height="3" fill="#2D805F"/>
+<rect x="32" y="221" width="1216" height="1" fill="#E3EAF0"/>
+<path d="M37 238.5H1243C1245.49 238.5 1247.5 240.515 1247.5 243V466C1247.5 468.485 1245.49 470.5 1243 470.5H37C34.5147 470.5 32.5 468.485 32.5 466V243C32.5 240.515 34.5147 238.5 37 238.5Z" fill="white"/>
+<path d="M37 238.5H1243C1245.49 238.5 1247.5 240.515 1247.5 243V466C1247.5 468.485 1245.49 470.5 1243 470.5H37C34.5147 470.5 32.5 468.485 32.5 466V243C32.5 240.515 34.5147 238.5 37 238.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="49" y="273.182">Archived shipments</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="49" y="297.727">Collected shipments retained for reference.</tspan></text>
+<rect x="33.5" y="319.5" width="1215" height="102" stroke="#E3EAF0"/>
+<rect width="1216" height="48" transform="translate(34 320)" fill="#EFF4F8"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="42" y="348.364">Shipment</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="242" y="348.364">Period</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="322" y="348.364">Type</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="386" y="348.364">Package</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="466" y="348.364">Parts</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="518" y="348.364">GSPN shipment no.</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="684" y="348.364">Courier reference</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="870" y="348.364">Collection</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="1002" y="348.364">Status</tspan></text>
+<rect width="1216" height="52" transform="translate(34 368)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="42" y="398.727">5000693110</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="242" y="398.727">202610</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="322" y="398.727">IW</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="386" y="398.727">Pallet</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="466" y="398.727">4</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="518" y="398.727">5000693110</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="684" y="398.727">DHL-739110</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="870" y="398.727">23 Oct 2026</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1002" y="398.727">Archived &#xb7; read-only</tspan></text>
+<rect x="34" y="420" width="1216" height="1" fill="#E3EAF0"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="49" y="450">Collected shipments move to the archive seven days after collection.</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="32" y="499">&#xa9; 2026 NAVIG home labs &#xb7; Internal operational tool exclusively for TRISON</tspan></text>
+</svg>

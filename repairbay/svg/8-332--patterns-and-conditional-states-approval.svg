@@ -1,0 +1,154 @@
+<svg width="1380" height="2048" viewBox="0 0 1380 2048" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1380" height="2048" fill="#F3F7FA"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="32" y="53.6364">RepairBay / patterns &#38; conditional states</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="98.7273">Core behaviours for the repair card. These examples document existing rules; sample PO data below is illustrative.</tspan></text>
+<path d="M37 128.5H1343C1345.49 128.5 1347.5 130.515 1347.5 133V427C1347.5 429.485 1345.49 431.5 1343 431.5H37C34.5147 431.5 32.5 429.485 32.5 427V133C32.5 130.515 34.5147 128.5 37 128.5Z" fill="white"/>
+<path d="M37 128.5H1343C1345.49 128.5 1347.5 130.515 1347.5 133V427C1347.5 429.485 1345.49 431.5 1343 431.5H37C34.5147 431.5 32.5 429.485 32.5 427V133C32.5 130.515 34.5147 128.5 37 128.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="53" y="170.636">Fetch target preview / hover and keyboard focus</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="53" y="207.727">Only the targets of the focused fetch action are highlighted. Source tags stay subtle at rest. Focus and hover have the same target mapping.</tspan></text>
+<path d="M57 236H279C280.657 236 282 237.343 282 239V269C282 270.657 280.657 272 279 272H57C55.3431 272 54 270.657 54 269V239L54.0039 238.846C54.0842 237.261 55.3949 236 57 236Z" fill="#EDF5FF"/>
+<path d="M57 236H279C280.657 236 282 237.343 282 239V269C282 270.657 280.657 272 279 272H57C55.3431 272 54 270.657 54 269V239L54.0039 238.846C54.0842 237.261 55.3949 236 57 236Z" stroke="#1769B3" stroke-width="2"/>
+<path d="M123.5 257V261C123.5 261.53 123.289 262.039 122.914 262.414C122.539 262.789 122.03 263 121.5 263H107.5C106.97 263 106.461 262.789 106.086 262.414C105.711 262.039 105.5 261.53 105.5 261V257" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M109.5 252L114.5 257L119.5 252" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M114.5 257V245" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="130.5" y="258.364">Fetch from GSPN</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="299" y="243.727">Model &#xb7; Model code &#xb7; Version &#xb7; Purchase date &#xb7; Warranty expiry</tspan></text>
+<path d="M299 261C299 258.791 300.791 257 303 257H357C359.209 257 361 258.791 361 261V275C361 277.209 359.209 279 357 279H303C300.791 279 299 277.209 299 275V261Z" fill="#EDF5FF"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="314.5" y="272">GSPN</tspan></text>
+<path d="M57 302H279C280.657 302 282 303.343 282 305V335C282 336.657 280.657 338 279 338H57C55.3431 338 54 336.657 54 335V305L54.0039 304.846C54.0842 303.261 55.3949 302 57 302Z" fill="#F3EEFC"/>
+<path d="M57 302H279C280.657 302 282 303.343 282 305V335C282 336.657 280.657 338 279 338H57C55.3431 338 54 336.657 54 335V305L54.0039 304.846C54.0842 303.261 55.3949 302 57 302Z" stroke="#7051B5" stroke-width="2"/>
+<path d="M119.5 323V327C119.5 327.53 119.289 328.039 118.914 328.414C118.539 328.789 118.03 329 117.5 329H103.5C102.97 329 102.461 328.789 102.086 328.414C101.711 328.039 101.5 327.53 101.5 327V323" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M105.5 318L110.5 323L115.5 318" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M110.5 323V311" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#7051B5" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="126.5" y="324.364">Fetch from Simpro</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="299" y="309.727">Job site &#xb7; Franchisee / Fz &#xb7; Received &#xb7; Repair comments</tspan></text>
+<path d="M299 327C299 324.791 300.791 323 303 323H357C359.209 323 361 324.791 361 327V341C361 343.209 359.209 345 357 345H303C300.791 345 299 343.209 299 341V327Z" fill="#F3EEFC"/>
+<text fill="#7051B5" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="311.5" y="338">Simpro</tspan></text>
+<path d="M57 368H279C280.657 368 282 369.343 282 371V401C282 402.657 280.657 404 279 404H57C55.3431 404 54 402.657 54 401V371L54.0039 370.846C54.0842 369.261 55.3949 368 57 368Z" fill="#E9F7F6"/>
+<path d="M57 368H279C280.657 368 282 369.343 282 371V401C282 402.657 280.657 404 279 404H57C55.3431 404 54 402.657 54 401V371L54.0039 370.846C54.0842 369.261 55.3949 368 57 368Z" stroke="#087F83" stroke-width="2"/>
+<path d="M106.5 389V393C106.5 393.53 106.289 394.039 105.914 394.414C105.539 394.789 105.03 395 104.5 395H90.5C89.9696 395 89.4609 394.789 89.0858 394.414C88.7107 394.039 88.5 393.53 88.5 393V389" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M92.5 384L97.5 389L102.5 384" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M97.5 389V377" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#087F83" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="113.5" y="390.364">Fetch claim from GSPN</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="299" y="375.727">Claim / credit number &#xb7; Total claim amount (&#xa3;)</tspan></text>
+<path d="M299 393C299 390.791 300.791 389 303 389H383C385.209 389 387 390.791 387 393V407C387 409.209 385.209 411 383 411H303C300.791 411 299 409.209 299 407V393Z" fill="#E9F7F6"/>
+<text fill="#087F83" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="312.5" y="404">GSPN claim</tspan></text>
+<path d="M37 456.5H1343C1345.49 456.5 1347.5 458.515 1347.5 461V761C1347.5 763.485 1345.49 765.5 1343 765.5H37C34.5147 765.5 32.5 763.485 32.5 761V461C32.5 458.515 34.5147 456.5 37 456.5Z" fill="white"/>
+<path d="M37 456.5H1343C1345.49 456.5 1347.5 458.515 1347.5 461V761C1347.5 763.485 1345.49 765.5 1343 765.5H37C34.5147 765.5 32.5 763.485 32.5 761V461C32.5 458.515 34.5147 456.5 37 456.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="53" y="498.636">IW claim / credit &#xb7; conditional footer</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="53" y="535.727">No surrounding frame. Claim fetch is teal and distinct from blue parts fetching.</tspan></text>
+<rect width="1276" height="188" transform="translate(53 557)" fill="white"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="69" y="589.455">IW claim / credit</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="69" y="621.727">Claim number and total invoice amount, including labour, parts and other charges. This does not confirm approval or payment.</tspan></text>
+<path d="M73 663.5H295C296.933 663.5 298.5 665.067 298.5 667V697C298.5 698.933 296.933 700.5 295 700.5H73C71.067 700.5 69.5 698.933 69.5 697V667L69.5049 666.82C69.5984 664.971 71.1273 663.5 73 663.5Z" fill="#EDF2F6"/>
+<path d="M73 663.5H295C296.933 663.5 298.5 665.067 298.5 667V697C298.5 698.933 296.933 700.5 295 700.5H73C71.067 700.5 69.5 698.933 69.5 697V667L69.5049 666.82C69.5984 664.971 71.1273 663.5 73 663.5Z" stroke="#E3EAF0"/>
+<path d="M122.5 685V689C122.5 689.53 122.289 690.039 121.914 690.414C121.539 690.789 121.03 691 120.5 691H106.5C105.97 691 105.461 690.789 105.086 690.414C104.711 690.039 104.5 689.53 104.5 689V685" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M108.5 680L113.5 685L118.5 680" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M113.5 685V673" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#697A8F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="129.5" y="686.364">Fetch claim from GSPN</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="315" y="652.364">Claim / credit number</tspan></text>
+<path d="M319 663.5H741C742.933 663.5 744.5 665.067 744.5 667V697C744.5 698.933 742.933 700.5 741 700.5H319C317.067 700.5 315.5 698.933 315.5 697V667L315.505 666.82C315.598 664.971 317.127 663.5 319 663.5Z" fill="white"/>
+<path d="M319 663.5H741C742.933 663.5 744.5 665.067 744.5 667V697C744.5 698.933 742.933 700.5 741 700.5H319C317.067 700.5 315.5 698.933 315.5 697V667L315.505 666.82C315.598 664.971 317.127 663.5 319 663.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="761" y="652.364">Total claim amount (&#xa3;)</tspan></text>
+<path d="M765 663.5H1225C1226.93 663.5 1228.5 665.067 1228.5 667V697C1228.5 698.933 1226.93 700.5 1225 700.5H765C763.067 700.5 761.5 698.933 761.5 697V667L761.505 666.82C761.598 664.971 763.127 663.5 765 663.5Z" fill="white"/>
+<path d="M765 663.5H1225C1226.93 663.5 1228.5 665.067 1228.5 667V697C1228.5 698.933 1226.93 700.5 1225 700.5H765C763.067 700.5 761.5 698.933 761.5 697V667L761.505 666.82C761.598 664.971 763.127 663.5 765 663.5Z" stroke="#CDDAE7"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="69" y="725">Automatic claim lookup will be connected later. Enter the claim number and amount manually for now.</tspan></text>
+<path d="M37 790.5H1343C1345.49 790.5 1347.5 792.515 1347.5 795V1061C1347.5 1063.49 1345.49 1065.5 1343 1065.5H37C34.5147 1065.5 32.5 1063.49 32.5 1061V795C32.5 792.515 34.5147 790.5 37 790.5Z" fill="white"/>
+<path d="M37 790.5H1343C1345.49 790.5 1347.5 792.515 1347.5 795V1061C1347.5 1063.49 1345.49 1065.5 1343 1065.5H37C34.5147 1065.5 32.5 1063.49 32.5 1061V795C32.5 792.515 34.5147 790.5 37 790.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="53" y="832.636">OOW approval</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="53" y="869.727">Conditional fields keep the same 6 px label gap, 24 px columns and 38 px controls.</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="53" y="907.455">OOW approval</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="53" y="942.364">Approved by</tspan></text>
+<path d="M57 953.5H633C634.933 953.5 636.5 955.067 636.5 957V987C636.5 988.933 634.933 990.5 633 990.5H57C55.067 990.5 53.5 988.933 53.5 987V957L53.5049 956.82C53.5984 954.971 55.1273 953.5 57 953.5Z" fill="white"/>
+<path d="M57 953.5H633C634.933 953.5 636.5 955.067 636.5 957V987C636.5 988.933 634.933 990.5 633 990.5H57C55.067 990.5 53.5 988.933 53.5 987V957L53.5049 956.82C53.5984 954.971 55.1273 953.5 57 953.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="661" y="942.364">Approval date</tspan></text>
+<path d="M665 953.5H1241C1242.93 953.5 1244.5 955.067 1244.5 957V987C1244.5 988.933 1242.93 990.5 1241 990.5H665C663.067 990.5 661.5 988.933 661.5 987V957L661.505 956.82C661.598 954.971 663.127 953.5 665 953.5Z" fill="white"/>
+<path d="M665 953.5H1241C1242.93 953.5 1244.5 955.067 1244.5 957V987C1244.5 988.933 1242.93 990.5 1241 990.5H665C663.067 990.5 661.5 988.933 661.5 987V957L661.505 956.82C661.598 954.971 663.127 953.5 665 953.5Z" stroke="#CDDAE7"/>
+<path d="M1233 965H1219C1217.9 965 1217 965.895 1217 967V979C1217 980.105 1217.9 981 1219 981H1233C1234.1 981 1235 980.105 1235 979V967C1235 965.895 1234.1 965 1233 965Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1230 963V967M1222 963V967M1217 971H1235" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M57 1007.5H209C210.933 1007.5 212.5 1009.07 212.5 1011V1041C212.5 1042.93 210.933 1044.5 209 1044.5H57C55.067 1044.5 53.5 1042.93 53.5 1041V1011L53.5049 1010.82C53.5984 1008.97 55.1273 1007.5 57 1007.5Z" fill="white"/>
+<path d="M57 1007.5H209C210.933 1007.5 212.5 1009.07 212.5 1011V1041C212.5 1042.93 210.933 1044.5 209 1044.5H57C55.067 1044.5 53.5 1042.93 53.5 1041V1011L53.5049 1010.82C53.5984 1008.97 55.1273 1007.5 57 1007.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="80" y="1030.36">Copy OOW details</tspan></text>
+<path d="M37 1090.5H1343C1345.49 1090.5 1347.5 1092.51 1347.5 1095V1307C1347.5 1309.49 1345.49 1311.5 1343 1311.5H37C34.5147 1311.5 32.5 1309.49 32.5 1307V1095C32.5 1092.51 34.5147 1090.5 37 1090.5Z" fill="white"/>
+<path d="M37 1090.5H1343C1345.49 1090.5 1347.5 1092.51 1347.5 1095V1307C1347.5 1309.49 1345.49 1311.5 1343 1311.5H37C34.5147 1311.5 32.5 1309.49 32.5 1307V1095C32.5 1092.51 34.5147 1090.5 37 1090.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="53" y="1132.64">WEEE approval</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="53" y="1169.73">Conditional fields keep the same 6 px label gap, 24 px columns and 38 px controls.</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="53" y="1207.45">WEEE approval</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="53" y="1242.36">Approved by</tspan></text>
+<path d="M57 1253.5H430.333C432.266 1253.5 433.833 1255.07 433.833 1257V1287C433.833 1288.93 432.266 1290.5 430.333 1290.5H57C55.067 1290.5 53.5 1288.93 53.5 1287V1257L53.5049 1256.82C53.5984 1254.97 55.1273 1253.5 57 1253.5Z" fill="white"/>
+<path d="M57 1253.5H430.333C432.266 1253.5 433.833 1255.07 433.833 1257V1287C433.833 1288.93 432.266 1290.5 430.333 1290.5H57C55.067 1290.5 53.5 1288.93 53.5 1287V1257L53.5049 1256.82C53.5984 1254.97 55.1273 1253.5 57 1253.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="458.333" y="1242.36">Approval date</tspan></text>
+<path d="M462.333 1253.5H835.666C837.599 1253.5 839.166 1255.07 839.166 1257V1287C839.166 1288.93 837.599 1290.5 835.666 1290.5H462.333C460.4 1290.5 458.833 1288.93 458.833 1287V1257L458.838 1256.82C458.932 1254.97 460.461 1253.5 462.333 1253.5Z" fill="white"/>
+<path d="M462.333 1253.5H835.666C837.599 1253.5 839.166 1255.07 839.166 1257V1287C839.166 1288.93 837.599 1290.5 835.666 1290.5H462.333C460.4 1290.5 458.833 1288.93 458.833 1287V1257L458.838 1256.82C458.932 1254.97 460.461 1253.5 462.333 1253.5Z" stroke="#CDDAE7"/>
+<path d="M827.667 1265H813.667C812.562 1265 811.667 1265.9 811.667 1267V1279C811.667 1280.1 812.562 1281 813.667 1281H827.667C828.771 1281 829.667 1280.1 829.667 1279V1267C829.667 1265.9 828.771 1265 827.667 1265Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M824.667 1263V1267M816.667 1263V1267M811.667 1271H829.667" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="863.667" y="1242.36">Approval source</tspan></text>
+<path d="M867.667 1253.5H1241C1242.93 1253.5 1244.5 1255.07 1244.5 1257V1287C1244.5 1288.93 1242.93 1290.5 1241 1290.5H867.667C865.734 1290.5 864.167 1288.93 864.167 1287V1257L864.172 1256.82C864.265 1254.97 865.794 1253.5 867.667 1253.5Z" fill="white"/>
+<path d="M867.667 1253.5H1241C1242.93 1253.5 1244.5 1255.07 1244.5 1257V1287C1244.5 1288.93 1242.93 1290.5 1241 1290.5H867.667C865.734 1290.5 864.167 1288.93 864.167 1287V1257L864.172 1256.82C864.265 1254.97 865.794 1253.5 867.667 1253.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="874.667" y="1276.73">Email, phone call, etc.</tspan></text>
+<path d="M37 1336.5H1343C1345.49 1336.5 1347.5 1338.51 1347.5 1341V1721C1347.5 1723.49 1345.49 1725.5 1343 1725.5H37C34.5147 1725.5 32.5 1723.49 32.5 1721V1341C32.5 1338.51 34.5147 1336.5 37 1336.5Z" fill="white"/>
+<path d="M37 1336.5H1343C1345.49 1336.5 1347.5 1338.51 1347.5 1341V1721C1347.5 1723.49 1345.49 1725.5 1343 1725.5H37C34.5147 1725.5 32.5 1723.49 32.5 1721V1341C32.5 1338.51 34.5147 1336.5 37 1336.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="53" y="1378.64">Confirmation modal</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="53" y="1415.73">Example width 620; header/footer padding24, radius6. Do not open an irreversible action from a disclosure click.</tspan></text>
+<path d="M59 1437.5H667C670.038 1437.5 672.5 1439.96 672.5 1443V1699C672.5 1702.04 670.038 1704.5 667 1704.5H59C55.9624 1704.5 53.5 1702.04 53.5 1699V1443C53.5 1439.96 55.9624 1437.5 59 1437.5Z" fill="white"/>
+<path d="M59 1437.5H667C670.038 1437.5 672.5 1439.96 672.5 1443V1699C672.5 1702.04 670.038 1704.5 667 1704.5H59C55.9624 1704.5 53.5 1702.04 53.5 1699V1443C53.5 1439.96 55.9624 1437.5 59 1437.5Z" stroke="#CDDAE7"/>
+<rect width="620" height="76" transform="translate(54 1438)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="78" y="1483.64">Confirm repair outcome</tspan></text>
+<path d="M626 1468L614 1480" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M614 1468L626 1480" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="78" y="1552.73">Confirming will lock this repair. All job fields become read-only.</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="78" y="1588.73">The repair remains in Active jobs for seven days, then moves to the archive.</tspan></text>
+<path d="M330 1642.5H422C423.933 1642.5 425.5 1644.07 425.5 1646V1676C425.5 1677.93 423.933 1679.5 422 1679.5H330C328.067 1679.5 326.5 1677.93 326.5 1676V1646L326.505 1645.82C326.598 1643.97 328.127 1642.5 330 1642.5Z" fill="white"/>
+<path d="M330 1642.5H422C423.933 1642.5 425.5 1644.07 425.5 1646V1676C425.5 1677.93 423.933 1679.5 422 1679.5H330C328.067 1679.5 326.5 1677.93 326.5 1676V1646L326.505 1645.82C326.598 1643.97 328.127 1642.5 330 1642.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="355.5" y="1665.36">Cancel</tspan></text>
+<path d="M442 1642.5H646C647.933 1642.5 649.5 1644.07 649.5 1646V1676C649.5 1677.93 647.933 1679.5 646 1679.5H442C440.067 1679.5 438.5 1677.93 438.5 1676V1646L438.505 1645.82C438.598 1643.97 440.127 1642.5 442 1642.5Z" fill="#2D805F"/>
+<path d="M442 1642.5H646C647.933 1642.5 649.5 1644.07 649.5 1646V1676C649.5 1677.93 647.933 1679.5 646 1679.5H442C440.067 1679.5 438.5 1677.93 438.5 1676V1646L438.505 1645.82C438.598 1643.97 440.127 1642.5 442 1642.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="476" y="1665.36">Confirm and lock repair</tspan></text>
+<path d="M37 1750.5H1343C1345.49 1750.5 1347.5 1752.51 1347.5 1755V2011C1347.5 2013.49 1345.49 2015.5 1343 2015.5H37C34.5147 2015.5 32.5 2013.49 32.5 2011V1755C32.5 1752.51 34.5147 1750.5 37 1750.5Z" fill="white"/>
+<path d="M37 1750.5H1343C1345.49 1750.5 1347.5 1752.51 1347.5 1755V2011C1347.5 2013.49 1345.49 2015.5 1343 2015.5H37C34.5147 2015.5 32.5 2013.49 32.5 2011V1755C32.5 1752.51 34.5147 1750.5 37 1750.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="53" y="1792.64">Repair status icons / 24 px</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="53" y="1829.73">Icons only in job-list cells, with accessible names and tooltips. Archive is a secondary marker; it never replaces the repair outcome.</tspan></text>
+<path d="M70 1856H60C58.8954 1856 58 1856.9 58 1858V1870C58 1871.1 58.8954 1872 60 1872H70C71.1046 1872 72 1871.1 72 1870V1858C72 1856.9 71.1046 1856 70 1856Z" stroke="#657D98" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M62 1856V1854H68V1856M62 1861H68M62 1865H68M62 1869H66" stroke="#657D98" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="87" y="1867.73">Registered</tspan></text>
+<g clip-path="url(#clip0_8_332)">
+<path d="M375 1854V1859C375 1860.33 375.527 1861.6 376.464 1862.54C377.402 1863.47 378.674 1864 380 1864M380 1864C381.326 1864 382.598 1863.47 383.536 1862.54C384.473 1861.6 385 1860.33 385 1859V1854M380 1864V1866C380 1867.33 380.527 1868.6 381.464 1869.54C382.402 1870.47 383.674 1871 385 1871C386.326 1871 387.598 1870.47 388.536 1869.54C389.473 1868.6 390 1867.33 390 1866V1863M373 1854H377M383 1854H387" stroke="#1769B3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M390 1863C391.657 1863 393 1861.66 393 1860C393 1858.34 391.657 1857 390 1857C388.343 1857 387 1858.34 387 1860C387 1861.66 388.343 1863 390 1863Z" stroke="#1769B3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="403" y="1867.73">Assessment</tspan></text>
+<path d="M701 1870L697 1872L688 1868V1858L697 1854L706 1858L697 1862M688 1858L697 1862M697 1862V1872M702 1865H708M705 1862V1868" stroke="#855400" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="719" y="1867.73">Parts required</tspan></text>
+<path d="M1013 1862V1872L1004 1868V1858L1013 1854L1022 1858L1013 1862ZM1004 1858L1013 1862" stroke="#855400" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1020 1872C1022.21 1872 1024 1870.21 1024 1868C1024 1865.79 1022.21 1864 1020 1864C1017.79 1864 1016 1865.79 1016 1868C1016 1870.21 1017.79 1872 1020 1872Z" stroke="#855400" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1020 1866V1868L1022 1869" stroke="#855400" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1035" y="1867.73">Awaiting parts</tspan></text>
+<path d="M65 1902V1912L56 1908V1898L65 1894L74 1898L65 1902ZM56 1898L65 1902M68 1908L70 1910L75 1904" stroke="#1769B3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="87" y="1907.73">Ready to repair</tspan></text>
+<path d="M383 1897C382.881 1896.34 382.63 1895.71 382.261 1895.14C381.891 1894.58 381.412 1894.1 380.852 1893.72C380.292 1893.35 379.662 1893.09 379 1892.97C378.338 1892.84 377.658 1892.85 377 1893L380 1896L377 1899L374 1896C373.681 1896.72 373.535 1897.5 373.575 1898.28C373.614 1899.07 373.838 1899.83 374.227 1900.51C374.617 1901.19 375.161 1901.78 375.817 1902.21C376.472 1902.64 377.22 1902.91 378 1903L387 1912L390 1909L381 1900C382.017 1899.28 382.73 1898.21 383 1897Z" stroke="#1769B3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="403" y="1907.73">Repair in progress</tspan></text>
+<path d="M694 1901C696.209 1901 698 1899.21 698 1897C698 1894.79 696.209 1893 694 1893C691.791 1893 690 1894.79 690 1897C690 1899.21 691.791 1901 694 1901Z" stroke="#855400" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M687 1912V1909C686.98 1907.6 687.379 1906.23 688.147 1905.06C688.915 1903.89 690.015 1902.98 691.307 1902.44C692.599 1901.9 694.022 1901.76 695.393 1902.04C696.765 1902.32 698.021 1903 699 1904" stroke="#855400" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M703 1913C705.761 1913 708 1910.76 708 1908C708 1905.24 705.761 1903 703 1903C700.239 1903 698 1905.24 698 1908C698 1910.76 700.239 1913 703 1913Z" stroke="#855400" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M703 1905V1908L705 1909" stroke="#855400" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="719" y="1907.73">Awaiting OOW approval</tspan></text>
+<path d="M1013 1902V1912L1004 1908V1898L1013 1894L1022 1898L1013 1902ZM1004 1898L1013 1902" stroke="#B4232C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1020 1912C1022.21 1912 1024 1910.21 1024 1908C1024 1905.79 1022.21 1904 1020 1904C1017.79 1904 1016 1905.79 1016 1908C1016 1910.21 1017.79 1912 1020 1912Z" stroke="#B4232C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1020 1906V1908M1020 1910H1020.01" stroke="#B4232C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1035" y="1907.73">DOA received</tspan></text>
+<path d="M56 1939C56.3451 1937.68 57.021 1936.47 57.9636 1935.49C58.9062 1934.51 60.0843 1933.78 61.3863 1933.38C62.6883 1932.98 64.071 1932.92 65.4034 1933.2C66.7358 1933.49 67.9738 1934.1 69 1935M61 1939H56V1934M68 1953L74 1950V1943L68 1940L62 1943V1950L68 1953ZM62 1943L68 1946M74 1943L68 1946M68 1946V1953" stroke="#855400" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="87" y="1947.73">Returns pending</tspan></text>
+<path d="M381 1952C385.971 1952 390 1947.97 390 1943C390 1938.03 385.971 1934 381 1934C376.029 1934 372 1938.03 372 1943C372 1947.97 376.029 1952 381 1952Z" stroke="#17613C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M376 1943L379 1946L386 1939" stroke="#17613C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="403" y="1947.73">Repaired</tspan></text>
+<path d="M692 1942L698 1933C700 1933 701 1935 700 1938L699 1941H705C707 1941 707 1943 706 1945L704 1951H692M692 1941V1953H688V1941H692Z" stroke="#1769B3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="719" y="1947.73">QC pass</tspan></text>
+<path d="M1004 1937H1022M1010 1937V1934H1016V1937M1006 1937L1007 1952H1019L1020 1937M1011 1941V1948M1015 1941V1948" stroke="#B4232C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1035" y="1947.73">WEEE</tspan></text>
+<path d="M58 1979V1992H72V1979M63 1983H67M56 1974H74V1979H56V1974Z" stroke="#657D98" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="87" y="1987.73">Archive marker</tspan></text>
+<defs>
+<clipPath id="clip0_8_332">
+<rect width="24" height="24" fill="white" transform="translate(369 1851)"/>
+</clipPath>
+</defs>
+</svg>

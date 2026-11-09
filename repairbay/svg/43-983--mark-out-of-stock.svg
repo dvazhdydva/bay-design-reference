@@ -1,0 +1,22 @@
+<svg width="621" height="343" viewBox="0 0 621 343" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 0.5H614C617.038 0.5 619.5 2.96243 619.5 6V337C619.5 340.038 617.038 342.5 614 342.5H6C2.96243 342.5 0.5 340.038 0.5 337V6C0.5 2.96243 2.96243 0.5 6 0.5Z" fill="white"/>
+<path d="M6 0.5H614C617.038 0.5 619.5 2.96243 619.5 6V337C619.5 340.038 617.038 342.5 614 342.5H6C2.96243 342.5 0.5 340.038 0.5 337V6C0.5 2.96243 2.96243 0.5 6 0.5Z" stroke="#E3EAF0"/>
+<rect width="620" height="72" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="25" y="43.1818">Mark Out of stock?</tspan></text>
+<path d="M593 31L581 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M581 31L593 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="25" y="113.455">BN44-00974A &#xb7; Power supply board</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="25" y="149.727">Reading / Crate #3 &#xb7; expected quantity: 1</tspan></text>
+<path d="M25 175C25 172.791 26.7909 171 29 171H593C595.209 171 597 172.791 597 175V227C597 229.209 595.209 231 593 231H29C26.7909 231 25 229.209 25 227V175Z" fill="#EDF5FF"/>
+<path d="M45 205C50.5228 205 55 200.523 55 195C55 189.477 50.5228 185 45 185C39.4772 185 35 189.477 35 195C35 200.523 39.4772 205 45 205Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45 199V195" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45 191H45.01" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="65" y="196.364">This records a count of 0 in the draft. Stock changes only when the entire stock take is </tspan><tspan x="65" y="214.364">confirmed.</tspan></text>
+<rect x="1" y="255" width="620" height="1" fill="#E3EAF0"/>
+<path d="M309 280.5H401C402.933 280.5 404.5 282.067 404.5 284V314C404.5 315.933 402.933 317.5 401 317.5H309C307.067 317.5 305.5 315.933 305.5 314V284L305.505 283.82C305.598 281.971 307.127 280.5 309 280.5Z" fill="white"/>
+<path d="M309 280.5H401C402.933 280.5 404.5 282.067 404.5 284V314C404.5 315.933 402.933 317.5 401 317.5H309C307.067 317.5 305.5 315.933 305.5 314V284L305.505 283.82C305.598 281.971 307.127 280.5 309 280.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="334.5" y="303.364">Cancel</tspan></text>
+<path d="M421 280.5H593C594.933 280.5 596.5 282.067 596.5 284V314C596.5 315.933 594.933 317.5 593 317.5H421C419.067 317.5 417.5 315.933 417.5 314V284L417.505 283.82C417.598 281.971 419.127 280.5 421 280.5Z" fill="#2D805F"/>
+<path d="M421 280.5H593C594.933 280.5 596.5 282.067 596.5 284V314C596.5 315.933 594.933 317.5 593 317.5H421C419.067 317.5 417.5 315.933 417.5 314V284L417.505 283.82C417.598 281.971 419.127 280.5 421 280.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="454" y="303.364">Record zero count</tspan></text>
+</svg>

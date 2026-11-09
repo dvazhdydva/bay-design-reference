@@ -1,0 +1,24 @@
+<svg width="1280" height="542" viewBox="0 0 1280 542" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="542" fill="#F3F7FA"/>
+<path d="M166 32.5H1114C1117.04 32.5 1119.5 34.9624 1119.5 38V468C1119.5 471.038 1117.04 473.5 1114 473.5H166C162.962 473.5 160.5 471.038 160.5 468V38C160.5 34.9624 162.962 32.5 166 32.5Z" fill="white"/>
+<path d="M166 32.5H1114C1117.04 32.5 1119.5 34.9624 1119.5 38V468C1119.5 471.038 1117.04 473.5 1114 473.5H166C162.962 473.5 160.5 471.038 160.5 468V38C160.5 34.9624 162.962 32.5 166 32.5Z" stroke="#CDDAE7"/>
+<rect width="420" height="440" transform="translate(161 33)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="193" y="245.182">RepairBay</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="193" y="283.727">Internal operational tool</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="613" y="86.6364">Sign in</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="613" y="127.727">Use your RepairBay account to continue.</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="613" y="166.364">Username</tspan></text>
+<path d="M617 177.5H1085C1086.93 177.5 1088.5 179.067 1088.5 181V211C1088.5 212.933 1086.93 214.5 1085 214.5H617C615.067 214.5 613.5 212.933 613.5 211V181L613.505 180.82C613.598 178.971 615.127 177.5 617 177.5Z" fill="white"/>
+<path d="M617 177.5H1085C1086.93 177.5 1088.5 179.067 1088.5 181V211C1088.5 212.933 1086.93 214.5 1085 214.5H617C615.067 214.5 613.5 212.933 613.5 211V181L613.505 180.82C613.598 178.971 615.127 177.5 617 177.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="624" y="200.727">Enter your username</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="613" y="248.364">Password</tspan></text>
+<path d="M617 259.5H1085C1086.93 259.5 1088.5 261.067 1088.5 263V293C1088.5 294.933 1086.93 296.5 1085 296.5H617C615.067 296.5 613.5 294.933 613.5 293V263L613.505 262.82C613.598 260.971 615.127 259.5 617 259.5Z" fill="white"/>
+<path d="M617 259.5H1085C1086.93 259.5 1088.5 261.067 1088.5 263V293C1088.5 294.933 1086.93 296.5 1085 296.5H617C615.067 296.5 613.5 294.933 613.5 293V263L613.505 262.82C613.598 260.971 615.127 259.5 617 259.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="624" y="282.727">&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;</tspan></text>
+<path d="M617 317.5H1085C1086.93 317.5 1088.5 319.067 1088.5 321V351C1088.5 352.933 1086.93 354.5 1085 354.5H617C615.067 354.5 613.5 352.933 613.5 351V321L613.505 320.82C613.598 318.971 615.127 317.5 617 317.5Z" fill="#2D805F"/>
+<path d="M617 317.5H1085C1086.93 317.5 1088.5 319.067 1088.5 321V351C1088.5 352.933 1086.93 354.5 1085 354.5H617C615.067 354.5 613.5 352.933 613.5 351V321L613.505 320.82C613.598 318.971 615.127 317.5 617 317.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="831" y="340.364">Sign in</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="613" y="387">Need access? Contact your administrator.</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="613" y="423">Version 5.0</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="507" y="506">&#xa9; 2026 NAVIG home labs &#xb7; Internal operational tool</tspan></text>
+</svg>

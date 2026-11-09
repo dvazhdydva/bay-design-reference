@@ -1,0 +1,32 @@
+<svg width="721" height="443" viewBox="0 0 721 443" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 0.5H714C717.038 0.5 719.5 2.96243 719.5 6V437C719.5 440.038 717.038 442.5 714 442.5H6C2.96243 442.5 0.5 440.038 0.5 437V6C0.500001 2.96243 2.96244 0.5 6 0.5Z" fill="white"/>
+<path d="M6 0.5H714C717.038 0.5 719.5 2.96243 719.5 6V437C719.5 440.038 717.038 442.5 714 442.5H6C2.96243 442.5 0.5 440.038 0.5 437V6C0.500001 2.96243 2.96244 0.5 6 0.5Z" stroke="#E3EAF0"/>
+<rect width="720" height="72" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="25" y="43.1818">Create shipment</tspan></text>
+<path d="M693 31L681 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M681 31L693 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="25" y="113.455">Reading &#xb7; 2 selected parts &#xb7; IW</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="25" y="148.364">Fiscal period *</tspan></text>
+<path d="M29 159.5H693C694.933 159.5 696.5 161.067 696.5 163V193C696.5 194.933 694.933 196.5 693 196.5H29C27.067 196.5 25.5 194.933 25.5 193V163L25.5049 162.82C25.5984 160.971 27.1273 159.5 29 159.5Z" fill="white"/>
+<path d="M29 159.5H693C694.933 159.5 696.5 161.067 696.5 163V193C696.5 194.933 694.933 196.5 693 196.5H29C27.067 196.5 25.5 194.933 25.5 193V163L25.5049 162.82C25.5984 160.971 27.1273 159.5 29 159.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="36" y="182.727">202611</tspan></text>
+<path d="M672 175L678 181L684 175" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="25" y="226.364">Return type *</tspan></text>
+<path d="M29 237.5H345C346.933 237.5 348.5 239.067 348.5 241V271C348.5 272.933 346.933 274.5 345 274.5H29C27.067 274.5 25.5 272.933 25.5 271V241L25.5049 240.82C25.5984 238.971 27.1273 237.5 29 237.5Z" fill="white"/>
+<path d="M29 237.5H345C346.933 237.5 348.5 239.067 348.5 241V271C348.5 272.933 346.933 274.5 345 274.5H29C27.067 274.5 25.5 272.933 25.5 271V241L25.5049 240.82C25.5984 238.971 27.1273 237.5 29 237.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="36" y="260.727">IW</tspan></text>
+<path d="M324 253L330 259L336 253" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="373" y="226.364">Package *</tspan></text>
+<path d="M377 237.5H693C694.933 237.5 696.5 239.067 696.5 241V271C696.5 272.933 694.933 274.5 693 274.5H377C375.067 274.5 373.5 272.933 373.5 271V241L373.505 240.82C373.598 238.971 375.127 237.5 377 237.5Z" fill="white"/>
+<path d="M377 237.5H693C694.933 237.5 696.5 239.067 696.5 241V271C696.5 272.933 694.933 274.5 693 274.5H377C375.067 274.5 373.5 272.933 373.5 271V241L373.505 240.82C373.598 238.971 375.127 237.5 377 237.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="384" y="260.727">Pallet</tspan></text>
+<path d="M672 253L678 259L684 253" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="25" y="305.727">Periods: current month through six months earlier. Selected parts move into this shipment after creation. IW, </tspan><tspan x="25" y="325.727">OOW and DOA remain separate.</tspan></text>
+<rect x="1" y="355" width="720" height="1" fill="#E3EAF0"/>
+<path d="M409 380.5H501C502.933 380.5 504.5 382.067 504.5 384V414C504.5 415.933 502.933 417.5 501 417.5H409C407.067 417.5 405.5 415.933 405.5 414V384L405.505 383.82C405.598 381.971 407.127 380.5 409 380.5Z" fill="white"/>
+<path d="M409 380.5H501C502.933 380.5 504.5 382.067 504.5 384V414C504.5 415.933 502.933 417.5 501 417.5H409C407.067 417.5 405.5 415.933 405.5 414V384L405.505 383.82C405.598 381.971 407.127 380.5 409 380.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="434.5" y="403.364">Cancel</tspan></text>
+<path d="M521 380.5H693C694.933 380.5 696.5 382.067 696.5 384V414C696.5 415.933 694.933 417.5 693 417.5H521C519.067 417.5 517.5 415.933 517.5 414V384L517.505 383.82C517.598 381.971 519.127 380.5 521 380.5Z" fill="#2D805F"/>
+<path d="M521 380.5H693C694.933 380.5 696.5 382.067 696.5 384V414C696.5 415.933 694.933 417.5 693 417.5H521C519.067 417.5 517.5 415.933 517.5 414V384L517.505 383.82C517.598 381.971 519.127 380.5 521 380.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="558.5" y="403.364">Create shipment</tspan></text>
+</svg>

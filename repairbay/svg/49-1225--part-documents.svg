@@ -1,0 +1,28 @@
+<svg width="761" height="402" viewBox="0 0 761 402" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 0.5H755C757.485 0.5 759.5 2.51472 759.5 5V397C759.5 399.485 757.485 401.5 755 401.5H5C2.51472 401.5 0.5 399.485 0.5 397V5C0.500002 2.51472 2.51472 0.5 5 0.5Z" fill="white"/>
+<path d="M5 0.5H755C757.485 0.5 759.5 2.51472 759.5 5V397C759.5 399.485 757.485 401.5 755 401.5H5C2.51472 401.5 0.5 399.485 0.5 397V5C0.500002 2.51472 2.51472 0.5 5 0.5Z" stroke="#E3EAF0"/>
+<rect width="760" height="72" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="25" y="43.1818">Part documents</tspan></text>
+<path d="M734 31L722 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M722 31L734 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="25" y="113.455">BN94-18167C &#xb7; linked bulletins and documents</tspan></text>
+<rect x="25.5" y="135.5" width="711" height="155" stroke="#E3EAF0"/>
+<rect width="712" height="48" transform="translate(26 136)" fill="#EFF4F8"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="34" y="164.364">Document</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="394" y="164.364">Source</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="604" y="164.364">Action</tspan></text>
+<rect width="712" height="52" transform="translate(26 184)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="34" y="214.727">Service bulletin.pdf</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="394" y="214.727">Previous PO</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="604" y="214.727">Download</tspan></text>
+<rect x="26" y="236" width="712" height="1" fill="#E3EAF0"/>
+<rect width="712" height="52" transform="translate(26 237)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="34" y="267.727">Repair guide.pdf</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="394" y="267.727">Repair history</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="604" y="267.727">Download</tspan></text>
+<rect x="26" y="289" width="712" height="1" fill="#E3EAF0"/>
+<path d="M29 307.5H191C192.933 307.5 194.5 309.067 194.5 311V341C194.5 342.933 192.933 344.5 191 344.5H29C27.067 344.5 25.5 342.933 25.5 341V311L25.5049 310.82C25.5984 308.971 27.1273 307.5 29 307.5Z" fill="white"/>
+<path d="M29 307.5H191C192.933 307.5 194.5 309.067 194.5 311V341C194.5 342.933 192.933 344.5 191 344.5H29C27.067 344.5 25.5 342.933 25.5 341V311L25.5049 310.82C25.5984 308.971 27.1273 307.5 29 307.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="58.5" y="330.364">Upload document</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="25" y="373">Part-number linkage follows company access rules.</tspan></text>
+</svg>

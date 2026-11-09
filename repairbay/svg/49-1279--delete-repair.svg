@@ -1,0 +1,16 @@
+<svg width="701" height="266" viewBox="0 0 701 266" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 0.5H695C697.485 0.5 699.5 2.51472 699.5 5V261C699.5 263.485 697.485 265.5 695 265.5H5C2.51472 265.5 0.5 263.485 0.5 261V5C0.5 2.51472 2.51472 0.5 5 0.5Z" fill="white"/>
+<path d="M5 0.5H695C697.485 0.5 699.5 2.51472 699.5 5V261C699.5 263.485 697.485 265.5 695 265.5H5C2.51472 265.5 0.5 263.485 0.5 261V5C0.5 2.51472 2.51472 0.5 5 0.5Z" stroke="#E3EAF0"/>
+<rect width="700" height="72" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="25" y="43.1818">Delete repair?</tspan></text>
+<path d="M674 31L662 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M662 31L674 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="25" y="113.455">Delete this repair and its linked draft data?</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="25" y="149.727">Review linked parts and stock allocations before confirming. This action is separate from repair history.</tspan></text>
+<path d="M389 203.5H481C482.933 203.5 484.5 205.067 484.5 207V237C484.5 238.933 482.933 240.5 481 240.5H389C387.067 240.5 385.5 238.933 385.5 237V207L385.505 206.82C385.598 204.971 387.127 203.5 389 203.5Z" fill="white"/>
+<path d="M389 203.5H481C482.933 203.5 484.5 205.067 484.5 207V237C484.5 238.933 482.933 240.5 481 240.5H389C387.067 240.5 385.5 238.933 385.5 237V207L385.505 206.82C385.598 204.971 387.127 203.5 389 203.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="414.5" y="226.364">Cancel</tspan></text>
+<path d="M501 203.5H673C674.933 203.5 676.5 205.067 676.5 207V237C676.5 238.933 674.933 240.5 673 240.5H501C499.067 240.5 497.5 238.933 497.5 237V207L497.505 206.82C497.598 204.971 499.127 203.5 501 203.5Z" fill="white"/>
+<path d="M501 203.5H673C674.933 203.5 676.5 205.067 676.5 207V237C676.5 238.933 674.933 240.5 673 240.5H501C499.067 240.5 497.5 238.933 497.5 237V207L497.505 206.82C497.598 204.971 499.127 203.5 501 203.5Z" stroke="#B4232C"/>
+<text fill="#B4232C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="549.5" y="226.364">Delete repair</tspan></text>
+</svg>

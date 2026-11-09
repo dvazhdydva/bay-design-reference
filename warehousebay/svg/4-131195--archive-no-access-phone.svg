@@ -1,0 +1,64 @@
+<svg width="390" height="546" viewBox="0 0 390 546" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_4_131195)">
+<rect width="390" height="546" fill="#F3F5F8"/>
+<g clip-path="url(#clip1_4_131195)">
+<rect width="390" height="156" fill="white"/>
+<mask id="path-1-inside-1_4_131195" fill="white">
+<path d="M0 0H390V64H0V0Z"/>
+</mask>
+<path d="M390 64V63H0V64V65H390V64Z" fill="#D6DEE7" mask="url(#path-1-inside-1_4_131195)"/>
+<rect x="16" y="16" width="32" height="32" rx="6" fill="#185DB4"/>
+<path d="M32.001 22.8496C32.1328 22.8497 32.2644 22.8746 32.3896 22.9238L32.5127 22.9814L32.5234 22.9873L40.4707 27.1699V27.1709L40.4834 27.1768C40.6751 27.2739 40.8435 27.4293 40.9639 27.6309C41.0844 27.8328 41.1504 28.0703 41.1504 28.3154V39.8945C41.1504 40.2411 41.0187 40.5654 40.7979 40.7979C40.5784 41.0288 40.2905 41.1504 40 41.1504H24C23.7095 41.1504 23.4216 41.0288 23.2021 40.7979C22.9813 40.5654 22.8496 40.2411 22.8496 39.8945V28.3154C22.8495 28.0703 22.9157 27.8328 23.0361 27.6309C23.1564 27.4292 23.3248 27.274 23.5166 27.1768L23.5273 27.1709L31.4775 22.9873L31.4883 22.9814C31.649 22.894 31.825 22.8496 32.001 22.8496Z" stroke="white" stroke-width="1.7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="18" letter-spacing="0em"><tspan x="57" y="38.5455">WarehouseBay</tspan></text>
+<rect x="330" y="10" width="44" height="44" rx="22" fill="#EAF2FD"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="342" y="36.3636">AM</tspan></text>
+<mask id="path-8-inside-2_4_131195" fill="white">
+<path d="M0 64H390V108H0V64Z"/>
+</mask>
+<path d="M390 108V107H0V108V109H390V108Z" fill="#E4E9EF" mask="url(#path-8-inside-2_4_131195)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="16" y="90.7273">North depot &#xb7; Manchester</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="367" y="90.3636">&#x2304;</tspan></text>
+<mask id="path-12-inside-3_4_131195" fill="white">
+<path d="M0 108H390V156H0V108Z"/>
+</mask>
+<path d="M390 156V155H0V156V157H390V156Z" fill="#D6DEE7" mask="url(#path-12-inside-3_4_131195)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="12" y="136.364">Inventory</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="99" y="136.364">Collection</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="189" y="136.364">Deinstall</tspan></text>
+<mask id="path-17-inside-4_4_131195" fill="white">
+<path d="M271 108H316V156H271V108Z"/>
+</mask>
+<path d="M316 156V153H271V156V159H316V156Z" fill="#185DB4" mask="url(#path-17-inside-4_4_131195)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="271" y="136.364">Archive</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="348" y="136.364">More</tspan></text>
+</g>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="26" font-weight="bold" letter-spacing="0em"><tspan x="16" y="196.955">Archive</tspan></text>
+<rect x="16.5" y="223.5" width="357" height="244" rx="7.5" fill="white"/>
+<rect x="16.5" y="223.5" width="357" height="244" rx="7.5" stroke="#D6DEE7"/>
+<path d="M44.1667 254.666V251.166C44.1667 249.619 44.7812 248.135 45.8752 247.041C46.9692 245.947 48.4529 245.332 50 245.332C51.5471 245.332 53.0308 245.947 54.1248 247.041C55.2188 248.135 55.8333 249.619 55.8333 251.166V254.666M51.1667 261.667C51.1667 262.311 50.6443 262.833 50 262.833C49.3557 262.833 48.8333 262.311 48.8333 261.667C48.8333 261.022 49.3557 260.5 50 260.5C50.6443 260.5 51.1667 261.022 51.1667 261.667ZM41.8333 254.666H58.1667C59.4553 254.666 60.5 255.711 60.5 257V266.334C60.5 267.622 59.4553 268.667 58.1667 268.667H41.8333C40.5447 268.667 39.5 267.622 39.5 266.334V257C39.5 255.711 40.5447 254.666 41.8333 254.666Z" stroke="#607184" stroke-width="1.7" stroke-linecap="round"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="18" letter-spacing="0em"><tspan x="36" y="304.545">You do not have Archive access</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="36" y="340.591">Archived articles, serials and history are not </tspan><tspan x="36" y="361.591">shown for your role. Ask an Admin to review </tspan><tspan x="36" y="382.591">your access.</tspan></text>
+<rect x="36.5" y="404.5" width="317" height="43" rx="5.5" fill="white"/>
+<rect x="36.5" y="404.5" width="317" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="135.5" y="431.091">Back to Inventory</tspan></text>
+<mask id="path-28-inside-5_4_131195" fill="white">
+<path d="M0 484H390V546H0V484Z"/>
+</mask>
+<path d="M0 484V485H390V484V483H0V484Z" fill="#D6DEE7" mask="url(#path-28-inside-5_4_131195)"/>
+<g clip-path="url(#clip2_4_131195)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="16" y="510.5">WarehouseBay v2.0 &#xb7; Design concept</tspan></text>
+</g>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="16" y="527.5">Not a live environment &#xb7; Next local 1.17</tspan></text>
+</g>
+<defs>
+<clipPath id="clip0_4_131195">
+<rect width="390" height="546" fill="white"/>
+</clipPath>
+<clipPath id="clip1_4_131195">
+<rect width="390" height="156" fill="white"/>
+</clipPath>
+<clipPath id="clip2_4_131195">
+<rect width="358" height="13" fill="white" transform="translate(16 500)"/>
+</clipPath>
+</defs>
+</svg>

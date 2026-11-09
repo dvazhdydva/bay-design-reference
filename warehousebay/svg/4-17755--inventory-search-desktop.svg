@@ -1,0 +1,970 @@
+<svg width="1440" height="1482" viewBox="0 0 1440 1482" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_4_17755)">
+<rect width="1440" height="1482" fill="#F3F5F8"/>
+<g clip-path="url(#clip1_4_17755)">
+<rect width="1440" height="72" fill="white"/>
+<mask id="path-1-inside-1_4_17755" fill="white">
+<path d="M0 0H1440V72H0V0Z"/>
+</mask>
+<path d="M1440 72V71H0V72V73H1440V72Z" fill="#D6DEE7" mask="url(#path-1-inside-1_4_17755)"/>
+<rect x="32" y="20" width="32" height="32" rx="6" fill="#185DB4"/>
+<path d="M53.0004 43.4997V34.3328C53.0004 34.1118 52.9126 33.8998 52.7563 33.7436C52.6 33.5873 52.388 33.4995 52.167 33.4995H43.833C43.612 33.4995 43.4 33.5873 43.2437 33.7436C43.0874 33.8998 42.9996 34.1118 42.9996 34.3328V43.4997M42.9996 36.8329H53.0004M42.9996 40.1663H53.0004M56.334 41.8333C56.334 42.2753 56.1584 42.6993 55.8458 43.0118C55.5332 43.3244 55.1093 43.5 54.6672 43.5H41.3328C40.8908 43.5 40.4668 43.3244 40.1542 43.0118C39.8416 42.6993 39.666 42.2753 39.666 41.8333V32.6664C39.6658 32.3526 39.7543 32.045 39.9212 31.7792C40.0881 31.5134 40.3266 31.3001 40.6094 31.1639L47.235 27.8522C47.4716 27.7299 47.7341 27.666 48.0004 27.666C48.2668 27.666 48.5293 27.7299 48.7659 27.8522L55.3898 31.1639C55.6727 31.3 55.9114 31.5132 56.0785 31.7791C56.2456 32.0449 56.3341 32.3525 56.334 32.6664V41.8333Z" stroke="white" stroke-width="1.7" stroke-linecap="round"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="20" letter-spacing="0em"><tspan x="73" y="43.2727">WarehouseBay</tspan></text>
+<mask id="path-6-inside-2_4_17755" fill="white">
+<path d="M284 0H347V72H284V0Z"/>
+</mask>
+<path d="M347 72V69H284V72V75H347V72Z" fill="#185DB4" mask="url(#path-6-inside-2_4_17755)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="284" y="41.0909">Inventory</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="371" y="41.0909">Collection</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="463" y="41.0909">Deinstall</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="545" y="41.0909">Archive</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="620" y="41.0909">More &#x2304;</tspan></text>
+<rect x="1185.5" y="14.5" width="146" height="43" rx="5.5" fill="white"/>
+<rect x="1185.5" y="14.5" width="146" height="43" rx="5.5" stroke="#D6DEE7"/>
+<path d="M1212.5 42.7498V34.4996C1212.5 34.3007 1212.42 34.11 1212.28 33.9693C1212.14 33.8286 1211.95 33.7496 1211.75 33.7496H1204.25C1204.05 33.7496 1203.86 33.8286 1203.72 33.9693C1203.58 34.11 1203.5 34.3007 1203.5 34.4996V42.7498M1203.5 36.7497H1212.5M1203.5 39.7498H1212.5M1215.5 41.2501C1215.5 41.6479 1215.34 42.0295 1215.06 42.3108C1214.78 42.5921 1214.4 42.7501 1214 42.7501H1202C1201.6 42.7501 1201.22 42.5921 1200.94 42.3108C1200.66 42.0295 1200.5 41.6479 1200.5 41.2501V32.9999C1200.5 32.7174 1200.58 32.4406 1200.73 32.2014C1200.88 31.9622 1201.09 31.7702 1201.35 31.6476L1207.31 28.6671C1207.52 28.557 1207.76 28.4995 1208 28.4995C1208.24 28.4995 1208.48 28.557 1208.69 28.6671L1214.65 31.6476C1214.91 31.7701 1215.12 31.962 1215.27 32.2013C1215.42 32.4405 1215.5 32.7173 1215.5 32.9999V41.2501Z" stroke="#607184" stroke-width="1.7" stroke-linecap="round"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1225" y="41.0909">North depot &#x2304;</tspan></text>
+<rect x="1364" y="14" width="44" height="44" rx="22" fill="#EAF2FD"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1376" y="40.3636">AM</tspan></text>
+</g>
+<g clip-path="url(#clip2_4_17755)">
+<g clip-path="url(#clip3_4_17755)">
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="32" y="133.682">Inventory</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="32" y="162.091">North depot &#xb7; 148 active articles across 18 storage areas</tspan></text>
+</g>
+<g clip-path="url(#clip4_4_17755)">
+<rect x="1144.5" y="114" width="98" height="43" rx="5.5" fill="white"/>
+<rect x="1144.5" y="114" width="98" height="43" rx="5.5" stroke="#D6DEE7"/>
+<path d="M1167 137.75V128.75M1170.75 134L1167 137.75L1163.25 134M1173.75 137.75V140.75C1173.75 141.148 1173.59 141.529 1173.31 141.811C1173.03 142.092 1172.65 142.25 1172.25 142.25H1161.75C1161.35 142.25 1160.97 142.092 1160.69 141.811C1160.41 141.529 1160.25 141.148 1160.25 140.75V137.75" stroke="#607184" stroke-width="1.7" stroke-linecap="round"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1184" y="140.591">Export</tspan></text>
+<rect x="1251" y="113.5" width="157" height="44" rx="6" fill="#185DB4"/>
+<path d="M1268.75 135.5H1279.25M1274 130.25V140.751" stroke="white" stroke-width="1.7" stroke-linecap="round"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1291" y="140.591">Register article</tspan></text>
+</g>
+</g>
+<rect x="32.5" y="187.5" width="1375" height="199" rx="7.5" fill="white"/>
+<rect x="32.5" y="187.5" width="1375" height="199" rx="7.5" stroke="#D6DEE7"/>
+<g clip-path="url(#clip5_4_17755)">
+<g clip-path="url(#clip6_4_17755)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="52" y="219.864">Serial, model, model code, description or purchase order</tspan></text>
+<rect x="53" y="231" width="938" height="42" rx="5" fill="white"/>
+<rect x="53" y="231" width="938" height="42" rx="5" stroke="#185DB4" stroke-width="2"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="64" y="257.091">*</tspan></text>
+</g>
+<g clip-path="url(#clip7_4_17755)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1004" y="219.864">Search in</tspan></text>
+<rect x="1004.5" y="230.5" width="269" height="43" rx="5.5" fill="white"/>
+<rect x="1004.5" y="230.5" width="269" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="1016" y="257.091">All article fields</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="1254" y="257.091">&#x2304;</tspan></text>
+</g>
+<rect x="1286" y="230" width="102" height="44" rx="6" fill="#185DB4"/>
+<path d="M1315.75 258.75L1312.5 255.495M1314.25 251.25C1314.25 254.564 1311.56 257.25 1308.25 257.25C1304.94 257.25 1302.25 254.564 1302.25 251.25C1302.25 247.936 1304.94 245.25 1308.25 245.25C1311.56 245.25 1314.25 247.936 1314.25 251.25Z" stroke="white" stroke-width="1.7" stroke-linecap="round"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1326" y="257.091">Search</tspan></text>
+</g>
+<g clip-path="url(#clip8_4_17755)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="52" y="302.864">Use * for any characters and ? for one character. Search never registers an article.</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1231" y="302.864">Advanced search options &#x2304;</tspan></text>
+</g>
+<g clip-path="url(#clip9_4_17755)">
+<rect x="52.5" y="323.5" width="267" height="43" rx="5.5" fill="white"/>
+<rect x="52.5" y="323.5" width="267" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="64" y="350.091">Storage &#xb7; All storage areas</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="300" y="350.091">&#x2304;</tspan></text>
+</g>
+<g clip-path="url(#clip10_4_17755)">
+<rect x="332.5" y="323.5" width="183" height="43" rx="5.5" fill="white"/>
+<rect x="332.5" y="323.5" width="183" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="344" y="350.091">Type &#xb7; All types</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="496" y="350.091">&#x2304;</tspan></text>
+</g>
+<g clip-path="url(#clip11_4_17755)">
+<rect x="528.5" y="323.5" width="231" height="43" rx="5.5" fill="white"/>
+<rect x="528.5" y="323.5" width="231" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="540" y="350.091">Stock &#xb7; Include zero stock</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="740" y="350.091">&#x2304;</tspan></text>
+</g>
+<g clip-path="url(#clip12_4_17755)">
+<rect x="772.5" y="323.5" width="189" height="43" rx="5.5" fill="white"/>
+<rect x="772.5" y="323.5" width="189" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="784" y="350.091">Status &#xb7; Active</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="942" y="350.091">&#x2304;</tspan></text>
+</g>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="974" y="349.727">Reset filters</tspan></text>
+<g clip-path="url(#clip13_4_17755)">
+<g clip-path="url(#clip14_4_17755)">
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="18" letter-spacing="0em"><tspan x="32" y="439.545">148 matches</tspan></text>
+<rect x="153" y="420.5" width="84" height="25" rx="4" fill="#F3F5F8"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="161" y="437.364">12 per page</tspan></text>
+</g>
+<g clip-path="url(#clip15_4_17755)">
+<rect x="1154.5" y="411.5" width="253" height="43" rx="5.5" fill="white"/>
+<rect x="1154.5" y="411.5" width="253" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="1166" y="438.091">Sort &#xb7; Last updated</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="1388" y="438.091">&#x2304;</tspan></text>
+</g>
+<rect x="32.5" y="459.5" width="1375" height="59" fill="#EAF2FD"/>
+<rect x="32.5" y="459.5" width="1375" height="59" stroke="#D6DEE7"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="44" y="494.091">2 selected</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="130" y="493.727">Clear selection</tspan></text>
+<rect x="238.5" y="467.5" width="129" height="43" rx="5.5" fill="white"/>
+<rect x="238.5" y="467.5" width="129" height="43" rx="5.5" stroke="#D6DEE7"/>
+<g clip-path="url(#clip16_4_17755)">
+<path d="M256.5 493.5H255C254.602 493.5 254.22 493.342 253.939 493.061C253.657 492.78 253.499 492.398 253.499 492V488.25C253.499 487.852 253.657 487.471 253.939 487.189C254.22 486.908 254.602 486.75 255 486.75H267C267.398 486.75 267.78 486.908 268.061 487.189C268.343 487.471 268.501 487.852 268.501 488.25V492C268.501 492.398 268.343 492.78 268.061 493.061C267.78 493.342 267.398 493.5 267 493.5H265.5M256.5 486.75V482.249C256.5 482.051 256.579 481.86 256.719 481.719C256.86 481.578 257.051 481.499 257.25 481.499H264.75C264.949 481.499 265.14 481.578 265.281 481.719C265.421 481.86 265.5 482.051 265.5 482.249V486.75M257.25 490.5H264.75C265.165 490.5 265.5 490.836 265.5 491.25V495.751C265.5 496.165 265.165 496.501 264.75 496.501H257.25C256.835 496.501 256.5 496.165 256.5 495.751V491.25C256.5 490.836 256.835 490.5 257.25 490.5Z" stroke="#607184" stroke-width="1.7" stroke-linecap="round"/>
+</g>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="278" y="494.091">Print labels</tspan></text>
+<rect x="376.5" y="467.5" width="91" height="43" rx="5.5" fill="white"/>
+<rect x="376.5" y="467.5" width="91" height="43" rx="5.5" stroke="#D6DEE7"/>
+<path d="M403.5 492.001L406.501 489L403.5 485.999M406.501 489H391.499" stroke="#607184" stroke-width="1.7" stroke-linecap="round"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="416" y="494.091">Move</tspan></text>
+<rect x="476.5" y="467.5" width="98" height="43" rx="5.5" fill="white"/>
+<rect x="476.5" y="467.5" width="98" height="43" rx="5.5" stroke="#D6DEE7"/>
+<path d="M499 491.25V482.25M502.75 487.5L499 491.25L495.25 487.5M505.75 491.25V494.25C505.75 494.648 505.592 495.029 505.311 495.311C505.029 495.592 504.648 495.75 504.25 495.75H493.75C493.352 495.75 492.971 495.592 492.689 495.311C492.408 495.029 492.25 494.648 492.25 494.25V491.25" stroke="#607184" stroke-width="1.7" stroke-linecap="round"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="516" y="494.091">Export</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="1201" y="493.364">Selection applies to this page only</tspan></text>
+<g clip-path="url(#clip17_4_17755)">
+<rect x="32" y="519" width="1376" height="812" fill="white"/>
+<g clip-path="url(#clip18_4_17755)">
+<rect width="1376" height="44" transform="translate(32 519)" fill="#F7F9FB"/>
+<rect x="45.75" y="532.75" width="16.5" height="16.5" rx="2.25" fill="#185DB4"/>
+<rect x="45.75" y="532.75" width="16.5" height="16.5" rx="2.25" stroke="#185DB4" stroke-width="1.5"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="49.5" y="545.364">&#x2212;</tspan></text>
+<mask id="path-75-inside-3_4_17755" fill="white">
+<path d="M76 519H346V563H76V519Z"/>
+</mask>
+<path d="M346 519H345V563H346H347V519H346Z" fill="#E4E9EF" mask="url(#path-75-inside-3_4_17755)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="88" y="545.364">Article / serial</tspan></text>
+<mask id="path-78-inside-4_4_17755" fill="white">
+<path d="M346 519H426V563H346V519Z"/>
+</mask>
+<path d="M426 519H425V563H426H427V519H426Z" fill="#E4E9EF" mask="url(#path-78-inside-4_4_17755)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="358" y="545.364">Type</tspan></text>
+<mask id="path-81-inside-5_4_17755" fill="white">
+<path d="M426 519H656V563H426V519Z"/>
+</mask>
+<path d="M656 519H655V563H656H657V519H656Z" fill="#E4E9EF" mask="url(#path-81-inside-5_4_17755)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="438" y="545.364">Description</tspan></text>
+<mask id="path-84-inside-6_4_17755" fill="white">
+<path d="M656 519H836V563H656V519Z"/>
+</mask>
+<path d="M836 519H835V563H836H837V519H836Z" fill="#E4E9EF" mask="url(#path-84-inside-6_4_17755)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="668" y="545.364">Storage</tspan></text>
+<mask id="path-87-inside-7_4_17755" fill="white">
+<path d="M836 519H936V563H836V519Z"/>
+</mask>
+<path d="M936 519H935V563H936H937V519H936Z" fill="#E4E9EF" mask="url(#path-87-inside-7_4_17755)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="848" y="545.364">Location</tspan></text>
+<mask id="path-90-inside-8_4_17755" fill="white">
+<path d="M936 519H1030V563H936V519Z"/>
+</mask>
+<path d="M1030 519H1029V563H1030H1031V519H1030Z" fill="#E4E9EF" mask="url(#path-90-inside-8_4_17755)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="948" y="545.364">On hand</tspan></text>
+<mask id="path-93-inside-9_4_17755" fill="white">
+<path d="M1030 519H1124V563H1030V519Z"/>
+</mask>
+<path d="M1124 519H1123V563H1124H1125V519H1124Z" fill="#E4E9EF" mask="url(#path-93-inside-9_4_17755)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1042" y="545.364">Reserved</tspan></text>
+<mask id="path-96-inside-10_4_17755" fill="white">
+<path d="M1124 519H1218V563H1124V519Z"/>
+</mask>
+<path d="M1218 519H1217V563H1218H1219V519H1218Z" fill="#E4E9EF" mask="url(#path-96-inside-10_4_17755)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1136" y="545.364">Available</tspan></text>
+<mask id="path-99-inside-11_4_17755" fill="white">
+<path d="M1218 519H1408V563H1218V519Z"/>
+</mask>
+<path d="M1408 519H1407V563H1408H1409V519H1408Z" fill="#E4E9EF" mask="url(#path-99-inside-11_4_17755)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1230" y="545.364">Status</tspan></text>
+</g>
+<g clip-path="url(#clip19_4_17755)">
+<mask id="path-102-inside-12_4_17755" fill="white">
+<path d="M32 563H1408V627H32V563Z"/>
+</mask>
+<path d="M32 563H1408V627H32V563Z" fill="#EAF2FD"/>
+<rect x="45.75" y="586.75" width="16.5" height="16.5" rx="2.25" fill="#185DB4"/>
+<rect x="45.75" y="586.75" width="16.5" height="16.5" rx="2.25" stroke="#185DB4" stroke-width="1.5"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="48.5" y="599.364">&#x2713;</tspan></text>
+<mask id="path-106-inside-13_4_17755" fill="white">
+<path d="M76 563H346V627H76V563Z"/>
+</mask>
+<path d="M346 563H345V627H346H347V563H346Z" fill="#E4E9EF" mask="url(#path-106-inside-13_4_17755)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="88" y="591.227">PolarLine CX-900-LH-R290-UK</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="88" y="609">WB-ND-2026-004817-AX09</tspan></text>
+<mask id="path-110-inside-14_4_17755" fill="white">
+<path d="M346 563H426V627H346V563Z"/>
+</mask>
+<path d="M426 563H425V627H426H427V563H426Z" fill="#E4E9EF" mask="url(#path-110-inside-14_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="358" y="599.727">Serial</tspan></text>
+<mask id="path-113-inside-15_4_17755" fill="white">
+<path d="M426 563H656V627H426V563Z"/>
+</mask>
+<path d="M656 563H655V627H656H657V563H656Z" fill="#E4E9EF" mask="url(#path-113-inside-15_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="438" y="590.727">Upright commercial refrigerator, </tspan><tspan x="438" y="608.727">single glass door, left-hand hing</tspan></text>
+<mask id="path-116-inside-16_4_17755" fill="white">
+<path d="M656 563H836V627H656V563Z"/>
+</mask>
+<path d="M836 563H835V627H836H837V563H836Z" fill="#E4E9EF" mask="url(#path-116-inside-16_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="668" y="590.727">North depot &#x2014; </tspan><tspan x="668" y="608.727">Manchester / Cold-chain</tspan></text>
+<mask id="path-119-inside-17_4_17755" fill="white">
+<path d="M836 563H936V627H836V563Z"/>
+</mask>
+<path d="M936 563H935V627H936H937V563H936Z" fill="#E4E9EF" mask="url(#path-119-inside-17_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="848" y="599.727">A-03-02</tspan></text>
+<mask id="path-122-inside-18_4_17755" fill="white">
+<path d="M936 563H1030V627H936V563Z"/>
+</mask>
+<path d="M1030 563H1029V627H1030H1031V563H1030Z" fill="#E4E9EF" mask="url(#path-122-inside-18_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="948" y="599.727">1 pcs</tspan></text>
+<mask id="path-125-inside-19_4_17755" fill="white">
+<path d="M1030 563H1124V627H1030V563Z"/>
+</mask>
+<path d="M1124 563H1123V627H1124H1125V563H1124Z" fill="#E4E9EF" mask="url(#path-125-inside-19_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1042" y="599.727">1 pcs</tspan></text>
+<mask id="path-128-inside-20_4_17755" fill="white">
+<path d="M1124 563H1218V627H1124V563Z"/>
+</mask>
+<path d="M1218 563H1217V627H1218H1219V563H1218Z" fill="#E4E9EF" mask="url(#path-128-inside-20_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1136" y="599.727">0 pcs</tspan></text>
+<mask id="path-131-inside-21_4_17755" fill="white">
+<path d="M1218 563H1408V627H1218V563Z"/>
+</mask>
+<path d="M1408 563H1407V627H1408H1409V563H1408Z" fill="#E4E9EF" mask="url(#path-131-inside-21_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1230" y="599.727">Reserved</tspan></text>
+</g>
+<path d="M32 563V564H1408V563V562H32V563Z" fill="#E4E9EF" mask="url(#path-102-inside-12_4_17755)"/>
+<g clip-path="url(#clip20_4_17755)">
+<mask id="path-134-inside-22_4_17755" fill="white">
+<path d="M32 627H1408V691H32V627Z"/>
+</mask>
+<path d="M32 627H1408V691H32V627Z" fill="#EAF2FD"/>
+<rect x="45.75" y="650.75" width="16.5" height="16.5" rx="2.25" fill="#185DB4"/>
+<rect x="45.75" y="650.75" width="16.5" height="16.5" rx="2.25" stroke="#185DB4" stroke-width="1.5"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="48.5" y="663.364">&#x2713;</tspan></text>
+<mask id="path-138-inside-23_4_17755" fill="white">
+<path d="M76 627H346V691H76V627Z"/>
+</mask>
+<path d="M346 627H345V691H346H347V627H346Z" fill="#E4E9EF" mask="url(#path-138-inside-23_4_17755)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="88" y="655.227">PolarLine CX-900-RH-R290-UK</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="88" y="673">WB-ND-2026-004818-AX12</tspan></text>
+<mask id="path-142-inside-24_4_17755" fill="white">
+<path d="M346 627H426V691H346V627Z"/>
+</mask>
+<path d="M426 627H425V691H426H427V627H426Z" fill="#E4E9EF" mask="url(#path-142-inside-24_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="358" y="663.727">Serial</tspan></text>
+<mask id="path-145-inside-25_4_17755" fill="white">
+<path d="M426 627H656V691H426V627Z"/>
+</mask>
+<path d="M656 627H655V691H656H657V627H656Z" fill="#E4E9EF" mask="url(#path-145-inside-25_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="438" y="654.727">Upright commercial refrigerator, </tspan><tspan x="438" y="672.727">single glass door, right-hand hin</tspan></text>
+<mask id="path-148-inside-26_4_17755" fill="white">
+<path d="M656 627H836V691H656V627Z"/>
+</mask>
+<path d="M836 627H835V691H836H837V627H836Z" fill="#E4E9EF" mask="url(#path-148-inside-26_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="668" y="654.727">North depot &#x2014; </tspan><tspan x="668" y="672.727">Manchester / Cold-chain</tspan></text>
+<mask id="path-151-inside-27_4_17755" fill="white">
+<path d="M836 627H936V691H836V627Z"/>
+</mask>
+<path d="M936 627H935V691H936H937V627H936Z" fill="#E4E9EF" mask="url(#path-151-inside-27_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="848" y="663.727">A-03-03</tspan></text>
+<mask id="path-154-inside-28_4_17755" fill="white">
+<path d="M936 627H1030V691H936V627Z"/>
+</mask>
+<path d="M1030 627H1029V691H1030H1031V627H1030Z" fill="#E4E9EF" mask="url(#path-154-inside-28_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="948" y="663.727">1 pcs</tspan></text>
+<mask id="path-157-inside-29_4_17755" fill="white">
+<path d="M1030 627H1124V691H1030V627Z"/>
+</mask>
+<path d="M1124 627H1123V691H1124H1125V627H1124Z" fill="#E4E9EF" mask="url(#path-157-inside-29_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1042" y="663.727">0 pcs</tspan></text>
+<mask id="path-160-inside-30_4_17755" fill="white">
+<path d="M1124 627H1218V691H1124V627Z"/>
+</mask>
+<path d="M1218 627H1217V691H1218H1219V627H1218Z" fill="#E4E9EF" mask="url(#path-160-inside-30_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1136" y="663.727">1 pcs</tspan></text>
+<mask id="path-163-inside-31_4_17755" fill="white">
+<path d="M1218 627H1408V691H1218V627Z"/>
+</mask>
+<path d="M1408 627H1407V691H1408H1409V627H1408Z" fill="#E4E9EF" mask="url(#path-163-inside-31_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1230" y="663.727">Available</tspan></text>
+</g>
+<path d="M32 627V628H1408V627V626H32V627Z" fill="#E4E9EF" mask="url(#path-134-inside-22_4_17755)"/>
+<g clip-path="url(#clip21_4_17755)">
+<mask id="path-166-inside-32_4_17755" fill="white">
+<path d="M32 691H1408V755H32V691Z"/>
+</mask>
+<path d="M32 691H1408V755H32V691Z" fill="white"/>
+<rect x="45.75" y="714.75" width="16.5" height="16.5" rx="2.25" fill="white"/>
+<rect x="45.75" y="714.75" width="16.5" height="16.5" rx="2.25" stroke="#8D9BA9" stroke-width="1.5"/>
+<mask id="path-169-inside-33_4_17755" fill="white">
+<path d="M76 691H346V755H76V691Z"/>
+</mask>
+<path d="M346 691H345V755H346H347V691H346Z" fill="#E4E9EF" mask="url(#path-169-inside-33_4_17755)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="88" y="719.227">BayForm shelving clips</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="88" y="737">ART-CLP-025 &#xb7; BF-250-CLIP-ZN</tspan></text>
+<mask id="path-173-inside-34_4_17755" fill="white">
+<path d="M346 691H426V755H346V691Z"/>
+</mask>
+<path d="M426 691H425V755H426H427V691H426Z" fill="#E4E9EF" mask="url(#path-173-inside-34_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="358" y="727.727">Quantity</tspan></text>
+<mask id="path-176-inside-35_4_17755" fill="white">
+<path d="M426 691H656V755H426V691Z"/>
+</mask>
+<path d="M656 691H655V755H656H657V691H656Z" fill="#E4E9EF" mask="url(#path-176-inside-35_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="438" y="718.727">Heavy-duty adjustable shelving </tspan><tspan x="438" y="736.727">clips, zinc-plated steel, 25 mm </tspan></text>
+<mask id="path-179-inside-36_4_17755" fill="white">
+<path d="M656 691H836V755H656V691Z"/>
+</mask>
+<path d="M836 691H835V755H836H837V691H836Z" fill="#E4E9EF" mask="url(#path-179-inside-36_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="668" y="718.727">North depot &#x2014; </tspan><tspan x="668" y="736.727">Manchester</tspan></text>
+<mask id="path-182-inside-37_4_17755" fill="white">
+<path d="M836 691H936V755H836V691Z"/>
+</mask>
+<path d="M936 691H935V755H936H937V691H936Z" fill="#E4E9EF" mask="url(#path-182-inside-37_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="848" y="727.727">B-02-04 +1</tspan></text>
+<mask id="path-185-inside-38_4_17755" fill="white">
+<path d="M936 691H1030V755H936V691Z"/>
+</mask>
+<path d="M1030 691H1029V755H1030H1031V691H1030Z" fill="#E4E9EF" mask="url(#path-185-inside-38_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="948" y="727.727">200 pcs</tspan></text>
+<mask id="path-188-inside-39_4_17755" fill="white">
+<path d="M1030 691H1124V755H1030V691Z"/>
+</mask>
+<path d="M1124 691H1123V755H1124H1125V691H1124Z" fill="#E4E9EF" mask="url(#path-188-inside-39_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1042" y="727.727">200 pcs</tspan></text>
+<mask id="path-191-inside-40_4_17755" fill="white">
+<path d="M1124 691H1218V755H1124V691Z"/>
+</mask>
+<path d="M1218 691H1217V755H1218H1219V691H1218Z" fill="#E4E9EF" mask="url(#path-191-inside-40_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1136" y="727.727">0 pcs</tspan></text>
+<mask id="path-194-inside-41_4_17755" fill="white">
+<path d="M1218 691H1408V755H1218V691Z"/>
+</mask>
+<path d="M1408 691H1407V755H1408H1409V691H1408Z" fill="#E4E9EF" mask="url(#path-194-inside-41_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1230" y="727.727">Fully reserved</tspan></text>
+</g>
+<path d="M32 691V692H1408V691V690H32V691Z" fill="#E4E9EF" mask="url(#path-166-inside-32_4_17755)"/>
+<g clip-path="url(#clip22_4_17755)">
+<mask id="path-197-inside-42_4_17755" fill="white">
+<path d="M32 755H1408V819H32V755Z"/>
+</mask>
+<path d="M32 755H1408V819H32V755Z" fill="white"/>
+<rect x="45.75" y="778.75" width="16.5" height="16.5" rx="2.25" fill="white"/>
+<rect x="45.75" y="778.75" width="16.5" height="16.5" rx="2.25" stroke="#8D9BA9" stroke-width="1.5"/>
+<mask id="path-200-inside-43_4_17755" fill="white">
+<path d="M76 755H346V819H76V755Z"/>
+</mask>
+<path d="M346 755H345V819H346H347V755H346Z" fill="#E4E9EF" mask="url(#path-200-inside-43_4_17755)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="88" y="783.227">BayForm BF-250 upright</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="88" y="801">WB-ND-2026-004825-BF01</tspan></text>
+<mask id="path-204-inside-44_4_17755" fill="white">
+<path d="M346 755H426V819H346V755Z"/>
+</mask>
+<path d="M426 755H425V819H426H427V755H426Z" fill="#E4E9EF" mask="url(#path-204-inside-44_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="358" y="791.727">Serial</tspan></text>
+<mask id="path-207-inside-45_4_17755" fill="white">
+<path d="M426 755H656V819H426V755Z"/>
+</mask>
+<path d="M656 755H655V819H656H657V755H656Z" fill="#E4E9EF" mask="url(#path-207-inside-45_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="438" y="782.727">Heavy-duty shelving upright, </tspan><tspan x="438" y="800.727">2,500 mm, zinc-plated, 25 mm </tspan></text>
+<mask id="path-210-inside-46_4_17755" fill="white">
+<path d="M656 755H836V819H656V755Z"/>
+</mask>
+<path d="M836 755H835V819H836H837V755H836Z" fill="#E4E9EF" mask="url(#path-210-inside-46_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="668" y="782.727">North depot &#x2014; </tspan><tspan x="668" y="800.727">Manchester</tspan></text>
+<mask id="path-213-inside-47_4_17755" fill="white">
+<path d="M836 755H936V819H836V755Z"/>
+</mask>
+<path d="M936 755H935V819H936H937V755H936Z" fill="#E4E9EF" mask="url(#path-213-inside-47_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="848" y="791.727">B-01-01</tspan></text>
+<mask id="path-216-inside-48_4_17755" fill="white">
+<path d="M936 755H1030V819H936V755Z"/>
+</mask>
+<path d="M1030 755H1029V819H1030H1031V755H1030Z" fill="#E4E9EF" mask="url(#path-216-inside-48_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="948" y="791.727">1 pcs</tspan></text>
+<mask id="path-219-inside-49_4_17755" fill="white">
+<path d="M1030 755H1124V819H1030V755Z"/>
+</mask>
+<path d="M1124 755H1123V819H1124H1125V755H1124Z" fill="#E4E9EF" mask="url(#path-219-inside-49_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1042" y="791.727">0 pcs</tspan></text>
+<mask id="path-222-inside-50_4_17755" fill="white">
+<path d="M1124 755H1218V819H1124V755Z"/>
+</mask>
+<path d="M1218 755H1217V819H1218H1219V755H1218Z" fill="#E4E9EF" mask="url(#path-222-inside-50_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1136" y="791.727">1 pcs</tspan></text>
+<mask id="path-225-inside-51_4_17755" fill="white">
+<path d="M1218 755H1408V819H1218V755Z"/>
+</mask>
+<path d="M1408 755H1407V819H1408H1409V755H1408Z" fill="#E4E9EF" mask="url(#path-225-inside-51_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1230" y="791.727">Available</tspan></text>
+</g>
+<path d="M32 755V756H1408V755V754H32V755Z" fill="#E4E9EF" mask="url(#path-197-inside-42_4_17755)"/>
+<g clip-path="url(#clip23_4_17755)">
+<mask id="path-228-inside-52_4_17755" fill="white">
+<path d="M32 819H1408V883H32V819Z"/>
+</mask>
+<path d="M32 819H1408V883H32V819Z" fill="white"/>
+<rect x="45.75" y="842.75" width="16.5" height="16.5" rx="2.25" fill="white"/>
+<rect x="45.75" y="842.75" width="16.5" height="16.5" rx="2.25" stroke="#8D9BA9" stroke-width="1.5"/>
+<mask id="path-231-inside-53_4_17755" fill="white">
+<path d="M76 819H346V883H76V819Z"/>
+</mask>
+<path d="M346 819H345V883H346H347V819H346Z" fill="#E4E9EF" mask="url(#path-231-inside-53_4_17755)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="88" y="847.227">Arcline Cat6 cable, grey</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="88" y="865">ART-CAB-006 &#xb7; ARC-C6-305-GR</tspan></text>
+<mask id="path-235-inside-54_4_17755" fill="white">
+<path d="M346 819H426V883H346V819Z"/>
+</mask>
+<path d="M426 819H425V883H426H427V819H426Z" fill="#E4E9EF" mask="url(#path-235-inside-54_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="358" y="855.727">Quantity</tspan></text>
+<mask id="path-238-inside-55_4_17755" fill="white">
+<path d="M426 819H656V883H426V819Z"/>
+</mask>
+<path d="M656 819H655V883H656H657V819H656Z" fill="#E4E9EF" mask="url(#path-238-inside-55_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="438" y="846.727">Cat6 U/UTP cable, grey sheath, </tspan><tspan x="438" y="864.727">305 m reel, indoor installation.</tspan></text>
+<mask id="path-241-inside-56_4_17755" fill="white">
+<path d="M656 819H836V883H656V819Z"/>
+</mask>
+<path d="M836 819H835V883H836H837V819H836Z" fill="#E4E9EF" mask="url(#path-241-inside-56_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="668" y="846.727">North depot &#x2014; </tspan><tspan x="668" y="864.727">Manchester</tspan></text>
+<mask id="path-244-inside-57_4_17755" fill="white">
+<path d="M836 819H936V883H836V819Z"/>
+</mask>
+<path d="M936 819H935V883H936H937V819H936Z" fill="#E4E9EF" mask="url(#path-244-inside-57_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="848" y="855.727">C-04-01</tspan></text>
+<mask id="path-247-inside-58_4_17755" fill="white">
+<path d="M936 819H1030V883H936V819Z"/>
+</mask>
+<path d="M1030 819H1029V883H1030H1031V819H1030Z" fill="#E4E9EF" mask="url(#path-247-inside-58_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="948" y="855.727">305 m</tspan></text>
+<mask id="path-250-inside-59_4_17755" fill="white">
+<path d="M1030 819H1124V883H1030V819Z"/>
+</mask>
+<path d="M1124 819H1123V883H1124H1125V819H1124Z" fill="#E4E9EF" mask="url(#path-250-inside-59_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1042" y="855.727">80 m</tspan></text>
+<mask id="path-253-inside-60_4_17755" fill="white">
+<path d="M1124 819H1218V883H1124V819Z"/>
+</mask>
+<path d="M1218 819H1217V883H1218H1219V819H1218Z" fill="#E4E9EF" mask="url(#path-253-inside-60_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1136" y="855.727">225 m</tspan></text>
+<mask id="path-256-inside-61_4_17755" fill="white">
+<path d="M1218 819H1408V883H1218V819Z"/>
+</mask>
+<path d="M1408 819H1407V883H1408H1409V819H1408Z" fill="#E4E9EF" mask="url(#path-256-inside-61_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1230" y="855.727">Available</tspan></text>
+</g>
+<path d="M32 819V820H1408V819V818H32V819Z" fill="#E4E9EF" mask="url(#path-228-inside-52_4_17755)"/>
+<g clip-path="url(#clip24_4_17755)">
+<mask id="path-259-inside-62_4_17755" fill="white">
+<path d="M32 883H1408V947H32V883Z"/>
+</mask>
+<path d="M32 883H1408V947H32V883Z" fill="white"/>
+<rect x="45.75" y="906.75" width="16.5" height="16.5" rx="2.25" fill="white"/>
+<rect x="45.75" y="906.75" width="16.5" height="16.5" rx="2.25" stroke="#8D9BA9" stroke-width="1.5"/>
+<mask id="path-262-inside-63_4_17755" fill="white">
+<path d="M76 883H346V947H76V883Z"/>
+</mask>
+<path d="M346 883H345V947H346H347V883H346Z" fill="#E4E9EF" mask="url(#path-262-inside-63_4_17755)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="88" y="911.227">Stainless steel fasteners M8</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="88" y="929">ART-FIX-008 &#xb7; SS-M8-MIX</tspan></text>
+<mask id="path-266-inside-64_4_17755" fill="white">
+<path d="M346 883H426V947H346V883Z"/>
+</mask>
+<path d="M426 883H425V947H426H427V883H426Z" fill="#E4E9EF" mask="url(#path-266-inside-64_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="358" y="919.727">Quantity</tspan></text>
+<mask id="path-269-inside-65_4_17755" fill="white">
+<path d="M426 883H656V947H426V883Z"/>
+</mask>
+<path d="M656 883H655V947H656H657V883H656Z" fill="#E4E9EF" mask="url(#path-269-inside-65_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="438" y="910.727">Mixed M8 stainless steel bolts, </tspan><tspan x="438" y="928.727">nuts and washers, weighed loos</tspan></text>
+<mask id="path-272-inside-66_4_17755" fill="white">
+<path d="M656 883H836V947H656V883Z"/>
+</mask>
+<path d="M836 883H835V947H836H837V883H836Z" fill="#E4E9EF" mask="url(#path-272-inside-66_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="668" y="910.727">North depot &#x2014; </tspan><tspan x="668" y="928.727">Manchester</tspan></text>
+<mask id="path-275-inside-67_4_17755" fill="white">
+<path d="M836 883H936V947H836V883Z"/>
+</mask>
+<path d="M936 883H935V947H936H937V883H936Z" fill="#E4E9EF" mask="url(#path-275-inside-67_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="848" y="919.727">B-06-03</tspan></text>
+<mask id="path-278-inside-68_4_17755" fill="white">
+<path d="M936 883H1030V947H936V883Z"/>
+</mask>
+<path d="M1030 883H1029V947H1030H1031V883H1030Z" fill="#E4E9EF" mask="url(#path-278-inside-68_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="948" y="919.727">24.5 kg</tspan></text>
+<mask id="path-281-inside-69_4_17755" fill="white">
+<path d="M1030 883H1124V947H1030V883Z"/>
+</mask>
+<path d="M1124 883H1123V947H1124H1125V883H1124Z" fill="#E4E9EF" mask="url(#path-281-inside-69_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1042" y="919.727">4.5 kg</tspan></text>
+<mask id="path-284-inside-70_4_17755" fill="white">
+<path d="M1124 883H1218V947H1124V883Z"/>
+</mask>
+<path d="M1218 883H1217V947H1218H1219V883H1218Z" fill="#E4E9EF" mask="url(#path-284-inside-70_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1136" y="919.727">20 kg</tspan></text>
+<mask id="path-287-inside-71_4_17755" fill="white">
+<path d="M1218 883H1408V947H1218V883Z"/>
+</mask>
+<path d="M1408 883H1407V947H1408H1409V883H1408Z" fill="#E4E9EF" mask="url(#path-287-inside-71_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1230" y="919.727">Available</tspan></text>
+</g>
+<path d="M32 883V884H1408V883V882H32V883Z" fill="#E4E9EF" mask="url(#path-259-inside-62_4_17755)"/>
+<g clip-path="url(#clip25_4_17755)">
+<mask id="path-290-inside-72_4_17755" fill="white">
+<path d="M32 947H1408V1011H32V947Z"/>
+</mask>
+<path d="M32 947H1408V1011H32V947Z" fill="white"/>
+<rect x="45.75" y="970.75" width="16.5" height="16.5" rx="2.25" fill="white"/>
+<rect x="45.75" y="970.75" width="16.5" height="16.5" rx="2.25" stroke="#8D9BA9" stroke-width="1.5"/>
+<mask id="path-293-inside-73_4_17755" fill="white">
+<path d="M76 947H346V1011H76V947Z"/>
+</mask>
+<path d="M346 947H345V1011H346H347V947H346Z" fill="#E4E9EF" mask="url(#path-293-inside-73_4_17755)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="88" y="975.227">PolarLine condenser assembly</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="88" y="993">WB-ND-2026-004817-AX09 &#xb7; Part 1/2</tspan></text>
+<mask id="path-297-inside-74_4_17755" fill="white">
+<path d="M346 947H426V1011H346V947Z"/>
+</mask>
+<path d="M426 947H425V1011H426H427V947H426Z" fill="#E4E9EF" mask="url(#path-297-inside-74_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="358" y="983.727">Set part</tspan></text>
+<mask id="path-300-inside-75_4_17755" fill="white">
+<path d="M426 947H656V1011H426V947Z"/>
+</mask>
+<path d="M656 947H655V1011H656H657V947H656Z" fill="#E4E9EF" mask="url(#path-300-inside-75_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="438" y="974.727">R290 condenser assembly for </tspan><tspan x="438" y="992.727">PolarLine CX-900; labelled as pa</tspan></text>
+<mask id="path-303-inside-76_4_17755" fill="white">
+<path d="M656 947H836V1011H656V947Z"/>
+</mask>
+<path d="M836 947H835V1011H836H837V947H836Z" fill="#E4E9EF" mask="url(#path-303-inside-76_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="668" y="974.727">North depot &#x2014; </tspan><tspan x="668" y="992.727">Manchester / Cold-chain</tspan></text>
+<mask id="path-306-inside-77_4_17755" fill="white">
+<path d="M836 947H936V1011H836V947Z"/>
+</mask>
+<path d="M936 947H935V1011H936H937V947H936Z" fill="#E4E9EF" mask="url(#path-306-inside-77_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="848" y="983.727">A-03-02</tspan></text>
+<mask id="path-309-inside-78_4_17755" fill="white">
+<path d="M936 947H1030V1011H936V947Z"/>
+</mask>
+<path d="M1030 947H1029V1011H1030H1031V947H1030Z" fill="#E4E9EF" mask="url(#path-309-inside-78_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="948" y="983.727">1 pcs</tspan></text>
+<mask id="path-312-inside-79_4_17755" fill="white">
+<path d="M1030 947H1124V1011H1030V947Z"/>
+</mask>
+<path d="M1124 947H1123V1011H1124H1125V947H1124Z" fill="#E4E9EF" mask="url(#path-312-inside-79_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1042" y="983.727">1 pcs</tspan></text>
+<mask id="path-315-inside-80_4_17755" fill="white">
+<path d="M1124 947H1218V1011H1124V947Z"/>
+</mask>
+<path d="M1218 947H1217V1011H1218H1219V947H1218Z" fill="#E4E9EF" mask="url(#path-315-inside-80_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1136" y="983.727">0 pcs</tspan></text>
+<mask id="path-318-inside-81_4_17755" fill="white">
+<path d="M1218 947H1408V1011H1218V947Z"/>
+</mask>
+<path d="M1408 947H1407V1011H1408H1409V947H1408Z" fill="#E4E9EF" mask="url(#path-318-inside-81_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1230" y="983.727">Reserved &#xb7; set</tspan></text>
+</g>
+<path d="M32 947V948H1408V947V946H32V947Z" fill="#E4E9EF" mask="url(#path-290-inside-72_4_17755)"/>
+<g clip-path="url(#clip26_4_17755)">
+<mask id="path-321-inside-82_4_17755" fill="white">
+<path d="M32 1011H1408V1075H32V1011Z"/>
+</mask>
+<path d="M32 1011H1408V1075H32V1011Z" fill="white"/>
+<rect x="45.75" y="1034.75" width="16.5" height="16.5" rx="2.25" fill="white"/>
+<rect x="45.75" y="1034.75" width="16.5" height="16.5" rx="2.25" stroke="#8D9BA9" stroke-width="1.5"/>
+<mask id="path-324-inside-83_4_17755" fill="white">
+<path d="M76 1011H346V1075H76V1011Z"/>
+</mask>
+<path d="M346 1011H345V1075H346H347V1011H346Z" fill="#E4E9EF" mask="url(#path-324-inside-83_4_17755)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="88" y="1039.23">PolarLine lower grille</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="88" y="1057">WB-ND-2026-004817-AX09 &#xb7; Part 2/2</tspan></text>
+<mask id="path-328-inside-84_4_17755" fill="white">
+<path d="M346 1011H426V1075H346V1011Z"/>
+</mask>
+<path d="M426 1011H425V1075H426H427V1011H426Z" fill="#E4E9EF" mask="url(#path-328-inside-84_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="358" y="1047.73">Set part</tspan></text>
+<mask id="path-331-inside-85_4_17755" fill="white">
+<path d="M426 1011H656V1075H426V1011Z"/>
+</mask>
+<path d="M656 1011H655V1075H656H657V1011H656Z" fill="#E4E9EF" mask="url(#path-331-inside-85_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="438" y="1038.73">Removable stainless steel lower </tspan><tspan x="438" y="1056.73">ventilation grille for PolarLine CX</tspan></text>
+<mask id="path-334-inside-86_4_17755" fill="white">
+<path d="M656 1011H836V1075H656V1011Z"/>
+</mask>
+<path d="M836 1011H835V1075H836H837V1011H836Z" fill="#E4E9EF" mask="url(#path-334-inside-86_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="668" y="1038.73">North depot &#x2014; </tspan><tspan x="668" y="1056.73">Manchester / Cold-chain</tspan></text>
+<mask id="path-337-inside-87_4_17755" fill="white">
+<path d="M836 1011H936V1075H836V1011Z"/>
+</mask>
+<path d="M936 1011H935V1075H936H937V1011H936Z" fill="#E4E9EF" mask="url(#path-337-inside-87_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="848" y="1047.73">A-03-02</tspan></text>
+<mask id="path-340-inside-88_4_17755" fill="white">
+<path d="M936 1011H1030V1075H936V1011Z"/>
+</mask>
+<path d="M1030 1011H1029V1075H1030H1031V1011H1030Z" fill="#E4E9EF" mask="url(#path-340-inside-88_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="948" y="1047.73">1 pcs</tspan></text>
+<mask id="path-343-inside-89_4_17755" fill="white">
+<path d="M1030 1011H1124V1075H1030V1011Z"/>
+</mask>
+<path d="M1124 1011H1123V1075H1124H1125V1011H1124Z" fill="#E4E9EF" mask="url(#path-343-inside-89_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1042" y="1047.73">1 pcs</tspan></text>
+<mask id="path-346-inside-90_4_17755" fill="white">
+<path d="M1124 1011H1218V1075H1124V1011Z"/>
+</mask>
+<path d="M1218 1011H1217V1075H1218H1219V1011H1218Z" fill="#E4E9EF" mask="url(#path-346-inside-90_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1136" y="1047.73">0 pcs</tspan></text>
+<mask id="path-349-inside-91_4_17755" fill="white">
+<path d="M1218 1011H1408V1075H1218V1011Z"/>
+</mask>
+<path d="M1408 1011H1407V1075H1408H1409V1011H1408Z" fill="#E4E9EF" mask="url(#path-349-inside-91_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1230" y="1047.73">Reserved &#xb7; set</tspan></text>
+</g>
+<path d="M32 1011V1012H1408V1011V1010H32V1011Z" fill="#E4E9EF" mask="url(#path-321-inside-82_4_17755)"/>
+<g clip-path="url(#clip27_4_17755)">
+<mask id="path-352-inside-92_4_17755" fill="white">
+<path d="M32 1075H1408V1139H32V1075Z"/>
+</mask>
+<path d="M32 1075H1408V1139H32V1075Z" fill="white"/>
+<rect x="45.75" y="1098.75" width="16.5" height="16.5" rx="2.25" fill="white"/>
+<rect x="45.75" y="1098.75" width="16.5" height="16.5" rx="2.25" stroke="#8D9BA9" stroke-width="1.5"/>
+<mask id="path-355-inside-93_4_17755" fill="white">
+<path d="M76 1075H346V1139H76V1075Z"/>
+</mask>
+<path d="M346 1075H345V1139H346H347V1075H346Z" fill="#E4E9EF" mask="url(#path-355-inside-93_4_17755)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="88" y="1103.23">DuctPro flexible duct 150 mm</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="88" y="1121">ART-DCT-150 &#xb7; DP-FLEX-150-10</tspan></text>
+<mask id="path-359-inside-94_4_17755" fill="white">
+<path d="M346 1075H426V1139H346V1075Z"/>
+</mask>
+<path d="M426 1075H425V1139H426H427V1075H426Z" fill="#E4E9EF" mask="url(#path-359-inside-94_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="358" y="1111.73">Quantity</tspan></text>
+<mask id="path-362-inside-95_4_17755" fill="white">
+<path d="M426 1075H656V1139H426V1075Z"/>
+</mask>
+<path d="M656 1075H655V1139H656H657V1075H656Z" fill="#E4E9EF" mask="url(#path-362-inside-95_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="438" y="1102.73">Flexible aluminium duct, 150 mm </tspan><tspan x="438" y="1120.73">diameter, supplied in measured </tspan></text>
+<mask id="path-365-inside-96_4_17755" fill="white">
+<path d="M656 1075H836V1139H656V1075Z"/>
+</mask>
+<path d="M836 1075H835V1139H836H837V1075H836Z" fill="#E4E9EF" mask="url(#path-365-inside-96_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="668" y="1102.73">North depot &#x2014; </tspan><tspan x="668" y="1120.73">Manchester</tspan></text>
+<mask id="path-368-inside-97_4_17755" fill="white">
+<path d="M836 1075H936V1139H836V1075Z"/>
+</mask>
+<path d="M936 1075H935V1139H936H937V1075H936Z" fill="#E4E9EF" mask="url(#path-368-inside-97_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="848" y="1111.73">C-02-06</tspan></text>
+<mask id="path-371-inside-98_4_17755" fill="white">
+<path d="M936 1075H1030V1139H936V1075Z"/>
+</mask>
+<path d="M1030 1075H1029V1139H1030H1031V1075H1030Z" fill="#E4E9EF" mask="url(#path-371-inside-98_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="948" y="1111.73">0 m</tspan></text>
+<mask id="path-374-inside-99_4_17755" fill="white">
+<path d="M1030 1075H1124V1139H1030V1075Z"/>
+</mask>
+<path d="M1124 1075H1123V1139H1124H1125V1075H1124Z" fill="#E4E9EF" mask="url(#path-374-inside-99_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1042" y="1111.73">0 m</tspan></text>
+<mask id="path-377-inside-100_4_17755" fill="white">
+<path d="M1124 1075H1218V1139H1124V1075Z"/>
+</mask>
+<path d="M1218 1075H1217V1139H1218H1219V1075H1218Z" fill="#E4E9EF" mask="url(#path-377-inside-100_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1136" y="1111.73">0 m</tspan></text>
+<mask id="path-380-inside-101_4_17755" fill="white">
+<path d="M1218 1075H1408V1139H1218V1075Z"/>
+</mask>
+<path d="M1408 1075H1407V1139H1408H1409V1075H1408Z" fill="#E4E9EF" mask="url(#path-380-inside-101_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1230" y="1111.73">Zero stock</tspan></text>
+</g>
+<path d="M32 1075V1076H1408V1075V1074H32V1075Z" fill="#E4E9EF" mask="url(#path-352-inside-92_4_17755)"/>
+<g clip-path="url(#clip28_4_17755)">
+<mask id="path-383-inside-102_4_17755" fill="white">
+<path d="M32 1139H1408V1203H32V1139Z"/>
+</mask>
+<path d="M32 1139H1408V1203H32V1139Z" fill="white"/>
+<rect x="45.75" y="1162.75" width="16.5" height="16.5" rx="2.25" fill="white"/>
+<rect x="45.75" y="1162.75" width="16.5" height="16.5" rx="2.25" stroke="#8D9BA9" stroke-width="1.5"/>
+<mask id="path-386-inside-103_4_17755" fill="white">
+<path d="M76 1139H346V1203H76V1139Z"/>
+</mask>
+<path d="M346 1139H345V1203H346H347V1139H346Z" fill="#E4E9EF" mask="url(#path-386-inside-103_4_17755)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="88" y="1167.23">Vectra circulation pump</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="88" y="1185">WB-ND-2026-004831-VP07</tspan></text>
+<mask id="path-390-inside-104_4_17755" fill="white">
+<path d="M346 1139H426V1203H346V1139Z"/>
+</mask>
+<path d="M426 1139H425V1203H426H427V1139H426Z" fill="#E4E9EF" mask="url(#path-390-inside-104_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="358" y="1175.73">Serial</tspan></text>
+<mask id="path-393-inside-105_4_17755" fill="white">
+<path d="M426 1139H656V1203H426V1139Z"/>
+</mask>
+<path d="M656 1139H655V1203H656H657V1139H656Z" fill="#E4E9EF" mask="url(#path-393-inside-105_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="438" y="1166.73">Three-speed circulation pump, </tspan><tspan x="438" y="1184.73">230 V, 25 mm connections, teste</tspan></text>
+<mask id="path-396-inside-106_4_17755" fill="white">
+<path d="M656 1139H836V1203H656V1139Z"/>
+</mask>
+<path d="M836 1139H835V1203H836H837V1139H836Z" fill="#E4E9EF" mask="url(#path-396-inside-106_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="668" y="1166.73">North depot &#x2014; </tspan><tspan x="668" y="1184.73">Manchester</tspan></text>
+<mask id="path-399-inside-107_4_17755" fill="white">
+<path d="M836 1139H936V1203H836V1139Z"/>
+</mask>
+<path d="M936 1139H935V1203H936H937V1139H936Z" fill="#E4E9EF" mask="url(#path-399-inside-107_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="848" y="1175.73">D-01-02</tspan></text>
+<mask id="path-402-inside-108_4_17755" fill="white">
+<path d="M936 1139H1030V1203H936V1139Z"/>
+</mask>
+<path d="M1030 1139H1029V1203H1030H1031V1139H1030Z" fill="#E4E9EF" mask="url(#path-402-inside-108_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="948" y="1175.73">1 pcs</tspan></text>
+<mask id="path-405-inside-109_4_17755" fill="white">
+<path d="M1030 1139H1124V1203H1030V1139Z"/>
+</mask>
+<path d="M1124 1139H1123V1203H1124H1125V1139H1124Z" fill="#E4E9EF" mask="url(#path-405-inside-109_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1042" y="1175.73">0 pcs</tspan></text>
+<mask id="path-408-inside-110_4_17755" fill="white">
+<path d="M1124 1139H1218V1203H1124V1139Z"/>
+</mask>
+<path d="M1218 1139H1217V1203H1218H1219V1139H1218Z" fill="#E4E9EF" mask="url(#path-408-inside-110_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1136" y="1175.73">1 pcs</tspan></text>
+<mask id="path-411-inside-111_4_17755" fill="white">
+<path d="M1218 1139H1408V1203H1218V1139Z"/>
+</mask>
+<path d="M1408 1139H1407V1203H1408H1409V1139H1408Z" fill="#E4E9EF" mask="url(#path-411-inside-111_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1230" y="1175.73">Available</tspan></text>
+</g>
+<path d="M32 1139V1140H1408V1139V1138H32V1139Z" fill="#E4E9EF" mask="url(#path-383-inside-102_4_17755)"/>
+<g clip-path="url(#clip29_4_17755)">
+<mask id="path-414-inside-112_4_17755" fill="white">
+<path d="M32 1203H1408V1267H32V1203Z"/>
+</mask>
+<path d="M32 1203H1408V1267H32V1203Z" fill="white"/>
+<rect x="45.75" y="1226.75" width="16.5" height="16.5" rx="2.25" fill="white"/>
+<rect x="45.75" y="1226.75" width="16.5" height="16.5" rx="2.25" stroke="#8D9BA9" stroke-width="1.5"/>
+<mask id="path-417-inside-113_4_17755" fill="white">
+<path d="M76 1203H346V1267H76V1203Z"/>
+</mask>
+<path d="M346 1203H345V1267H346H347V1203H346Z" fill="#E4E9EF" mask="url(#path-417-inside-113_4_17755)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="88" y="1231.23">PolarLine wire shelf, 600 mm</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="88" y="1249">ART-SHF-600 &#xb7; PL-SHELF-600</tspan></text>
+<mask id="path-421-inside-114_4_17755" fill="white">
+<path d="M346 1203H426V1267H346V1203Z"/>
+</mask>
+<path d="M426 1203H425V1267H426H427V1203H426Z" fill="#E4E9EF" mask="url(#path-421-inside-114_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="358" y="1239.73">Quantity</tspan></text>
+<mask id="path-424-inside-115_4_17755" fill="white">
+<path d="M426 1203H656V1267H426V1203Z"/>
+</mask>
+<path d="M656 1203H655V1267H656H657V1203H656Z" fill="#E4E9EF" mask="url(#path-424-inside-115_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="438" y="1230.73">Adjustable wire shelf, 600 mm </tspan><tspan x="438" y="1248.73">wide, coated steel, clips not incl</tspan></text>
+<mask id="path-427-inside-116_4_17755" fill="white">
+<path d="M656 1203H836V1267H656V1203Z"/>
+</mask>
+<path d="M836 1203H835V1267H836H837V1203H836Z" fill="#E4E9EF" mask="url(#path-427-inside-116_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="668" y="1230.73">North depot &#x2014; </tspan><tspan x="668" y="1248.73">Manchester</tspan></text>
+<mask id="path-430-inside-117_4_17755" fill="white">
+<path d="M836 1203H936V1267H836V1203Z"/>
+</mask>
+<path d="M936 1203H935V1267H936H937V1203H936Z" fill="#E4E9EF" mask="url(#path-430-inside-117_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="848" y="1239.73">A-04-01</tspan></text>
+<mask id="path-433-inside-118_4_17755" fill="white">
+<path d="M936 1203H1030V1267H936V1203Z"/>
+</mask>
+<path d="M1030 1203H1029V1267H1030H1031V1203H1030Z" fill="#E4E9EF" mask="url(#path-433-inside-118_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="948" y="1239.73">32 pcs</tspan></text>
+<mask id="path-436-inside-119_4_17755" fill="white">
+<path d="M1030 1203H1124V1267H1030V1203Z"/>
+</mask>
+<path d="M1124 1203H1123V1267H1124H1125V1203H1124Z" fill="#E4E9EF" mask="url(#path-436-inside-119_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1042" y="1239.73">8 pcs</tspan></text>
+<mask id="path-439-inside-120_4_17755" fill="white">
+<path d="M1124 1203H1218V1267H1124V1203Z"/>
+</mask>
+<path d="M1218 1203H1217V1267H1218H1219V1203H1218Z" fill="#E4E9EF" mask="url(#path-439-inside-120_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1136" y="1239.73">24 pcs</tspan></text>
+<mask id="path-442-inside-121_4_17755" fill="white">
+<path d="M1218 1203H1408V1267H1218V1203Z"/>
+</mask>
+<path d="M1408 1203H1407V1267H1408H1409V1203H1408Z" fill="#E4E9EF" mask="url(#path-442-inside-121_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1230" y="1239.73">Available</tspan></text>
+</g>
+<path d="M32 1203V1204H1408V1203V1202H32V1203Z" fill="#E4E9EF" mask="url(#path-414-inside-112_4_17755)"/>
+<g clip-path="url(#clip30_4_17755)">
+<mask id="path-445-inside-122_4_17755" fill="white">
+<path d="M32 1267H1408V1331H32V1267Z"/>
+</mask>
+<path d="M32 1267H1408V1331H32V1267Z" fill="white"/>
+<rect x="45.75" y="1290.75" width="16.5" height="16.5" rx="2.25" fill="white"/>
+<rect x="45.75" y="1290.75" width="16.5" height="16.5" rx="2.25" stroke="#8D9BA9" stroke-width="1.5"/>
+<mask id="path-448-inside-123_4_17755" fill="white">
+<path d="M76 1267H346V1331H76V1267Z"/>
+</mask>
+<path d="M346 1267H345V1331H346H347V1267H346Z" fill="#E4E9EF" mask="url(#path-448-inside-123_4_17755)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="88" y="1295.23">Arcline control module</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="88" y="1313">WB-ND-2026-004839-AC03</tspan></text>
+<mask id="path-452-inside-124_4_17755" fill="white">
+<path d="M346 1267H426V1331H346V1267Z"/>
+</mask>
+<path d="M426 1267H425V1331H426H427V1267H426Z" fill="#E4E9EF" mask="url(#path-452-inside-124_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="358" y="1303.73">Serial</tspan></text>
+<mask id="path-455-inside-125_4_17755" fill="white">
+<path d="M426 1267H656V1331H426V1267Z"/>
+</mask>
+<path d="M656 1267H655V1331H656H657V1267H656Z" fill="#E4E9EF" mask="url(#path-455-inside-125_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="438" y="1294.73">Programmable control module </tspan><tspan x="438" y="1312.73">with 24 V input and four relay ou</tspan></text>
+<mask id="path-458-inside-126_4_17755" fill="white">
+<path d="M656 1267H836V1331H656V1267Z"/>
+</mask>
+<path d="M836 1267H835V1331H836H837V1267H836Z" fill="#E4E9EF" mask="url(#path-458-inside-126_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="668" y="1294.73">North depot &#x2014; </tspan><tspan x="668" y="1312.73">Manchester</tspan></text>
+<mask id="path-461-inside-127_4_17755" fill="white">
+<path d="M836 1267H936V1331H836V1267Z"/>
+</mask>
+<path d="M936 1267H935V1331H936H937V1267H936Z" fill="#E4E9EF" mask="url(#path-461-inside-127_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="848" y="1303.73">D-03-05</tspan></text>
+<mask id="path-464-inside-128_4_17755" fill="white">
+<path d="M936 1267H1030V1331H936V1267Z"/>
+</mask>
+<path d="M1030 1267H1029V1331H1030H1031V1267H1030Z" fill="#E4E9EF" mask="url(#path-464-inside-128_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="948" y="1303.73">1 pcs</tspan></text>
+<mask id="path-467-inside-129_4_17755" fill="white">
+<path d="M1030 1267H1124V1331H1030V1267Z"/>
+</mask>
+<path d="M1124 1267H1123V1331H1124H1125V1267H1124Z" fill="#E4E9EF" mask="url(#path-467-inside-129_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1042" y="1303.73">0 pcs</tspan></text>
+<mask id="path-470-inside-130_4_17755" fill="white">
+<path d="M1124 1267H1218V1331H1124V1267Z"/>
+</mask>
+<path d="M1218 1267H1217V1331H1218H1219V1267H1218Z" fill="#E4E9EF" mask="url(#path-470-inside-130_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1136" y="1303.73">1 pcs</tspan></text>
+<mask id="path-473-inside-131_4_17755" fill="white">
+<path d="M1218 1267H1408V1331H1218V1267Z"/>
+</mask>
+<path d="M1408 1267H1407V1331H1408H1409V1267H1408Z" fill="#E4E9EF" mask="url(#path-473-inside-131_4_17755)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1230" y="1303.73">Available</tspan></text>
+</g>
+<path d="M32 1267V1268H1408V1267V1266H32V1267Z" fill="#E4E9EF" mask="url(#path-445-inside-122_4_17755)"/>
+</g>
+<rect x="32.5" y="519.5" width="1375" height="811" stroke="#D6DEE7"/>
+<rect x="32.5" y="1331.5" width="1375" height="71" fill="white"/>
+<rect x="32.5" y="1331.5" width="1375" height="71" stroke="#D6DEE7"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="48" y="1371.73">Showing 1&#x2013;12 of 148 matching articles</tspan></text>
+<g clip-path="url(#clip31_4_17755)">
+<rect x="997.5" y="1345.5" width="103" height="43" rx="5.5" fill="white"/>
+<rect x="997.5" y="1345.5" width="103" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1011" y="1372.09">&#x2190; Previous</tspan></text>
+<rect x="1109" y="1345" width="35" height="44" rx="6" fill="#185DB4"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1123" y="1372.09">1</tspan></text>
+<rect x="1152.5" y="1345.5" width="36" height="43" rx="5.5" fill="white"/>
+<rect x="1152.5" y="1345.5" width="36" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1166" y="1372.09">2</tspan></text>
+<rect x="1197.5" y="1345.5" width="37" height="43" rx="5.5" fill="white"/>
+<rect x="1197.5" y="1345.5" width="37" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1211" y="1372.09">3</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="1243" y="1372.09">&#x2026;</tspan></text>
+<rect x="1263.5" y="1345.5" width="43" height="43" rx="5.5" fill="white"/>
+<rect x="1263.5" y="1345.5" width="43" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1277" y="1372.09">13</tspan></text>
+<rect x="1315.5" y="1345.5" width="76" height="43" rx="5.5" fill="white"/>
+<rect x="1315.5" y="1345.5" width="76" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1329" y="1372.09">Next &#x2192;</tspan></text>
+</g>
+</g>
+<mask id="path-491-inside-132_4_17755" fill="white">
+<path d="M0 1435H1440V1482H0V1435Z"/>
+</mask>
+<path d="M0 1435V1436H1440V1435V1434H0V1435Z" fill="#D6DEE7" mask="url(#path-491-inside-132_4_17755)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="32" y="1462.5">WarehouseBay &#xb7; Design concept &#xb7; Not a live environment</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="1231" y="1462.5">Production 1.16.3  /  Next local 1.17</tspan></text>
+</g>
+<defs>
+<clipPath id="clip0_4_17755">
+<rect width="1440" height="1482" fill="white"/>
+</clipPath>
+<clipPath id="clip1_4_17755">
+<rect width="1440" height="72" fill="white"/>
+</clipPath>
+<clipPath id="clip2_4_17755">
+<rect width="1376" height="63" fill="white" transform="translate(32 104)"/>
+</clipPath>
+<clipPath id="clip3_4_17755">
+<rect width="375" height="63" fill="white" transform="translate(32 104)"/>
+</clipPath>
+<clipPath id="clip4_4_17755">
+<rect width="264" height="44" fill="white" transform="translate(1144 113.5)"/>
+</clipPath>
+<clipPath id="clip5_4_17755">
+<rect width="1336" height="67" fill="white" transform="translate(52 207)"/>
+</clipPath>
+<clipPath id="clip6_4_17755">
+<rect width="940" height="67" fill="white" transform="translate(52 207)"/>
+</clipPath>
+<clipPath id="clip7_4_17755">
+<rect width="270" height="67" fill="white" transform="translate(1004 207)"/>
+</clipPath>
+<clipPath id="clip8_4_17755">
+<rect width="1336" height="17" fill="white" transform="translate(52 290)"/>
+</clipPath>
+<clipPath id="clip9_4_17755">
+<rect width="268" height="44" fill="white" transform="translate(52 323)"/>
+</clipPath>
+<clipPath id="clip10_4_17755">
+<rect width="184" height="44" fill="white" transform="translate(332 323)"/>
+</clipPath>
+<clipPath id="clip11_4_17755">
+<rect width="232" height="44" fill="white" transform="translate(528 323)"/>
+</clipPath>
+<clipPath id="clip12_4_17755">
+<rect width="190" height="44" fill="white" transform="translate(772 323)"/>
+</clipPath>
+<clipPath id="clip13_4_17755">
+<rect width="1376" height="996" fill="white" transform="translate(32 407)"/>
+</clipPath>
+<clipPath id="clip14_4_17755">
+<rect width="205" height="25" fill="white" transform="translate(32 420.5)"/>
+</clipPath>
+<clipPath id="clip15_4_17755">
+<rect width="254" height="44" fill="white" transform="translate(1154 411)"/>
+</clipPath>
+<clipPath id="clip16_4_17755">
+<rect width="18" height="18" fill="white" transform="translate(252 480)"/>
+</clipPath>
+<clipPath id="clip17_4_17755">
+<rect x="32" y="519" width="1376" height="812" fill="white"/>
+</clipPath>
+<clipPath id="clip18_4_17755">
+<rect width="1376" height="44" fill="white" transform="translate(32 519)"/>
+</clipPath>
+<clipPath id="clip19_4_17755">
+<path d="M32 563H1408V627H32V563Z" fill="white"/>
+</clipPath>
+<clipPath id="clip20_4_17755">
+<path d="M32 627H1408V691H32V627Z" fill="white"/>
+</clipPath>
+<clipPath id="clip21_4_17755">
+<path d="M32 691H1408V755H32V691Z" fill="white"/>
+</clipPath>
+<clipPath id="clip22_4_17755">
+<path d="M32 755H1408V819H32V755Z" fill="white"/>
+</clipPath>
+<clipPath id="clip23_4_17755">
+<path d="M32 819H1408V883H32V819Z" fill="white"/>
+</clipPath>
+<clipPath id="clip24_4_17755">
+<path d="M32 883H1408V947H32V883Z" fill="white"/>
+</clipPath>
+<clipPath id="clip25_4_17755">
+<path d="M32 947H1408V1011H32V947Z" fill="white"/>
+</clipPath>
+<clipPath id="clip26_4_17755">
+<path d="M32 1011H1408V1075H32V1011Z" fill="white"/>
+</clipPath>
+<clipPath id="clip27_4_17755">
+<path d="M32 1075H1408V1139H32V1075Z" fill="white"/>
+</clipPath>
+<clipPath id="clip28_4_17755">
+<path d="M32 1139H1408V1203H32V1139Z" fill="white"/>
+</clipPath>
+<clipPath id="clip29_4_17755">
+<path d="M32 1203H1408V1267H32V1203Z" fill="white"/>
+</clipPath>
+<clipPath id="clip30_4_17755">
+<path d="M32 1267H1408V1331H32V1267Z" fill="white"/>
+</clipPath>
+<clipPath id="clip31_4_17755">
+<rect width="395" height="44" fill="white" transform="translate(997 1345)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,133 @@
+<svg width="704" height="935" viewBox="0 0 704 935" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_4_36498)">
+<g clip-path="url(#clip0_4_36498)">
+<rect x="32" y="20" width="640" height="871" rx="8" fill="white"/>
+<mask id="path-3-inside-1_4_36498" fill="white">
+<path d="M32 20H672V102H32V20Z"/>
+</mask>
+<path d="M672 102V101H32V102V103H672V102Z" fill="#E4E9EF" mask="url(#path-3-inside-1_4_36498)"/>
+<g clip-path="url(#clip1_4_36498)">
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="20" font-weight="600" letter-spacing="0em"><tspan x="56" y="57.2727">Merge jobs into #10428?</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="56" y="81.7273">Job actions &#xb7; Merge uncollected items</tspan></text>
+</g>
+<rect x="610.5" y="39.5" width="37" height="43" rx="5.5" fill="white"/>
+<rect x="610.5" y="39.5" width="37" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="624" y="66.0909">&#xd7;</tspan></text>
+<g clip-path="url(#clip2_4_36498)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="138.864">Source job</tspan></text>
+<rect x="56.5" y="149.5" width="591" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="149.5" width="591" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="176.091">#10436 &#xb7; Installation &#xb7; Demo Market &#x2014; Manchester&#x2026;</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="628" y="176.091">&#x2304;</tspan></text>
+</g>
+<g clip-path="url(#clip3_4_36498)">
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="56" y="231.318">Compatibility check</tspan></text>
+<rect x="565" y="213" width="83" height="25" rx="4" fill="#EBF6EF"/>
+<text fill="#267451" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="573" y="229.864">Compatible</tspan></text>
+</g>
+<rect x="56" y="258" width="592" height="62" rx="6" fill="#EBF6EF"/>
+<g clip-path="url(#clip4_4_36498)">
+<path d="M74.7498 279L76.2499 280.5L79.2502 277.5M84.5006 279C84.5006 283.143 81.1425 286.501 77 286.501C72.8575 286.501 69.4994 283.143 69.4994 279C69.4994 274.858 72.8575 271.5 77 271.5C81.1425 271.5 84.5006 274.858 84.5006 279Z" stroke="#267451" stroke-width="1.7" stroke-linecap="round"/>
+</g>
+<g clip-path="url(#clip5_4_36498)">
+<text fill="#267451" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="96" y="283.727">Same store, job type and warehouse</tspan></text>
+<text fill="#267451" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="96" y="303.864">Both jobs are open Installation jobs at North depot. Source has no collected quantities.</tspan></text>
+</g>
+<g clip-path="url(#clip6_4_36498)">
+<rect x="56.5" y="340.5" width="287" height="143" rx="5.5" fill="#F7F9FB"/>
+<rect x="56.5" y="340.5" width="287" height="143" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="70" y="366.864">Source &#xb7; Will close as merged</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0em"><tspan x="70" y="393.818">#10436 &#xb7; Installation</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="70" y="418.727">Demo Market &#x2014; Manchester Riverside &#38; </tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="70" y="441.864">Collection &#xb7; 13 Nov 2026</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="70" y="465.727">5 required &#xb7; 0 collected &#xb7; 5 reserved</tspan></text>
+<rect x="360.5" y="340.5" width="287" height="143" rx="5.5" fill="#F7F9FB"/>
+<rect x="360.5" y="340.5" width="287" height="143" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="374" y="366.864">Destination &#xb7; Keeps identity &#38; date</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0em"><tspan x="374" y="393.818">#10428 &#xb7; Installation</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="374" y="418.727">Demo Market &#x2014; Manchester Riverside &#38; </tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="374" y="441.864">Collection &#xb7; 12 Nov 2026</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="374" y="465.727">43 required &#xb7; 10 collected &#xb7; 33 reserved</tspan></text>
+</g>
+<g clip-path="url(#clip7_4_36498)">
+<rect width="592" height="44" transform="translate(56 504)" fill="#F7F9FB"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="68" y="531.091">After merge &#xb7; #10428</tspan></text>
+<mask id="path-35-inside-2_4_36498" fill="white">
+<path d="M56 548H648V588H56V548Z"/>
+</mask>
+<path d="M56 548V549H648V548V547H56V548Z" fill="#E4E9EF" mask="url(#path-35-inside-2_4_36498)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="68" y="572.727">Required</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="592" y="572.727">48 pcs</tspan></text>
+<mask id="path-39-inside-3_4_36498" fill="white">
+<path d="M56 588H648V628H56V588Z"/>
+</mask>
+<path d="M56 588V589H648V588V587H56V588Z" fill="#E4E9EF" mask="url(#path-39-inside-3_4_36498)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="68" y="612.727">Collected &#xb7; Unchanged</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="595" y="612.727">10 pcs</tspan></text>
+<mask id="path-43-inside-4_4_36498" fill="white">
+<path d="M56 628H648V668H56V628Z"/>
+</mask>
+<path d="M56 628V629H648V628V627H56V628Z" fill="#E4E9EF" mask="url(#path-43-inside-4_4_36498)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="68" y="652.727">Reserved in Inventory</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="593" y="652.727">38 pcs</tspan></text>
+<mask id="path-47-inside-5_4_36498" fill="white">
+<path d="M56 668H648V708H56V668Z"/>
+</mask>
+<path d="M56 668V669H648V668V667H56V668Z" fill="#E4E9EF" mask="url(#path-47-inside-5_4_36498)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="68" y="692.727">Collection date &#xb7; Retained</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="557" y="692.727">12 Nov 2026</tspan></text>
+</g>
+<rect x="56.5" y="504.5" width="591" height="203" stroke="#D6DEE7"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="56" y="740.864">#10436 remains linked in the audit trail. Its 13 Nov date is replaced by the destination&#39;s 12 Nov date. </tspan><tspan x="56" y="757.864">Reservations move to #10428; collected history is unchanged.</tspan></text>
+<mask id="path-52-inside-6_4_36498" fill="white">
+<path d="M32 786H672V891H32V786Z"/>
+</mask>
+<path d="M32 786H672V891H32V786Z" fill="#F7F9FB"/>
+<path d="M32 786V787H672V786V785H32V786Z" fill="#E4E9EF" mask="url(#path-52-inside-6_4_36498)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="56" y="814.864">5 pcs transferred &#xb7; No physical collection will be recorded</tspan></text>
+<rect x="434.5" y="831.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="434.5" y="831.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="448" y="858.091">Cancel</tspan></text>
+<rect x="518.5" y="831.5" width="129" height="43" rx="5.5" fill="#185DB4"/>
+<rect x="518.5" y="831.5" width="129" height="43" rx="5.5" stroke="#185DB4"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="532" y="858.091">Confirm merge</tspan></text>
+</g>
+<rect x="32.5" y="20.5" width="639" height="870" rx="7.5" stroke="#D6DEE7"/>
+</g>
+<defs>
+<filter id="filter0_d_4_36498" x="0" y="0" width="704" height="935" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="12"/>
+<feGaussianBlur stdDeviation="16"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0705882 0 0 0 0 0.168627 0 0 0 0 0.27451 0 0 0 0.109804 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4_36498"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4_36498" result="shape"/>
+</filter>
+<clipPath id="clip0_4_36498">
+<rect x="32" y="20" width="640" height="871" rx="8" fill="white"/>
+</clipPath>
+<clipPath id="clip1_4_36498">
+<rect width="538" height="50" fill="white" transform="translate(56 36)"/>
+</clipPath>
+<clipPath id="clip2_4_36498">
+<rect width="592" height="67" fill="white" transform="translate(56 126)"/>
+</clipPath>
+<clipPath id="clip3_4_36498">
+<rect width="592" height="25" fill="white" transform="translate(56 213)"/>
+</clipPath>
+<clipPath id="clip4_4_36498">
+<rect width="18" height="18" fill="white" transform="translate(68 270)"/>
+</clipPath>
+<clipPath id="clip5_4_36498">
+<rect width="540" height="38" fill="white" transform="translate(96 270)"/>
+</clipPath>
+<clipPath id="clip6_4_36498">
+<rect width="592" height="144" fill="white" transform="translate(56 340)"/>
+</clipPath>
+<clipPath id="clip7_4_36498">
+<rect x="56" y="504" width="592" height="204" fill="white"/>
+</clipPath>
+</defs>
+</svg>

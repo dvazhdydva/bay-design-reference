@@ -1,0 +1,8 @@
+<svg width="438" height="126" viewBox="0 0 438 126" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M24 36C24 33.7909 25.7909 32 28 32H82C84.2091 32 86 33.7909 86 36V50C86 52.2091 84.2091 54 82 54H28C25.7909 54 24 52.2091 24 50V36Z" fill="#EDF5FF"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="39.5" y="47">GSPN</tspan></text>
+<path d="M154 36C154 33.7909 155.791 32 158 32H212C214.209 32 216 33.7909 216 36V50C216 52.2091 214.209 54 212 54H158C155.791 54 154 52.2091 154 50V36Z" fill="#F3EEFC"/>
+<text fill="#7051B5" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="166.5" y="47">Simpro</tspan></text>
+<path d="M284 36C284 33.7909 285.791 32 288 32H368C370.209 32 372 33.7909 372 36V50C372 52.2091 370.209 54 368 54H288C285.791 54 284 52.2091 284 50V36Z" fill="#E9F7F6"/>
+<text fill="#087F83" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="297.5" y="47">GSPN claim</tspan></text>
+</svg>

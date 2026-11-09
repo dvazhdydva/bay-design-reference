@@ -1,0 +1,633 @@
+<svg width="1464" height="1722" viewBox="0 0 1464 1722" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1440" height="1722" transform="translate(12)" fill="#F3F5F8"/>
+<g clip-path="url(#clip0_4_105661)">
+<rect width="1440" height="72" transform="translate(12)" fill="white"/>
+<mask id="path-1-inside-1_4_105661" fill="white">
+<path d="M12 0H1452V72H12V0Z"/>
+</mask>
+<path d="M1452 72V71H12V72V73H1452V72Z" fill="#D6DEE7" mask="url(#path-1-inside-1_4_105661)"/>
+<rect x="44" y="20" width="32" height="32" rx="6" fill="#185DB4"/>
+<path d="M60.001 26.8496C60.1328 26.8497 60.2644 26.8746 60.3896 26.9238L60.5127 26.9814L60.5234 26.9873L68.4707 31.1699V31.1709L68.4834 31.1768C68.6751 31.2739 68.8435 31.4293 68.9639 31.6309C69.0844 31.8328 69.1504 32.0703 69.1504 32.3154V43.8945C69.1504 44.2411 69.0187 44.5654 68.7979 44.7979C68.5784 45.0288 68.2905 45.1504 68 45.1504H52C51.7095 45.1504 51.4216 45.0288 51.2021 44.7979C50.9813 44.5654 50.8496 44.2411 50.8496 43.8945V32.3154C50.8495 32.0703 50.9157 31.8328 51.0361 31.6309C51.1564 31.4292 51.3248 31.274 51.5166 31.1768L51.5273 31.1709L59.4775 26.9873L59.4883 26.9814C59.649 26.894 59.825 26.8496 60.001 26.8496Z" stroke="white" stroke-width="1.7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="20" letter-spacing="0em"><tspan x="85" y="43.2727">WarehouseBay</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="296" y="41.0909">Inventory</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="384" y="41.0909">Collection</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="476" y="41.0909">Deinstall</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="558" y="41.0909">Archive</tspan></text>
+<mask id="path-11-inside-2_4_105661" fill="white">
+<path d="M633 0H679V72H633V0Z"/>
+</mask>
+<path d="M679 72V69H633V72V75H679V72Z" fill="#185DB4" mask="url(#path-11-inside-2_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="633" y="41.0909">More &#x2304;</tspan></text>
+<rect x="1197.5" y="14.5" width="146" height="43" rx="5.5" fill="white"/>
+<rect x="1197.5" y="14.5" width="146" height="43" rx="5.5" stroke="#D6DEE7"/>
+<path d="M1224.5 42.7497V34.4995C1224.5 34.3006 1224.42 34.1098 1224.28 33.9692C1224.14 33.8285 1223.95 33.7495 1223.75 33.7495H1216.25C1216.05 33.7495 1215.86 33.8285 1215.72 33.9692C1215.58 34.1098 1215.5 34.3006 1215.5 34.4995V42.7497M1215.5 36.7496H1224.5M1215.5 39.7496H1224.5M1227.5 41.25C1227.5 41.6478 1227.34 42.0293 1227.06 42.3106C1226.78 42.5919 1226.4 42.75 1226 42.75H1214C1213.6 42.75 1213.22 42.5919 1212.94 42.3106C1212.66 42.0293 1212.5 41.6478 1212.5 41.25V32.9998C1212.5 32.7173 1212.58 32.4405 1212.73 32.2013C1212.88 31.9621 1213.09 31.7701 1213.35 31.6475L1219.31 28.6669C1219.52 28.5568 1219.76 28.4994 1220 28.4994C1220.24 28.4994 1220.48 28.5568 1220.69 28.6669L1226.65 31.6475C1226.91 31.77 1227.12 31.9619 1227.27 32.2011C1227.42 32.4404 1227.5 32.7172 1227.5 32.9998V41.25Z" stroke="#607184" stroke-width="1.7" stroke-linecap="round"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1237" y="41.0909">North depot &#x2304;</tspan></text>
+<rect x="1376" y="14" width="44" height="44" rx="22" fill="#EAF2FD"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1388" y="40.3636">AM</tspan></text>
+</g>
+<g clip-path="url(#clip1_4_105661)">
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="44" y="116.864">More / Simpro import / Job stock</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="44" y="156.682">Review job stock</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="44" y="187.091">Job #10428 &#xb7; Installation &#xb7; 12 Nov 2026</tspan></text>
+</g>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="44" y="227.091">Demo Market &#x2014; Manchester Riverside &#38; Northern Quarter Food Hall</tspan></text>
+<rect x="44" y="252" width="1376" height="62" rx="6" fill="#EAF2FD"/>
+<g clip-path="url(#clip2_4_105661)">
+<path d="M64.9996 276V273M64.9996 270H65.0071M72.5002 273C72.5002 277.142 69.1421 280.501 64.9996 280.501C60.8572 280.501 57.499 277.142 57.499 273C57.499 268.858 60.8572 265.499 64.9996 265.499C69.1421 265.499 72.5002 268.858 72.5002 273Z" stroke="#185DB4" stroke-width="1.7" stroke-linecap="round"/>
+</g>
+<g clip-path="url(#clip3_4_105661)">
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="84" y="277.727">Fetched for review &#xb7; No stock has been reserved</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="84" y="297.864">Project Overview &#x2192; Materials &#xb7; Required Total &#xb7; 128 material rows across 3 installations &#x2192; 126 combined BOM lines.</tspan></text>
+</g>
+<rect x="44.5" y="334.5" width="1375" height="77" rx="7.5" fill="white"/>
+<rect x="44.5" y="334.5" width="1375" height="77" rx="7.5" stroke="#D6DEE7"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="60" y="362.864">Ready</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="18" font-weight="600" letter-spacing="0em"><tspan x="60" y="390.045">120 lines</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="512" y="362.864">Needs review</tspan></text>
+<text fill="#885B0D" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="18" font-weight="600" letter-spacing="0em"><tspan x="512" y="390.045">4 lines</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="964" y="362.864">Covered</tspan></text>
+<text fill="#267451" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="18" font-weight="600" letter-spacing="0em"><tspan x="964" y="390.045">2 lines</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="44" y="445.727">Assigned = collected + reserved on this job. Only shortages can be newly reserved. Assigned serials are excluded from selection.</tspan></text>
+<g clip-path="url(#clip4_4_105661)">
+<rect x="44.5" y="470.5" width="259" height="43" rx="5.5" fill="white"/>
+<rect x="44.5" y="470.5" width="259" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="56" y="497.091">View &#xb7; All lines (126)</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="284" y="497.091">&#x2304;</tspan></text>
+</g>
+<rect x="312.5" y="470.5" width="140" height="43" rx="5.5" fill="white"/>
+<rect x="312.5" y="470.5" width="140" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="326" y="497.091">Needs review &#xb7; 4</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="461" y="496.364">Available non-serial stock preselected up to the shortage &#xb7; Serial selection is always explicit</tspan></text>
+<g clip-path="url(#clip5_4_105661)">
+<rect x="44" y="534" width="1376" height="905" fill="white"/>
+<rect width="1376" height="52" transform="translate(44 534)" fill="#EAF2FD"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="56" y="564.727">120 lines selected</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1316" y="564.727">Clear selection</tspan></text>
+<g clip-path="url(#clip6_4_105661)">
+<rect width="1376" height="44" transform="translate(44 586)" fill="#F7F9FB"/>
+<rect x="57.75" y="599.75" width="16.5" height="16.5" rx="2.25" fill="#185DB4"/>
+<rect x="57.75" y="599.75" width="16.5" height="16.5" rx="2.25" stroke="#185DB4" stroke-width="1.5"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="61.5" y="612.364">&#x2212;</tspan></text>
+<mask id="path-47-inside-3_4_105661" fill="white">
+<path d="M88 586H368V630H88V586Z"/>
+</mask>
+<path d="M368 586H367V630H368H369V586H368Z" fill="#E4E9EF" mask="url(#path-47-inside-3_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="100" y="612.727">Article / Simpro code</tspan></text>
+<mask id="path-50-inside-4_4_105661" fill="white">
+<path d="M368 586H568V630H368V586Z"/>
+</mask>
+<path d="M568 586H567V630H568H569V586H568Z" fill="#E4E9EF" mask="url(#path-50-inside-4_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="380" y="612.727">Storage / availability</tspan></text>
+<mask id="path-53-inside-5_4_105661" fill="white">
+<path d="M568 586H658V630H568V586Z"/>
+</mask>
+<path d="M658 586H657V630H658H659V586H658Z" fill="#E4E9EF" mask="url(#path-53-inside-5_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="580" y="612.727">Required</tspan></text>
+<mask id="path-56-inside-6_4_105661" fill="white">
+<path d="M658 586H758V630H658V586Z"/>
+</mask>
+<path d="M758 586H757V630H758H759V586H758Z" fill="#E4E9EF" mask="url(#path-56-inside-6_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="670" y="612.727">Assigned</tspan></text>
+<mask id="path-59-inside-7_4_105661" fill="white">
+<path d="M758 586H848V630H758V586Z"/>
+</mask>
+<path d="M848 586H847V630H848H849V586H848Z" fill="#E4E9EF" mask="url(#path-59-inside-7_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="770" y="612.727">Shortage</tspan></text>
+<mask id="path-62-inside-8_4_105661" fill="white">
+<path d="M848 586H948V630H848V586Z"/>
+</mask>
+<path d="M948 586H947V630H948H949V586H948Z" fill="#E4E9EF" mask="url(#path-62-inside-8_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="860" y="612.727">Reserve</tspan></text>
+<mask id="path-65-inside-9_4_105661" fill="white">
+<path d="M948 586H1420V630H948V586Z"/>
+</mask>
+<path d="M1420 586H1419V630H1420H1421V586H1420Z" fill="#E4E9EF" mask="url(#path-65-inside-9_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="960" y="612.727">Match / row action</tspan></text>
+</g>
+<g clip-path="url(#clip7_4_105661)">
+<mask id="path-68-inside-10_4_105661" fill="white">
+<path d="M44 630H1420V718H44V630Z"/>
+</mask>
+<path d="M44 630H1420V718H44V630Z" fill="white"/>
+<rect x="57.75" y="665.75" width="16.5" height="16.5" rx="2.25" fill="white"/>
+<rect x="57.75" y="665.75" width="16.5" height="16.5" rx="2.25" stroke="#8D9BA9" stroke-width="1.5"/>
+<mask id="path-71-inside-11_4_105661" fill="white">
+<path d="M88 630H368V718H88V630Z"/>
+</mask>
+<path d="M368 630H367V718H368H369V630H368Z" fill="#E4E9EF" mask="url(#path-71-inside-11_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="100" y="669.727">PolarLine CX-900-LH-R290-UK</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="100" y="688.5">SIM-48017 &#xb7; Serial</tspan></text>
+<mask id="path-75-inside-12_4_105661" fill="white">
+<path d="M368 630H568V718H368V630Z"/>
+</mask>
+<path d="M568 630H567V718H568H569V630H568Z" fill="#E4E9EF" mask="url(#path-75-inside-12_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="380" y="669.727">Cold-chain equipment</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="380" y="688.5">North depot &#x2014; Manchester</tspan></text>
+<mask id="path-79-inside-13_4_105661" fill="white">
+<path d="M568 630H658V718H568V630Z"/>
+</mask>
+<path d="M658 630H657V718H658H659V630H658Z" fill="#E4E9EF" mask="url(#path-79-inside-13_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="580" y="678.727">2 pcs</tspan></text>
+<mask id="path-82-inside-14_4_105661" fill="white">
+<path d="M658 630H758V718H658V630Z"/>
+</mask>
+<path d="M758 630H757V718H758H759V630H758Z" fill="#E4E9EF" mask="url(#path-82-inside-14_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="670" y="678.727">1 pcs</tspan></text>
+<mask id="path-85-inside-15_4_105661" fill="white">
+<path d="M758 630H848V718H758V630Z"/>
+</mask>
+<path d="M848 630H847V718H848H849V630H848Z" fill="#E4E9EF" mask="url(#path-85-inside-15_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="770" y="678.727">1 pcs</tspan></text>
+<g clip-path="url(#clip8_4_105661)">
+<rect x="860.5" y="652.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="860.5" y="652.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="872" y="679.091">&#x2014;</tspan></text>
+</g>
+<g clip-path="url(#clip9_4_105661)">
+<text fill="#885B0D" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="960" y="654.364">Original match</tspan></text>
+<rect x="960.5" y="663" width="111" height="43" rx="5.5" fill="white"/>
+<rect x="960.5" y="663" width="111" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="974" y="689.591">Select serial</tspan></text>
+</g>
+</g>
+<path d="M44 630V631H1420V630V629H44V630Z" fill="#E4E9EF" mask="url(#path-68-inside-10_4_105661)"/>
+<g clip-path="url(#clip10_4_105661)">
+<mask id="path-93-inside-16_4_105661" fill="white">
+<path d="M44 718H1420V806H44V718Z"/>
+</mask>
+<path d="M44 718H1420V806H44V718Z" fill="white"/>
+<rect x="57.75" y="753.75" width="16.5" height="16.5" rx="2.25" fill="#F3F5F8"/>
+<rect x="57.75" y="753.75" width="16.5" height="16.5" rx="2.25" stroke="#D6DEE7" stroke-width="1.5"/>
+<mask id="path-96-inside-17_4_105661" fill="white">
+<path d="M88 718H368V806H88V718Z"/>
+</mask>
+<path d="M368 718H367V806H368H369V718H368Z" fill="#E4E9EF" mask="url(#path-96-inside-17_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="100" y="757.727">BayForm shelving clips</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="100" y="776.5">BF-250-CLIP-ZN &#xb7; Quantity</tspan></text>
+<mask id="path-100-inside-18_4_105661" fill="white">
+<path d="M368 718H568V806H368V718Z"/>
+</mask>
+<path d="M568 718H567V806H568H569V718H568Z" fill="#E4E9EF" mask="url(#path-100-inside-18_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="380" y="757.727">Fixings &#38; shelving +1</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="380" y="776.5">North depot &#x2014; Manchester</tspan></text>
+<mask id="path-104-inside-19_4_105661" fill="white">
+<path d="M568 718H658V806H568V718Z"/>
+</mask>
+<path d="M658 718H657V806H658H659V718H658Z" fill="#E4E9EF" mask="url(#path-104-inside-19_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="580" y="766.727">40 pcs</tspan></text>
+<mask id="path-107-inside-20_4_105661" fill="white">
+<path d="M658 718H758V806H658V718Z"/>
+</mask>
+<path d="M758 718H757V806H758H759V718H758Z" fill="#E4E9EF" mask="url(#path-107-inside-20_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="670" y="766.727">40 pcs</tspan></text>
+<mask id="path-110-inside-21_4_105661" fill="white">
+<path d="M758 718H848V806H758V718Z"/>
+</mask>
+<path d="M848 718H847V806H848H849V718H848Z" fill="#E4E9EF" mask="url(#path-110-inside-21_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="770" y="766.727">0 pcs</tspan></text>
+<g clip-path="url(#clip11_4_105661)">
+<rect x="860.5" y="740.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="860.5" y="740.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="872" y="767.091">0</tspan></text>
+</g>
+<g clip-path="url(#clip12_4_105661)">
+<text fill="#267451" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="960" y="742.364">Original &#xb7; Already assigned</tspan></text>
+<rect x="960.5" y="751" width="126" height="43" rx="5.5" fill="white"/>
+<rect x="960.5" y="751" width="126" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="974" y="777.591">View assigned</tspan></text>
+</g>
+</g>
+<path d="M44 718V719H1420V718V717H44V718Z" fill="#E4E9EF" mask="url(#path-93-inside-16_4_105661)"/>
+<g clip-path="url(#clip13_4_105661)">
+<mask id="path-118-inside-22_4_105661" fill="white">
+<path d="M44 806H1420V894H44V806Z"/>
+</mask>
+<path d="M44 806H1420V894H44V806Z" fill="#EAF2FD"/>
+<rect x="57.75" y="841.75" width="16.5" height="16.5" rx="2.25" fill="#185DB4"/>
+<rect x="57.75" y="841.75" width="16.5" height="16.5" rx="2.25" stroke="#185DB4" stroke-width="1.5"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="60.5" y="854.364">&#x2713;</tspan></text>
+<mask id="path-122-inside-23_4_105661" fill="white">
+<path d="M88 806H368V894H88V806Z"/>
+</mask>
+<path d="M368 806H367V894H368H369V806H368Z" fill="#E4E9EF" mask="url(#path-122-inside-23_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="100" y="845.727">PolarLine wire shelf, 600 mm</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="100" y="864.5">PL-SHELF-600 &#xb7; Quantity</tspan></text>
+<mask id="path-126-inside-24_4_105661" fill="white">
+<path d="M368 806H568V894H368V806Z"/>
+</mask>
+<path d="M568 806H567V894H568H569V806H568Z" fill="#E4E9EF" mask="url(#path-126-inside-24_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="380" y="845.727">Cold-chain equipment</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="380" y="864.5">Available stock preselected</tspan></text>
+<mask id="path-130-inside-25_4_105661" fill="white">
+<path d="M568 806H658V894H568V806Z"/>
+</mask>
+<path d="M658 806H657V894H658H659V806H658Z" fill="#E4E9EF" mask="url(#path-130-inside-25_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="580" y="854.727">8 pcs</tspan></text>
+<mask id="path-133-inside-26_4_105661" fill="white">
+<path d="M658 806H758V894H658V806Z"/>
+</mask>
+<path d="M758 806H757V894H758H759V806H758Z" fill="#E4E9EF" mask="url(#path-133-inside-26_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="670" y="854.727">2 pcs</tspan></text>
+<mask id="path-136-inside-27_4_105661" fill="white">
+<path d="M758 806H848V894H758V806Z"/>
+</mask>
+<path d="M848 806H847V894H848H849V806H848Z" fill="#E4E9EF" mask="url(#path-136-inside-27_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="770" y="854.727">6 pcs</tspan></text>
+<g clip-path="url(#clip14_4_105661)">
+<rect x="860.5" y="828.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="860.5" y="828.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="872" y="855.091">6</tspan></text>
+</g>
+<g clip-path="url(#clip15_4_105661)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="960" y="830.364">Original match</tspan></text>
+<rect x="960.5" y="839" width="136" height="43" rx="5.5" fill="white"/>
+<rect x="960.5" y="839" width="136" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="974" y="865.591">Review quantity</tspan></text>
+</g>
+</g>
+<path d="M44 806V807H1420V806V805H44V806Z" fill="#E4E9EF" mask="url(#path-118-inside-22_4_105661)"/>
+<g clip-path="url(#clip16_4_105661)">
+<mask id="path-144-inside-28_4_105661" fill="white">
+<path d="M44 894H1420V982H44V894Z"/>
+</mask>
+<path d="M44 894H1420V982H44V894Z" fill="#EAF2FD"/>
+<rect x="57.75" y="929.75" width="16.5" height="16.5" rx="2.25" fill="#185DB4"/>
+<rect x="57.75" y="929.75" width="16.5" height="16.5" rx="2.25" stroke="#185DB4" stroke-width="1.5"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="60.5" y="942.364">&#x2713;</tspan></text>
+<mask id="path-148-inside-29_4_105661" fill="white">
+<path d="M88 894H368V982H88V894Z"/>
+</mask>
+<path d="M368 894H367V982H368H369V894H368Z" fill="#E4E9EF" mask="url(#path-148-inside-29_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="100" y="933.727">Arcline Cat6 cable, grey</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="100" y="952.5">ARC-C6-305-GR &#xb7; Quantity</tspan></text>
+<mask id="path-152-inside-30_4_105661" fill="white">
+<path d="M368 894H568V982H368V894Z"/>
+</mask>
+<path d="M568 894H567V982H568H569V894H568Z" fill="#E4E9EF" mask="url(#path-152-inside-30_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="380" y="933.727">Cable &#38; controls</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="380" y="952.5">Available stock preselected</tspan></text>
+<mask id="path-156-inside-31_4_105661" fill="white">
+<path d="M568 894H658V982H568V894Z"/>
+</mask>
+<path d="M658 894H657V982H658H659V894H658Z" fill="#E4E9EF" mask="url(#path-156-inside-31_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="580" y="942.727">100 m</tspan></text>
+<mask id="path-159-inside-32_4_105661" fill="white">
+<path d="M658 894H758V982H658V894Z"/>
+</mask>
+<path d="M758 894H757V982H758H759V894H758Z" fill="#E4E9EF" mask="url(#path-159-inside-32_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="670" y="942.727">20 m</tspan></text>
+<mask id="path-162-inside-33_4_105661" fill="white">
+<path d="M758 894H848V982H758V894Z"/>
+</mask>
+<path d="M848 894H847V982H848H849V894H848Z" fill="#E4E9EF" mask="url(#path-162-inside-33_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="770" y="942.727">80 m</tspan></text>
+<g clip-path="url(#clip17_4_105661)">
+<rect x="860.5" y="916.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="860.5" y="916.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="872" y="943.091">80</tspan></text>
+</g>
+<g clip-path="url(#clip18_4_105661)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="960" y="918.364">Original match</tspan></text>
+<rect x="960.5" y="927" width="136" height="43" rx="5.5" fill="white"/>
+<rect x="960.5" y="927" width="136" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="974" y="953.591">Review quantity</tspan></text>
+</g>
+</g>
+<path d="M44 894V895H1420V894V893H44V894Z" fill="#E4E9EF" mask="url(#path-144-inside-28_4_105661)"/>
+<g clip-path="url(#clip19_4_105661)">
+<mask id="path-170-inside-34_4_105661" fill="white">
+<path d="M44 982H1420V1070H44V982Z"/>
+</mask>
+<path d="M44 982H1420V1070H44V982Z" fill="white"/>
+<rect x="57.75" y="1017.75" width="16.5" height="16.5" rx="2.25" fill="white"/>
+<rect x="57.75" y="1017.75" width="16.5" height="16.5" rx="2.25" stroke="#8D9BA9" stroke-width="1.5"/>
+<mask id="path-173-inside-35_4_105661" fill="white">
+<path d="M88 982H368V1070H88V982Z"/>
+</mask>
+<path d="M368 982H367V1070H368H369V982H368Z" fill="#E4E9EF" mask="url(#path-173-inside-35_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="100" y="1021.73">DuctPro flexible duct 150 mm</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="100" y="1040.5">DP-FLEX-150-10 &#xb7; Quantity</tspan></text>
+<mask id="path-177-inside-36_4_105661" fill="white">
+<path d="M368 982H568V1070H368V982Z"/>
+</mask>
+<path d="M568 982H567V1070H568H569V982H568Z" fill="#E4E9EF" mask="url(#path-177-inside-36_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="380" y="1021.73">Ventilation &#xb7; 0 available</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="380" y="1040.5">North depot &#x2014; Manchester</tspan></text>
+<mask id="path-181-inside-37_4_105661" fill="white">
+<path d="M568 982H658V1070H568V982Z"/>
+</mask>
+<path d="M658 982H657V1070H658H659V982H658Z" fill="#E4E9EF" mask="url(#path-181-inside-37_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="580" y="1030.73">12 m</tspan></text>
+<mask id="path-184-inside-38_4_105661" fill="white">
+<path d="M658 982H758V1070H658V982Z"/>
+</mask>
+<path d="M758 982H757V1070H758H759V982H758Z" fill="#E4E9EF" mask="url(#path-184-inside-38_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="670" y="1030.73">0 m</tspan></text>
+<mask id="path-187-inside-39_4_105661" fill="white">
+<path d="M758 982H848V1070H758V982Z"/>
+</mask>
+<path d="M848 982H847V1070H848H849V982H848Z" fill="#E4E9EF" mask="url(#path-187-inside-39_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="770" y="1030.73">12 m</tspan></text>
+<g clip-path="url(#clip20_4_105661)">
+<rect x="860.5" y="1004.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="860.5" y="1004.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="872" y="1031.09">&#x2014;</tspan></text>
+</g>
+<g clip-path="url(#clip21_4_105661)">
+<text fill="#885B0D" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="960" y="1006.36">Original unavailable</tspan></text>
+<rect x="960.5" y="1015" width="157" height="43" rx="5.5" fill="white"/>
+<rect x="960.5" y="1015" width="157" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="974" y="1041.59">Resolve alternative</tspan></text>
+</g>
+</g>
+<path d="M44 982V983H1420V982V981H44V982Z" fill="#E4E9EF" mask="url(#path-170-inside-34_4_105661)"/>
+<g clip-path="url(#clip22_4_105661)">
+<mask id="path-195-inside-40_4_105661" fill="white">
+<path d="M44 1070H1420V1158H44V1070Z"/>
+</mask>
+<path d="M44 1070H1420V1158H44V1070Z" fill="white"/>
+<rect x="57.75" y="1105.75" width="16.5" height="16.5" rx="2.25" fill="white"/>
+<rect x="57.75" y="1105.75" width="16.5" height="16.5" rx="2.25" stroke="#8D9BA9" stroke-width="1.5"/>
+<mask id="path-198-inside-41_4_105661" fill="white">
+<path d="M88 1070H368V1158H88V1070Z"/>
+</mask>
+<path d="M368 1070H367V1158H368H369V1070H368Z" fill="#E4E9EF" mask="url(#path-198-inside-41_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="100" y="1109.73">BayForm wall bracket, 400 mm</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="100" y="1128.5">BF-WB-400-ZN &#xb7; Unknown</tspan></text>
+<mask id="path-202-inside-42_4_105661" fill="white">
+<path d="M368 1070H568V1158H368V1070Z"/>
+</mask>
+<path d="M568 1070H567V1158H568H569V1070H568Z" fill="#E4E9EF" mask="url(#path-202-inside-42_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="380" y="1109.73">No article in WarehouseBay</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="380" y="1128.5">North depot &#x2014; Manchester</tspan></text>
+<mask id="path-206-inside-43_4_105661" fill="white">
+<path d="M568 1070H658V1158H568V1070Z"/>
+</mask>
+<path d="M658 1070H657V1158H658H659V1070H658Z" fill="#E4E9EF" mask="url(#path-206-inside-43_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="580" y="1118.73">4 pcs</tspan></text>
+<mask id="path-209-inside-44_4_105661" fill="white">
+<path d="M658 1070H758V1158H658V1070Z"/>
+</mask>
+<path d="M758 1070H757V1158H758H759V1070H758Z" fill="#E4E9EF" mask="url(#path-209-inside-44_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="670" y="1118.73">0 pcs</tspan></text>
+<mask id="path-212-inside-45_4_105661" fill="white">
+<path d="M758 1070H848V1158H758V1070Z"/>
+</mask>
+<path d="M848 1070H847V1158H848H849V1070H848Z" fill="#E4E9EF" mask="url(#path-212-inside-45_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="770" y="1118.73">4 pcs</tspan></text>
+<g clip-path="url(#clip23_4_105661)">
+<rect x="860.5" y="1092.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="860.5" y="1092.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="872" y="1119.09">&#x2014;</tspan></text>
+</g>
+<g clip-path="url(#clip24_4_105661)">
+<text fill="#885B0D" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="960" y="1094.36">No original match</tspan></text>
+<rect x="960.5" y="1103" width="119" height="43" rx="5.5" fill="white"/>
+<rect x="960.5" y="1103" width="119" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="974" y="1129.59">Create article</tspan></text>
+</g>
+</g>
+<path d="M44 1070V1071H1420V1070V1069H44V1070Z" fill="#E4E9EF" mask="url(#path-195-inside-40_4_105661)"/>
+<g clip-path="url(#clip25_4_105661)">
+<mask id="path-220-inside-46_4_105661" fill="white">
+<path d="M44 1158H1420V1246H44V1158Z"/>
+</mask>
+<path d="M44 1158H1420V1246H44V1158Z" fill="#EAF2FD"/>
+<rect x="57.75" y="1193.75" width="16.5" height="16.5" rx="2.25" fill="#185DB4"/>
+<rect x="57.75" y="1193.75" width="16.5" height="16.5" rx="2.25" stroke="#185DB4" stroke-width="1.5"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="60.5" y="1206.36">&#x2713;</tspan></text>
+<mask id="path-224-inside-47_4_105661" fill="white">
+<path d="M88 1158H368V1246H88V1158Z"/>
+</mask>
+<path d="M368 1158H367V1246H368H369V1158H368Z" fill="#E4E9EF" mask="url(#path-224-inside-47_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="100" y="1197.73">Stainless steel fasteners M8</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="100" y="1216.5">SS-M8-MIX &#xb7; Quantity</tspan></text>
+<mask id="path-228-inside-48_4_105661" fill="white">
+<path d="M368 1158H568V1246H368V1158Z"/>
+</mask>
+<path d="M568 1158H567V1246H568H569V1158H568Z" fill="#E4E9EF" mask="url(#path-228-inside-48_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="380" y="1197.73">Fixings &#38; shelving</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="380" y="1216.5">Available stock preselected</tspan></text>
+<mask id="path-232-inside-49_4_105661" fill="white">
+<path d="M568 1158H658V1246H568V1158Z"/>
+</mask>
+<path d="M658 1158H657V1246H658H659V1158H658Z" fill="#E4E9EF" mask="url(#path-232-inside-49_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="580" y="1206.73">5 kg</tspan></text>
+<mask id="path-235-inside-50_4_105661" fill="white">
+<path d="M658 1158H758V1246H658V1158Z"/>
+</mask>
+<path d="M758 1158H757V1246H758H759V1158H758Z" fill="#E4E9EF" mask="url(#path-235-inside-50_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="670" y="1206.73">1 kg</tspan></text>
+<mask id="path-238-inside-51_4_105661" fill="white">
+<path d="M758 1158H848V1246H758V1158Z"/>
+</mask>
+<path d="M848 1158H847V1246H848H849V1158H848Z" fill="#E4E9EF" mask="url(#path-238-inside-51_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="770" y="1206.73">4 kg</tspan></text>
+<g clip-path="url(#clip26_4_105661)">
+<rect x="860.5" y="1180.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="860.5" y="1180.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="872" y="1207.09">4</tspan></text>
+</g>
+<g clip-path="url(#clip27_4_105661)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="960" y="1182.36">Original match</tspan></text>
+<rect x="960.5" y="1191" width="136" height="43" rx="5.5" fill="white"/>
+<rect x="960.5" y="1191" width="136" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="974" y="1217.59">Review quantity</tspan></text>
+</g>
+</g>
+<path d="M44 1158V1159H1420V1158V1157H44V1158Z" fill="#E4E9EF" mask="url(#path-220-inside-46_4_105661)"/>
+<g clip-path="url(#clip28_4_105661)">
+<mask id="path-246-inside-52_4_105661" fill="white">
+<path d="M44 1246H1420V1334H44V1246Z"/>
+</mask>
+<path d="M44 1246H1420V1334H44V1246Z" fill="white"/>
+<rect x="57.75" y="1281.75" width="16.5" height="16.5" rx="2.25" fill="white"/>
+<rect x="57.75" y="1281.75" width="16.5" height="16.5" rx="2.25" stroke="#8D9BA9" stroke-width="1.5"/>
+<mask id="path-249-inside-53_4_105661" fill="white">
+<path d="M88 1246H368V1334H88V1246Z"/>
+</mask>
+<path d="M368 1246H367V1334H368H369V1246H368Z" fill="#E4E9EF" mask="url(#path-249-inside-53_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="100" y="1285.73">Arcline control module</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="100" y="1304.5">ARC-CTRL-24V &#xb7; Serial</tspan></text>
+<mask id="path-253-inside-54_4_105661" fill="white">
+<path d="M368 1246H568V1334H368V1246Z"/>
+</mask>
+<path d="M568 1246H567V1334H568H569V1246H568Z" fill="#E4E9EF" mask="url(#path-253-inside-54_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="380" y="1285.73">Cable &#38; controls</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="380" y="1304.5">North depot &#x2014; Manchester</tspan></text>
+<mask id="path-257-inside-55_4_105661" fill="white">
+<path d="M568 1246H658V1334H568V1246Z"/>
+</mask>
+<path d="M658 1246H657V1334H658H659V1246H658Z" fill="#E4E9EF" mask="url(#path-257-inside-55_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="580" y="1294.73">2 pcs</tspan></text>
+<mask id="path-260-inside-56_4_105661" fill="white">
+<path d="M658 1246H758V1334H658V1246Z"/>
+</mask>
+<path d="M758 1246H757V1334H758H759V1246H758Z" fill="#E4E9EF" mask="url(#path-260-inside-56_4_105661)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="670" y="1294.73">0 pcs</tspan></text>
+<mask id="path-263-inside-57_4_105661" fill="white">
+<path d="M758 1246H848V1334H758V1246Z"/>
+</mask>
+<path d="M848 1246H847V1334H848H849V1246H848Z" fill="#E4E9EF" mask="url(#path-263-inside-57_4_105661)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="770" y="1294.73">2 pcs</tspan></text>
+<g clip-path="url(#clip29_4_105661)">
+<rect x="860.5" y="1268.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="860.5" y="1268.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="872" y="1295.09">&#x2014;</tspan></text>
+</g>
+<g clip-path="url(#clip30_4_105661)">
+<text fill="#885B0D" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="960" y="1270.36">Original match</tspan></text>
+<rect x="960.5" y="1279" width="118" height="43" rx="5.5" fill="white"/>
+<rect x="960.5" y="1279" width="118" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="974" y="1305.59">Select serials</tspan></text>
+</g>
+</g>
+<path d="M44 1246V1247H1420V1246V1245H44V1246Z" fill="#E4E9EF" mask="url(#path-246-inside-52_4_105661)"/>
+<mask id="path-271-inside-58_4_105661" fill="white">
+<path d="M44 1334H1420V1439H44V1334Z"/>
+</mask>
+<path d="M44 1334H1420V1439H44V1334Z" fill="white"/>
+<path d="M44 1334V1335H1420V1334V1333H44V1334Z" fill="#D6DEE7" mask="url(#path-271-inside-58_4_105661)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="60" y="1362.86">1&#x2013;8 of 126 combined lines &#xb7; Page 1 of 16</tspan></text>
+<rect x="60.5" y="1379.5" width="103" height="43" rx="5.5" fill="#F3F5F8"/>
+<rect x="60.5" y="1379.5" width="103" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#8D9BA9" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="74" y="1406.09">&#x2190; Previous</tspan></text>
+<rect x="172.5" y="1379.5" width="76" height="43" rx="5.5" fill="white"/>
+<rect x="172.5" y="1379.5" width="76" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="186" y="1406.09">Next &#x2192;</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="257" y="1391.86">Selection retained across all pages</tspan></text>
+</g>
+<rect x="44.5" y="534.5" width="1375" height="904" stroke="#D6DEE7"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="44" y="1471.86">Reserve checks every unprocessed line. Resolve it or choose Skip; existing assignments will never be added again.</tspan></text>
+<g filter="url(#filter0_d_4_105661)">
+<mask id="path-280-inside-59_4_105661" fill="white">
+<path d="M12 1572H1452V1656H12V1572Z"/>
+</mask>
+<path d="M12 1572H1452V1656H12V1572Z" fill="white"/>
+<path d="M12 1572V1573H1452V1572V1571H12V1572Z" fill="#D6DEE7" mask="url(#path-280-inside-59_4_105661)"/>
+<g clip-path="url(#clip31_4_105661)">
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="32" y="1608.59">120 selected &#xb7; 4 lines to review</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="32" y="1630.36">Reserve only shortages. Covered lines stay unchanged.</tspan></text>
+<rect x="1177.5" y="1592.5" width="109" height="43" rx="5.5" fill="white"/>
+<rect x="1177.5" y="1592.5" width="109" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1191" y="1619.09">Save review</tspan></text>
+<rect x="1307.5" y="1592.5" width="124" height="43" rx="5.5" fill="#185DB4"/>
+<rect x="1307.5" y="1592.5" width="124" height="43" rx="5.5" stroke="#185DB4"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="1321" y="1619.09">Reserve stock</tspan></text>
+</g>
+</g>
+<mask id="path-288-inside-60_4_105661" fill="white">
+<path d="M12 1656H1452V1722H12V1656Z"/>
+</mask>
+<path d="M12 1656V1657H1452V1656V1655H12V1656Z" fill="#D6DEE7" mask="url(#path-288-inside-60_4_105661)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="44" y="1683.5">WarehouseBay v2.0 &#xb7; Design concept &#xb7; Not production</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="44" y="1702.5">Production 1.16.3  /  Next local 1.17</tspan></text>
+<defs>
+<filter id="filter0_d_4_105661" x="0" y="1556" width="1464" height="108" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-4"/>
+<feGaussianBlur stdDeviation="6"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0705882 0 0 0 0 0.168627 0 0 0 0 0.27451 0 0 0 0.0509804 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4_105661"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4_105661" result="shape"/>
+</filter>
+<clipPath id="clip0_4_105661">
+<rect width="1440" height="72" fill="white" transform="translate(12)"/>
+</clipPath>
+<clipPath id="clip1_4_105661">
+<rect width="1376" height="88" fill="white" transform="translate(44 104)"/>
+</clipPath>
+<clipPath id="clip2_4_105661">
+<rect width="18" height="18" fill="white" transform="translate(56 264)"/>
+</clipPath>
+<clipPath id="clip3_4_105661">
+<rect width="1324" height="38" fill="white" transform="translate(84 264)"/>
+</clipPath>
+<clipPath id="clip4_4_105661">
+<rect width="260" height="44" fill="white" transform="translate(44 470)"/>
+</clipPath>
+<clipPath id="clip5_4_105661">
+<rect x="44" y="534" width="1376" height="905" fill="white"/>
+</clipPath>
+<clipPath id="clip6_4_105661">
+<rect width="1376" height="44" fill="white" transform="translate(44 586)"/>
+</clipPath>
+<clipPath id="clip7_4_105661">
+<path d="M44 630H1420V718H44V630Z" fill="white"/>
+</clipPath>
+<clipPath id="clip8_4_105661">
+<rect width="76" height="44" fill="white" transform="translate(860 652)"/>
+</clipPath>
+<clipPath id="clip9_4_105661">
+<rect width="472" height="65" fill="white" transform="translate(948 641.5)"/>
+</clipPath>
+<clipPath id="clip10_4_105661">
+<path d="M44 718H1420V806H44V718Z" fill="white"/>
+</clipPath>
+<clipPath id="clip11_4_105661">
+<rect width="76" height="44" fill="white" transform="translate(860 740)"/>
+</clipPath>
+<clipPath id="clip12_4_105661">
+<rect width="472" height="65" fill="white" transform="translate(948 729.5)"/>
+</clipPath>
+<clipPath id="clip13_4_105661">
+<path d="M44 806H1420V894H44V806Z" fill="white"/>
+</clipPath>
+<clipPath id="clip14_4_105661">
+<rect width="76" height="44" fill="white" transform="translate(860 828)"/>
+</clipPath>
+<clipPath id="clip15_4_105661">
+<rect width="472" height="65" fill="white" transform="translate(948 817.5)"/>
+</clipPath>
+<clipPath id="clip16_4_105661">
+<path d="M44 894H1420V982H44V894Z" fill="white"/>
+</clipPath>
+<clipPath id="clip17_4_105661">
+<rect width="76" height="44" fill="white" transform="translate(860 916)"/>
+</clipPath>
+<clipPath id="clip18_4_105661">
+<rect width="472" height="65" fill="white" transform="translate(948 905.5)"/>
+</clipPath>
+<clipPath id="clip19_4_105661">
+<path d="M44 982H1420V1070H44V982Z" fill="white"/>
+</clipPath>
+<clipPath id="clip20_4_105661">
+<rect width="76" height="44" fill="white" transform="translate(860 1004)"/>
+</clipPath>
+<clipPath id="clip21_4_105661">
+<rect width="472" height="65" fill="white" transform="translate(948 993.5)"/>
+</clipPath>
+<clipPath id="clip22_4_105661">
+<path d="M44 1070H1420V1158H44V1070Z" fill="white"/>
+</clipPath>
+<clipPath id="clip23_4_105661">
+<rect width="76" height="44" fill="white" transform="translate(860 1092)"/>
+</clipPath>
+<clipPath id="clip24_4_105661">
+<rect width="472" height="65" fill="white" transform="translate(948 1081.5)"/>
+</clipPath>
+<clipPath id="clip25_4_105661">
+<path d="M44 1158H1420V1246H44V1158Z" fill="white"/>
+</clipPath>
+<clipPath id="clip26_4_105661">
+<rect width="76" height="44" fill="white" transform="translate(860 1180)"/>
+</clipPath>
+<clipPath id="clip27_4_105661">
+<rect width="472" height="65" fill="white" transform="translate(948 1169.5)"/>
+</clipPath>
+<clipPath id="clip28_4_105661">
+<path d="M44 1246H1420V1334H44V1246Z" fill="white"/>
+</clipPath>
+<clipPath id="clip29_4_105661">
+<rect width="76" height="44" fill="white" transform="translate(860 1268)"/>
+</clipPath>
+<clipPath id="clip30_4_105661">
+<rect width="472" height="65" fill="white" transform="translate(948 1257.5)"/>
+</clipPath>
+<clipPath id="clip31_4_105661">
+<rect width="1400" height="44" fill="white" transform="translate(32 1592)"/>
+</clipPath>
+</defs>
+</svg>

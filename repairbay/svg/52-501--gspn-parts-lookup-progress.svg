@@ -1,0 +1,10 @@
+<svg width="820" height="198" viewBox="0 0 820 198" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 0.5H815C817.485 0.5 819.5 2.51472 819.5 5V193C819.5 195.485 817.485 197.5 815 197.5H5C2.51472 197.5 0.5 195.485 0.5 193V5C0.5 2.51472 2.51472 0.5 5 0.5Z" fill="white"/>
+<path d="M5 0.5H815C817.485 0.5 819.5 2.51472 819.5 5V193C819.5 195.485 817.485 197.5 815 197.5H5C2.51472 197.5 0.5 195.485 0.5 193V5C0.5 2.51472 2.51472 0.5 5 0.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="25" y="43.1818">Fetching parts from GSPN</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="25" y="79.7273">Reading original part codes from Part History&#x2026;</tspan></text>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="25" y="114.364">BOM: 2 / 4 parts checked &#xb7; BN94-18167C</tspan></text>
+<rect width="772" height="6" transform="translate(25 135)" fill="#E3EAF0"/>
+<rect x="25" y="135" width="386" height="6" fill="#1769B3"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="25" y="169">Keep the signed-in GSPN session available. Empty results and failures allow retry; existing linked parts are retained.</tspan></text>
+</svg>

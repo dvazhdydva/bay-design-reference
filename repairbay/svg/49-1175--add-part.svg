@@ -1,0 +1,30 @@
+<svg width="721" height="426" viewBox="0 0 721 426" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 0.5H715C717.485 0.5 719.5 2.51472 719.5 5V421C719.5 423.485 717.485 425.5 715 425.5H5C2.51472 425.5 0.5 423.485 0.5 421V5L0.505859 4.76855C0.626326 2.39083 2.59235 0.5 5 0.5Z" fill="white"/>
+<path d="M5 0.5H715C717.485 0.5 719.5 2.51472 719.5 5V421C719.5 423.485 717.485 425.5 715 425.5H5C2.51472 425.5 0.5 423.485 0.5 421V5L0.505859 4.76855C0.626326 2.39083 2.59235 0.5 5 0.5Z" stroke="#E3EAF0"/>
+<rect width="720" height="72" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="25" y="43.1818">Add part</tspan></text>
+<path d="M694 31L682 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M682 31L694 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="25" y="110.364">Part number *</tspan></text>
+<path d="M29 121.5H693C694.933 121.5 696.5 123.067 696.5 125V155C696.5 156.933 694.933 158.5 693 158.5H29C27.067 158.5 25.5 156.933 25.5 155V125L25.5049 124.82C25.5984 122.971 27.1273 121.5 29 121.5Z" fill="white"/>
+<path d="M29 121.5H693C694.933 121.5 696.5 123.067 696.5 125V155C696.5 156.933 694.933 158.5 693 158.5H29C27.067 158.5 25.5 156.933 25.5 155V125L25.5049 124.82C25.5984 122.971 27.1273 121.5 29 121.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="36" y="144.727">BN94-18167C</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="25" y="188.364">Description</tspan></text>
+<path d="M29 199.5H693C694.933 199.5 696.5 201.067 696.5 203V233C696.5 234.933 694.933 236.5 693 236.5H29C27.067 236.5 25.5 234.933 25.5 233V203L25.5049 202.82C25.5984 200.971 27.1273 199.5 29 199.5Z" fill="white"/>
+<path d="M29 199.5H693C694.933 199.5 696.5 201.067 696.5 203V233C696.5 234.933 694.933 236.5 693 236.5H29C27.067 236.5 25.5 234.933 25.5 233V203L25.5049 202.82C25.5984 200.971 27.1273 199.5 29 199.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="36" y="222.727">Main PCB assembly</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="25" y="266.364">Price (&#xa3;)</tspan></text>
+<path d="M29 277.5H345C346.933 277.5 348.5 279.067 348.5 281V311C348.5 312.933 346.933 314.5 345 314.5H29C27.067 314.5 25.5 312.933 25.5 311V281L25.5049 280.82C25.5984 278.971 27.1273 277.5 29 277.5Z" fill="white"/>
+<path d="M29 277.5H345C346.933 277.5 348.5 279.067 348.5 281V311C348.5 312.933 346.933 314.5 345 314.5H29C27.067 314.5 25.5 312.933 25.5 311V281L25.5049 280.82C25.5984 278.971 27.1273 277.5 29 277.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="36" y="300.727">69.38</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="373" y="266.364">Quantity *</tspan></text>
+<path d="M377 277.5H693C694.933 277.5 696.5 279.067 696.5 281V311C696.5 312.933 694.933 314.5 693 314.5H377C375.067 314.5 373.5 312.933 373.5 311V281L373.505 280.82C373.598 278.971 375.127 277.5 377 277.5Z" fill="white"/>
+<path d="M377 277.5H693C694.933 277.5 696.5 279.067 696.5 281V311C696.5 312.933 694.933 314.5 693 314.5H377C375.067 314.5 373.5 312.933 373.5 311V281L373.505 280.82C373.598 278.971 375.127 277.5 377 277.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="384" y="300.727">1</tspan></text>
+<path d="M409 363.5H501C502.933 363.5 504.5 365.067 504.5 367V397C504.5 398.933 502.933 400.5 501 400.5H409C407.067 400.5 405.5 398.933 405.5 397V367L405.505 366.82C405.598 364.971 407.127 363.5 409 363.5Z" fill="white"/>
+<path d="M409 363.5H501C502.933 363.5 504.5 365.067 504.5 367V397C504.5 398.933 502.933 400.5 501 400.5H409C407.067 400.5 405.5 398.933 405.5 397V367L405.505 366.82C405.598 364.971 407.127 363.5 409 363.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="434.5" y="386.364">Cancel</tspan></text>
+<path d="M521 363.5H693C694.933 363.5 696.5 365.067 696.5 367V397C696.5 398.933 694.933 400.5 693 400.5H521C519.067 400.5 517.5 398.933 517.5 397V367L517.505 366.82C517.598 364.971 519.127 363.5 521 363.5Z" fill="#2D805F"/>
+<path d="M521 363.5H693C694.933 363.5 696.5 365.067 696.5 367V397C696.5 398.933 694.933 400.5 693 400.5H521C519.067 400.5 517.5 398.933 517.5 397V367L517.505 366.82C517.598 364.971 519.127 363.5 521 363.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="581.5" y="386.364">Add part</tspan></text>
+</svg>

@@ -1,0 +1,89 @@
+<svg width="1280" height="798" viewBox="0 0 1280 798" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="798" fill="#F3F7FA"/>
+<rect width="1280" height="64" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="16" y="39.6364">RepairBay</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="200" y="36.3636">Active jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="314" y="36.3636">Archived jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="443" y="36.3636">Returns</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="527" y="36.3636">Users</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="597" y="36.3636">Spare parts</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1074" y="36.3636">Alex Naumov</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1198" y="36.3636">Sign out</tspan></text>
+<rect x="527" y="60" width="46" height="4" fill="#2D805F"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="32" y="117.636">Add / edit user</tspan></text>
+<path d="M37 140.5H1243C1245.49 140.5 1247.5 142.515 1247.5 145V361C1247.5 363.485 1245.49 365.5 1243 365.5H37C34.5147 365.5 32.5 363.485 32.5 361V145C32.5 142.515 34.5147 140.5 37 140.5Z" fill="white"/>
+<path d="M37 140.5H1243C1245.49 140.5 1247.5 142.515 1247.5 145V361C1247.5 363.485 1245.49 365.5 1243 365.5H37C34.5147 365.5 32.5 363.485 32.5 361V145C32.5 142.515 34.5147 140.5 37 140.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="55" y="181.182">Identity</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="216.364">Username *</tspan></text>
+<path d="M59 227.5H425.66C427.593 227.5 429.16 229.067 429.16 231V261C429.16 262.933 427.593 264.5 425.66 264.5H59C57.067 264.5 55.5 262.933 55.5 261V231L55.5049 230.82C55.5984 228.971 57.1273 227.5 59 227.5Z" fill="white"/>
+<path d="M59 227.5H425.66C427.593 227.5 429.16 229.067 429.16 231V261C429.16 262.933 427.593 264.5 425.66 264.5H59C57.067 264.5 55.5 262.933 55.5 261V231L55.5049 230.82C55.5984 228.971 57.1273 227.5 59 227.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="250.727">sam</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="453.66" y="216.364">Password / new password</tspan></text>
+<path d="M457.66 227.5H824.32C826.253 227.5 827.82 229.067 827.82 231V261C827.82 262.933 826.253 264.5 824.32 264.5H457.66C455.727 264.5 454.16 262.933 454.16 261V231L454.165 230.82C454.258 228.971 455.787 227.5 457.66 227.5Z" fill="white"/>
+<path d="M457.66 227.5H824.32C826.253 227.5 827.82 229.067 827.82 231V261C827.82 262.933 826.253 264.5 824.32 264.5H457.66C455.727 264.5 454.16 262.933 454.16 261V231L454.165 230.82C454.258 228.971 455.787 227.5 457.66 227.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="464.66" y="250.727">&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;&#x2022;</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="852.32" y="216.364">First name *</tspan></text>
+<path d="M856.32 227.5H1222.98C1224.91 227.5 1226.48 229.067 1226.48 231V261C1226.48 262.933 1224.91 264.5 1222.98 264.5H856.32C854.387 264.5 852.82 262.933 852.82 261V231L852.825 230.82C852.918 228.971 854.447 227.5 856.32 227.5Z" fill="white"/>
+<path d="M856.32 227.5H1222.98C1224.91 227.5 1226.48 229.067 1226.48 231V261C1226.48 262.933 1224.91 264.5 1222.98 264.5H856.32C854.387 264.5 852.82 262.933 852.82 261V231L852.825 230.82C852.918 228.971 854.447 227.5 856.32 227.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="863.32" y="250.727">Sam</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="294.364">Surname *</tspan></text>
+<path d="M59 305.5H425.66C427.593 305.5 429.16 307.067 429.16 309V339C429.16 340.933 427.593 342.5 425.66 342.5H59C57.067 342.5 55.5 340.933 55.5 339V309L55.5049 308.82C55.5984 306.971 57.1273 305.5 59 305.5Z" fill="white"/>
+<path d="M59 305.5H425.66C427.593 305.5 429.16 307.067 429.16 309V339C429.16 340.933 427.593 342.5 425.66 342.5H59C57.067 342.5 55.5 340.933 55.5 339V309L55.5049 308.82C55.5984 306.971 57.1273 305.5 59 305.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="328.727">Taylor</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="453.66" y="294.364">Initials (max 4)</tspan></text>
+<path d="M457.66 305.5H824.32C826.253 305.5 827.82 307.067 827.82 309V339C827.82 340.933 826.253 342.5 824.32 342.5H457.66C455.727 342.5 454.16 340.933 454.16 339V309L454.165 308.82C454.258 306.971 455.787 305.5 457.66 305.5Z" fill="white"/>
+<path d="M457.66 305.5H824.32C826.253 305.5 827.82 307.067 827.82 309V339C827.82 340.933 826.253 342.5 824.32 342.5H457.66C455.727 342.5 454.16 340.933 454.16 339V309L454.165 308.82C454.258 306.971 455.787 305.5 457.66 305.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="464.66" y="328.727">ST</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="852.32" y="294.364">Email *</tspan></text>
+<path d="M856.32 305.5H1222.98C1224.91 305.5 1226.48 307.067 1226.48 309V339C1226.48 340.933 1224.91 342.5 1222.98 342.5H856.32C854.387 342.5 852.82 340.933 852.82 339V309L852.825 308.82C852.918 306.971 854.447 305.5 856.32 305.5Z" fill="white"/>
+<path d="M856.32 305.5H1222.98C1224.91 305.5 1226.48 307.067 1226.48 309V339C1226.48 340.933 1224.91 342.5 1222.98 342.5H856.32C854.387 342.5 852.82 340.933 852.82 339V309L852.825 308.82C852.918 306.971 854.447 305.5 856.32 305.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="863.32" y="328.727">sam@example.com</tspan></text>
+<path d="M37 382.5H1243C1245.49 382.5 1247.5 384.515 1247.5 387V553C1247.5 555.485 1245.49 557.5 1243 557.5H37C34.5147 557.5 32.5 555.485 32.5 553V387C32.5 384.515 34.5147 382.5 37 382.5Z" fill="white"/>
+<path d="M37 382.5H1243C1245.49 382.5 1247.5 384.515 1247.5 387V553C1247.5 555.485 1245.49 557.5 1243 557.5H37C34.5147 557.5 32.5 555.485 32.5 553V387C32.5 384.515 34.5147 382.5 37 382.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="55" y="423.182">Assignment &#38; access</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="472.364">Warehouse *</tspan></text>
+<path d="M59 483.5H425.66C427.593 483.5 429.16 485.067 429.16 487V517C429.16 518.933 427.593 520.5 425.66 520.5H59C57.067 520.5 55.5 518.933 55.5 517V487L55.5049 486.82C55.5984 484.971 57.1273 483.5 59 483.5Z" fill="white"/>
+<path d="M59 483.5H425.66C427.593 483.5 429.16 485.067 429.16 487V517C429.16 518.933 427.593 520.5 425.66 520.5H59C57.067 520.5 55.5 518.933 55.5 517V487L55.5049 486.82C55.5984 484.971 57.1273 483.5 59 483.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="506.727">Reading</tspan></text>
+<path d="M404.66 499L410.66 505L416.66 499" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="453.66" y="472.364">Role</tspan></text>
+<path d="M457.66 483.5H824.32C826.253 483.5 827.82 485.067 827.82 487V517C827.82 518.933 826.253 520.5 824.32 520.5H457.66C455.727 520.5 454.16 518.933 454.16 517V487L454.165 486.82C454.258 484.971 455.787 483.5 457.66 483.5Z" fill="white"/>
+<path d="M457.66 483.5H824.32C826.253 483.5 827.82 485.067 827.82 487V517C827.82 518.933 826.253 520.5 824.32 520.5H457.66C455.727 520.5 454.16 518.933 454.16 517V487L454.165 486.82C454.258 484.971 455.787 483.5 457.66 483.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="464.66" y="506.727">Engineer</tspan></text>
+<path d="M803.32 499L809.32 505L815.32 499" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip0_49_728)">
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="852.32" y="458.364">Joined date *</tspan></text>
+<path d="M856.32 469.5H1222.98C1224.91 469.5 1226.48 471.067 1226.48 473V503C1226.48 504.933 1224.91 506.5 1222.98 506.5H856.32C854.387 506.5 852.82 504.933 852.82 503V473L852.825 472.82C852.918 470.971 854.447 469.5 856.32 469.5Z" fill="white"/>
+<path d="M856.32 469.5H1222.98C1224.91 469.5 1226.48 471.067 1226.48 473V503C1226.48 504.933 1224.91 506.5 1222.98 506.5H856.32C854.387 506.5 852.82 504.933 852.82 503V473L852.825 472.82C852.918 470.971 854.447 469.5 856.32 469.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="863.32" y="492.727">04/11/2026</tspan></text>
+<path d="M1214.98 481H1200.98C1199.88 481 1198.98 481.895 1198.98 483V495C1198.98 496.105 1199.88 497 1200.98 497H1214.98C1216.08 497 1216.98 496.105 1216.98 495V483C1216.98 481.895 1216.08 481 1214.98 481Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1211.98 479V483M1203.98 479V483M1198.98 487H1216.98" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip1_49_728)">
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="852.32" y="524">yesterday</tspan></text>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="917.32" y="524">today</tspan></text>
+</g>
+</g>
+<path d="M37 574.5H1243C1245.49 574.5 1247.5 576.515 1247.5 579V675C1247.5 677.485 1245.49 679.5 1243 679.5H37C34.5147 679.5 32.5 677.485 32.5 675V579L32.5059 578.769C32.6263 576.391 34.5923 574.5 37 574.5Z" fill="white"/>
+<path d="M37 574.5H1243C1245.49 574.5 1247.5 576.515 1247.5 579V675C1247.5 677.485 1245.49 679.5 1243 679.5H37C34.5147 679.5 32.5 677.485 32.5 675V579L32.5059 578.769C32.6263 576.391 34.5923 574.5 37 574.5Z" stroke="#E3EAF0"/>
+<rect x="57.5" y="601.5" width="15" height="15" rx="2.5" fill="#1769B3" stroke="#CDDAE7"/>
+<path d="M70.8333 605.25L64.875 611.208L62.1666 608.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="87" y="613.727">Browse only</tspan></text>
+<rect x="57.5" y="637.5" width="15" height="15" rx="2.5" fill="#1769B3" stroke="#CDDAE7"/>
+<path d="M70.8333 641.25L64.875 647.208L62.1666 644.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="87" y="649.727">Active account</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="32" y="708">Username is read-only when editing. Leave new password blank to keep the current password.</tspan></text>
+<path d="M976 728.5H1068C1069.93 728.5 1071.5 730.067 1071.5 732V762C1071.5 763.933 1069.93 765.5 1068 765.5H976C974.067 765.5 972.5 763.933 972.5 762V732L972.505 731.82C972.598 729.971 974.127 728.5 976 728.5Z" fill="white"/>
+<path d="M976 728.5H1068C1069.93 728.5 1071.5 730.067 1071.5 732V762C1071.5 763.933 1069.93 765.5 1068 765.5H976C974.067 765.5 972.5 763.933 972.5 762V732L972.505 731.82C972.598 729.971 974.127 728.5 976 728.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1001.5" y="751.364">Cancel</tspan></text>
+<path d="M1092 728.5H1244C1245.93 728.5 1247.5 730.067 1247.5 732V762C1247.5 763.933 1245.93 765.5 1244 765.5H1092C1090.07 765.5 1088.5 763.933 1088.5 762V732L1088.5 731.82C1088.6 729.971 1090.13 728.5 1092 728.5Z" fill="#2D805F"/>
+<path d="M1092 728.5H1244C1245.93 728.5 1247.5 730.067 1247.5 732V762C1247.5 763.933 1245.93 765.5 1244 765.5H1092C1090.07 765.5 1088.5 763.933 1088.5 762V732L1088.5 731.82C1088.6 729.971 1090.13 728.5 1092 728.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1139.5" y="751.364">Save user</tspan></text>
+<defs>
+<clipPath id="clip0_49_728">
+<rect width="374.66" height="90" fill="white" transform="translate(852.32 445)"/>
+</clipPath>
+<clipPath id="clip1_49_728">
+<rect width="95" height="18" fill="white" transform="translate(852.32 511)"/>
+</clipPath>
+</defs>
+</svg>

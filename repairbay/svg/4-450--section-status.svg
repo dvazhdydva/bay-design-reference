@@ -1,0 +1,10 @@
+<svg width="688" height="120" viewBox="0 0 688 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M24 36C24 33.7909 25.7909 32 28 32H72C74.2091 32 76 33.7909 76 36V56C76 58.2091 74.2091 60 72 60H28C25.7909 60 24 58.2091 24 56V36Z" fill="#DCF5E5"/>
+<text fill="#17613C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="34.5" y="50.3636">Done</tspan></text>
+<path d="M184 36C184 33.7909 185.791 32 188 32H281C283.209 32 285 33.7909 285 36V56C285 58.2091 283.209 60 281 60H188C185.791 60 184 58.2091 184 56V36Z" fill="#FFF0CF"/>
+<text fill="#855400" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="201.5" y="50.3636">In progress</tspan></text>
+<path d="M344 36C344 33.7909 345.791 32 348 32H413C415.209 32 417 33.7909 417 36V56C417 58.2091 415.209 60 413 60H348C345.791 60 344 58.2091 344 56V36Z" fill="#FCE7E7"/>
+<text fill="#B4232C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="356.5" y="50.3636">Pending</tspan></text>
+<path d="M504 36C504 33.7909 505.791 32 508 32H601C603.209 32 605 33.7909 605 36V56C605 58.2091 603.209 60 601 60H508C505.791 60 504 58.2091 504 56V36Z" fill="#EDF2F6"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="521" y="50.3636">Not started</tspan></text>
+</svg>

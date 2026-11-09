@@ -1,0 +1,16 @@
+<svg width="621" height="268" viewBox="0 0 621 268" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 0.5H614C617.038 0.5 619.5 2.96243 619.5 6V262C619.5 265.038 617.038 267.5 614 267.5H6C2.96243 267.5 0.5 265.038 0.5 262V6C0.5 2.96243 2.96243 0.5 6 0.5Z" fill="white"/>
+<path d="M6 0.5H614C617.038 0.5 619.5 2.96243 619.5 6V262C619.5 265.038 617.038 267.5 614 267.5H6C2.96243 267.5 0.5 265.038 0.5 262V6C0.5 2.96243 2.96243 0.5 6 0.5Z" stroke="#CDDAE7"/>
+<rect width="620" height="76" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="25" y="46.6364">Confirm repair outcome</tspan></text>
+<path d="M573 31L561 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M561 31L573 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="25" y="115.727">Confirming will lock this repair. All job fields become read-only.</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="25" y="151.727">The repair remains in Active jobs for seven days, then moves to the archive.</tspan></text>
+<path d="M277 205.5H369C370.933 205.5 372.5 207.067 372.5 209V239C372.5 240.933 370.933 242.5 369 242.5H277C275.067 242.5 273.5 240.933 273.5 239V209L273.505 208.82C273.598 206.971 275.127 205.5 277 205.5Z" fill="white"/>
+<path d="M277 205.5H369C370.933 205.5 372.5 207.067 372.5 209V239C372.5 240.933 370.933 242.5 369 242.5H277C275.067 242.5 273.5 240.933 273.5 239V209L273.505 208.82C273.598 206.971 275.127 205.5 277 205.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="302.5" y="228.364">Cancel</tspan></text>
+<path d="M389 205.5H593C594.933 205.5 596.5 207.067 596.5 209V239C596.5 240.933 594.933 242.5 593 242.5H389C387.067 242.5 385.5 240.933 385.5 239V209L385.505 208.82C385.598 206.971 387.127 205.5 389 205.5Z" fill="#2D805F"/>
+<path d="M389 205.5H593C594.933 205.5 596.5 207.067 596.5 209V239C596.5 240.933 594.933 242.5 593 242.5H389C387.067 242.5 385.5 240.933 385.5 239V209L385.505 208.82C385.598 206.971 387.127 205.5 389 205.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="423" y="228.364">Confirm and lock repair</tspan></text>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="1192" height="100" viewBox="0 0 1192 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="0" y="16.4545">WEEE approval</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="0" y="51.3636">Approved by</tspan></text>
+<path d="M4 62.5H377.333C379.266 62.5 380.833 64.067 380.833 66V96C380.833 97.933 379.266 99.5 377.333 99.5H4C2.067 99.5 0.5 97.933 0.5 96V66L0.504883 65.8203C0.598422 63.9708 2.12727 62.5 4 62.5Z" fill="white"/>
+<path d="M4 62.5H377.333C379.266 62.5 380.833 64.067 380.833 66V96C380.833 97.933 379.266 99.5 377.333 99.5H4C2.067 99.5 0.5 97.933 0.5 96V66L0.504883 65.8203C0.598422 63.9708 2.12727 62.5 4 62.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="405.333" y="51.3636">Approval date</tspan></text>
+<path d="M409.333 62.5H782.667C784.599 62.5 786.167 64.067 786.167 66V96C786.167 97.933 784.599 99.5 782.667 99.5H409.333C407.401 99.5 405.833 97.933 405.833 96V66L405.838 65.8203C405.932 63.9708 407.461 62.5 409.333 62.5Z" fill="white"/>
+<path d="M409.333 62.5H782.667C784.599 62.5 786.167 64.067 786.167 66V96C786.167 97.933 784.599 99.5 782.667 99.5H409.333C407.401 99.5 405.833 97.933 405.833 96V66L405.838 65.8203C405.932 63.9708 407.461 62.5 409.333 62.5Z" stroke="#CDDAE7"/>
+<path d="M774.667 74H760.667C759.562 74 758.667 74.8954 758.667 76V88C758.667 89.1046 759.562 90 760.667 90H774.667C775.772 90 776.667 89.1046 776.667 88V76C776.667 74.8954 775.772 74 774.667 74Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M771.667 72V76M763.667 72V76M758.667 80H776.667" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="810.667" y="51.3636">Approval source</tspan></text>
+<path d="M814.667 62.5H1188C1189.93 62.5 1191.5 64.067 1191.5 66V96C1191.5 97.933 1189.93 99.5 1188 99.5H814.667C812.734 99.5 811.167 97.933 811.167 96V66L811.171 65.8203C811.265 63.9708 812.794 62.5 814.667 62.5Z" fill="white"/>
+<path d="M814.667 62.5H1188C1189.93 62.5 1191.5 64.067 1191.5 66V96C1191.5 97.933 1189.93 99.5 1188 99.5H814.667C812.734 99.5 811.167 97.933 811.167 96V66L811.171 65.8203C811.265 63.9708 812.794 62.5 814.667 62.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="821.667" y="85.7273">Email, phone call, etc.</tspan></text>
+</svg>

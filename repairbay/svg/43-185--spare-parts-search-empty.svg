@@ -1,0 +1,46 @@
+<svg width="1280" height="528" viewBox="0 0 1280 528" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="528" fill="#F3F7FA"/>
+<rect width="1280" height="64" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="16" y="39.6364">RepairBay</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="200" y="36.3636">Active jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="314" y="36.3636">Archived jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="443" y="36.3636">Returns</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="527" y="36.3636">Users</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="597" y="36.3636">Spare parts</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1074" y="36.3636">Alex Naumov</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1198" y="36.3636">Sign out</tspan></text>
+<rect x="597" y="60" width="90" height="4" fill="#2D805F"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="32" y="117.636">Spare parts</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="142.727">Parts held in storage.</tspan></text>
+<path d="M976 103.5H1104C1105.93 103.5 1107.5 105.067 1107.5 107V137C1107.5 138.933 1105.93 140.5 1104 140.5H976C974.067 140.5 972.5 138.933 972.5 137V107L972.505 106.82C972.598 104.971 974.127 103.5 976 103.5Z" fill="#2D805F"/>
+<path d="M976 103.5H1104C1105.93 103.5 1107.5 105.067 1107.5 107V137C1107.5 138.933 1105.93 140.5 1104 140.5H976C974.067 140.5 972.5 138.933 972.5 137V107L972.505 106.82C972.598 104.971 974.127 103.5 976 103.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1009" y="126.364">+ Add part</tspan></text>
+<path d="M1128 103.5H1244C1245.93 103.5 1247.5 105.067 1247.5 107V137C1247.5 138.933 1245.93 140.5 1244 140.5H1128C1126.07 140.5 1124.5 138.933 1124.5 137V107L1124.5 106.82C1124.6 104.971 1126.13 103.5 1128 103.5Z" fill="white"/>
+<path d="M1128 103.5H1244C1245.93 103.5 1247.5 105.067 1247.5 107V137C1247.5 138.933 1245.93 140.5 1244 140.5H1128C1126.07 140.5 1124.5 138.933 1124.5 137V107L1124.5 106.82C1124.6 104.971 1126.13 103.5 1128 103.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1155" y="126.364">Stock take</tspan></text>
+<path d="M37 164.5H1243C1245.49 164.5 1247.5 166.515 1247.5 169V459C1247.5 461.485 1245.49 463.5 1243 463.5H37C34.5147 463.5 32.5 461.485 32.5 459V169C32.5 166.515 34.5147 164.5 37 164.5Z" fill="white"/>
+<path d="M37 164.5H1243C1245.49 164.5 1247.5 166.515 1247.5 169V459C1247.5 461.485 1245.49 463.5 1243 463.5H37C34.5147 463.5 32.5 461.485 32.5 459V169C32.5 166.515 34.5147 164.5 37 164.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="49" y="194.364">Warehouse</tspan></text>
+<path d="M53 205.5H241C242.933 205.5 244.5 207.067 244.5 209V239C244.5 240.933 242.933 242.5 241 242.5H53C51.067 242.5 49.5 240.933 49.5 239V209L49.5049 208.82C49.5984 206.971 51.1273 205.5 53 205.5Z" fill="white"/>
+<path d="M53 205.5H241C242.933 205.5 244.5 207.067 244.5 209V239C244.5 240.933 242.933 242.5 241 242.5H53C51.067 242.5 49.5 240.933 49.5 239V209L49.5049 208.82C49.5984 206.971 51.1273 205.5 53 205.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="60" y="228.727">Reading</tspan></text>
+<path d="M220 221L226 227L232 221" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="263.5" y="223.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="289" y="235.364">Include other warehouses</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="533" y="194.364">Search</tspan></text>
+<path d="M537 205.5H1103C1104.93 205.5 1106.5 207.067 1106.5 209V239C1106.5 240.933 1104.93 242.5 1103 242.5H537C535.067 242.5 533.5 240.933 533.5 239V209L533.505 208.82C533.598 206.971 535.127 205.5 537 205.5Z" fill="white"/>
+<path d="M537 205.5H1103C1104.93 205.5 1106.5 207.067 1106.5 209V239C1106.5 240.933 1104.93 242.5 1103 242.5H537C535.067 242.5 533.5 240.933 533.5 239V209L533.505 208.82C533.598 206.971 535.127 205.5 537 205.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="544" y="228.727">BN00-UNKNOWN</tspan></text>
+<path d="M1127 205.5H1229C1230.93 205.5 1232.5 207.067 1232.5 209V239C1232.5 240.933 1230.93 242.5 1229 242.5H1127C1125.07 242.5 1123.5 240.933 1123.5 239V209L1123.5 208.82C1123.6 206.971 1125.13 205.5 1127 205.5Z" fill="white"/>
+<path d="M1127 205.5H1229C1230.93 205.5 1232.5 207.067 1232.5 209V239C1232.5 240.933 1230.93 242.5 1229 242.5H1127C1125.07 242.5 1123.5 240.933 1123.5 239V209L1123.5 208.82C1123.6 206.971 1125.13 205.5 1127 205.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1157.5" y="228.364">Search</tspan></text>
+<path d="M641 313C646.523 313 651 308.523 651 303C651 297.477 646.523 293 641 293C635.477 293 631 297.477 631 303C631 308.523 635.477 313 641 313Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M641 307V303" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M641 299H641.01" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="541" y="343.455">No parts match this search.</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="492" y="375.727">Try another part number, description or location.</tspan></text>
+<path d="M580 393.5H702C703.933 393.5 705.5 395.067 705.5 397V427C705.5 428.933 703.933 430.5 702 430.5H580C578.067 430.5 576.5 428.933 576.5 427V397L576.505 396.82C576.598 394.971 578.127 393.5 580 393.5Z" fill="white"/>
+<path d="M580 393.5H702C703.933 393.5 705.5 395.067 705.5 397V427C705.5 428.933 703.933 430.5 702 430.5H580C578.067 430.5 576.5 428.933 576.5 427V397L576.505 396.82C576.598 394.971 578.127 393.5 580 393.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="604" y="416.364">Clear search</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="32" y="492">&#xa9; 2026 NAVIG home labs &#xb7; Internal operational tool exclusively for TRISON</tspan></text>
+</svg>

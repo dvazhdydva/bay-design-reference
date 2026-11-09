@@ -1,0 +1,76 @@
+<svg width="1280" height="765" viewBox="0 0 1280 765" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="765" fill="#F3F7FA"/>
+<rect width="1280" height="64" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="16" y="39.6364">RepairBay</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="200" y="36.3636">Active jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="314" y="36.3636">Archived jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="443" y="36.3636">Returns</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="527" y="36.3636">Users</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="597" y="36.3636">Spare parts</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1074" y="36.3636">Alex Naumov</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1198" y="36.3636">Sign out</tspan></text>
+<rect x="527" y="60" width="46" height="4" fill="#2D805F"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="32" y="117.636">Warehouse &#38; ASC data</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="154.727">Addresses, legal details and part descriptions used by return documents.</tspan></text>
+<path d="M37 176.5H1243C1245.49 176.5 1247.5 178.515 1247.5 181V346C1247.5 348.485 1245.49 350.5 1243 350.5H37C34.5147 350.5 32.5 348.485 32.5 346V181C32.5 178.515 34.5147 176.5 37 176.5Z" fill="white"/>
+<path d="M37 176.5H1243C1245.49 176.5 1247.5 178.515 1247.5 181V346C1247.5 348.485 1245.49 350.5 1243 350.5H37C34.5147 350.5 32.5 348.485 32.5 346V181C32.5 178.515 34.5147 176.5 37 176.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="49" y="211.182">Warehouses</tspan></text>
+<path d="M1137 193.5H1229C1230.93 193.5 1232.5 195.067 1232.5 197V227C1232.5 228.933 1230.93 230.5 1229 230.5H1137C1135.07 230.5 1133.5 228.933 1133.5 227V197L1133.5 196.82C1133.6 194.971 1135.13 193.5 1137 193.5Z" fill="#2D805F"/>
+<path d="M1137 193.5H1229C1230.93 193.5 1232.5 195.067 1232.5 197V227C1232.5 228.933 1230.93 230.5 1229 230.5H1137C1135.07 230.5 1133.5 228.933 1133.5 227V197L1133.5 196.82C1133.6 194.971 1135.13 193.5 1137 193.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1165.5" y="216.364">+ Add</tspan></text>
+<rect x="33.5" y="247.5" width="1215" height="102" stroke="#E3EAF0"/>
+<rect width="1216" height="48" transform="translate(34 248)" fill="#EFF4F8"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="42" y="276.364">Warehouse</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="202" y="276.364">Collection address</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="542" y="276.364">ASC profile</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="822" y="276.364">Contact</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="1042" y="276.364">Status</tspan></text>
+<rect width="1216" height="52" transform="translate(34 296)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="42" y="326.727">Reading (R)</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="202" y="326.727">TRISON &#xb7; collection address</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="542" y="326.727">Pioneer Digital Solutions</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="822" y="326.727">Warehouse contact</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1042" y="326.727">Active</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1162" y="326.727">Edit</tspan></text>
+<rect x="34" y="348" width="1216" height="1" fill="#E3EAF0"/>
+<path d="M37 367.5H1243C1245.49 367.5 1247.5 369.515 1247.5 372V537C1247.5 539.485 1245.49 541.5 1243 541.5H37C34.5147 541.5 32.5 539.485 32.5 537V372C32.5 369.515 34.5147 367.5 37 367.5Z" fill="white"/>
+<path d="M37 367.5H1243C1245.49 367.5 1247.5 369.515 1247.5 372V537C1247.5 539.485 1245.49 541.5 1243 541.5H37C34.5147 541.5 32.5 539.485 32.5 537V372C32.5 369.515 34.5147 367.5 37 367.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="49" y="402.182">ASC profiles</tspan></text>
+<path d="M1137 384.5H1229C1230.93 384.5 1232.5 386.067 1232.5 388V418C1232.5 419.933 1230.93 421.5 1229 421.5H1137C1135.07 421.5 1133.5 419.933 1133.5 418V388L1133.5 387.82C1133.6 385.971 1135.13 384.5 1137 384.5Z" fill="#2D805F"/>
+<path d="M1137 384.5H1229C1230.93 384.5 1232.5 386.067 1232.5 388V418C1232.5 419.933 1230.93 421.5 1229 421.5H1137C1135.07 421.5 1133.5 419.933 1133.5 418V388L1133.5 387.82C1133.6 385.971 1135.13 384.5 1137 384.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1165.5" y="407.364">+ Add</tspan></text>
+<rect x="33.5" y="438.5" width="1215" height="102" stroke="#E3EAF0"/>
+<rect width="1216" height="48" transform="translate(34 439)" fill="#EFF4F8"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="42" y="467.364">Company &#38; legal name</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="582" y="467.364">VAT number</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="812" y="467.364">EORI number</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="1042" y="467.364">Status</tspan></text>
+<rect width="1216" height="52" transform="translate(34 487)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="42" y="517.727">PIONEER GROUP &#xb7; Pioneer Digital Solutions Ltd</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="582" y="517.727">GB&#x2026;</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="812" y="517.727">GB&#x2026;</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1042" y="517.727">Active</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1162" y="517.727">Edit</tspan></text>
+<rect x="34" y="539" width="1216" height="1" fill="#E3EAF0"/>
+<path d="M37 558.5H1243C1245.49 558.5 1247.5 560.515 1247.5 563V728C1247.5 730.485 1245.49 732.5 1243 732.5H37C34.5147 732.5 32.5 730.485 32.5 728V563C32.5 560.515 34.5147 558.5 37 558.5Z" fill="white"/>
+<path d="M37 558.5H1243C1245.49 558.5 1247.5 560.515 1247.5 563V728C1247.5 730.485 1245.49 732.5 1243 732.5H37C34.5147 732.5 32.5 730.485 32.5 728V563C32.5 560.515 34.5147 558.5 37 558.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="49" y="593.182">Parts catalogue</tspan></text>
+<path d="M1137 575.5H1229C1230.93 575.5 1232.5 577.067 1232.5 579V609C1232.5 610.933 1230.93 612.5 1229 612.5H1137C1135.07 612.5 1133.5 610.933 1133.5 609V579L1133.5 578.82C1133.6 576.971 1135.13 575.5 1137 575.5Z" fill="#2D805F"/>
+<path d="M1137 575.5H1229C1230.93 575.5 1232.5 577.067 1232.5 579V609C1232.5 610.933 1230.93 612.5 1229 612.5H1137C1135.07 612.5 1133.5 610.933 1133.5 609V579L1133.5 578.82C1133.6 576.971 1135.13 575.5 1137 575.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1165.5" y="598.364">+ Add</tspan></text>
+<rect x="33.5" y="629.5" width="1215" height="102" stroke="#E3EAF0"/>
+<rect width="1216" height="48" transform="translate(34 630)" fill="#EFF4F8"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="42" y="658.364">Part number</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="222" y="658.364">Description</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="602" y="658.364">Models</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="842" y="658.364">Part type</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="1002" y="658.364">Serial required</tspan></text>
+<rect width="1216" height="52" transform="translate(34 678)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="42" y="708.727">BN95-11983A</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="222" y="708.727">LCD panel</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="602" y="708.727">OM55N-S</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="842" y="708.727">Panel</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1002" y="708.727">No</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1162" y="708.727">Edit</tspan></text>
+<rect x="34" y="730" width="1216" height="1" fill="#E3EAF0"/>
+</svg>

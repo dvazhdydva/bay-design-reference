@@ -1,0 +1,295 @@
+<svg width="390" height="2761" viewBox="0 0 390 2761" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_4_130027)">
+<rect width="390" height="2761" fill="#F3F5F8"/>
+<g clip-path="url(#clip1_4_130027)">
+<rect width="390" height="156" fill="white"/>
+<mask id="path-1-inside-1_4_130027" fill="white">
+<path d="M0 0H390V64H0V0Z"/>
+</mask>
+<path d="M390 64V63H0V64V65H390V64Z" fill="#D6DEE7" mask="url(#path-1-inside-1_4_130027)"/>
+<rect x="16" y="16" width="32" height="32" rx="6" fill="#185DB4"/>
+<path d="M32.001 22.8496C32.1328 22.8497 32.2644 22.8746 32.3896 22.9238L32.5127 22.9814L32.5234 22.9873L40.4707 27.1699V27.1709L40.4834 27.1768C40.6751 27.2739 40.8435 27.4293 40.9639 27.6309C41.0844 27.8328 41.1504 28.0703 41.1504 28.3154V39.8945C41.1504 40.2411 41.0187 40.5654 40.7979 40.7979C40.5784 41.0288 40.2905 41.1504 40 41.1504H24C23.7095 41.1504 23.4216 41.0288 23.2021 40.7979C22.9813 40.5654 22.8496 40.2411 22.8496 39.8945V28.3154C22.8495 28.0703 22.9157 27.8328 23.0361 27.6309C23.1564 27.4292 23.3248 27.274 23.5166 27.1768L23.5273 27.1709L31.4775 22.9873L31.4883 22.9814C31.649 22.894 31.825 22.8496 32.001 22.8496Z" stroke="white" stroke-width="1.7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="18" letter-spacing="0em"><tspan x="57" y="38.5455">WarehouseBay</tspan></text>
+<rect x="330" y="10" width="44" height="44" rx="22" fill="#EAF2FD"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="342" y="36.3636">AM</tspan></text>
+<mask id="path-8-inside-2_4_130027" fill="white">
+<path d="M0 64H390V108H0V64Z"/>
+</mask>
+<path d="M390 108V107H0V108V109H390V108Z" fill="#E4E9EF" mask="url(#path-8-inside-2_4_130027)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="16" y="90.7273">North depot &#xb7; Manchester</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="367" y="90.3636">&#x2304;</tspan></text>
+<mask id="path-12-inside-3_4_130027" fill="white">
+<path d="M0 108H390V156H0V108Z"/>
+</mask>
+<path d="M390 156V155H0V156V157H390V156Z" fill="#D6DEE7" mask="url(#path-12-inside-3_4_130027)"/>
+<mask id="path-14-inside-4_4_130027" fill="white">
+<path d="M12 108H68V156H12V108Z"/>
+</mask>
+<path d="M68 156V153H12V156V159H68V156Z" fill="#185DB4" mask="url(#path-14-inside-4_4_130027)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="12" y="136.364">Inventory</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="100" y="136.364">Collection</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="190" y="136.364">Deinstall</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="272" y="136.364">Archive</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="348" y="136.364">More</tspan></text>
+</g>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="16" y="183.864">&#x2190; Inventory / Physical kit</tspan></text>
+<g clip-path="url(#clip2_4_130027)">
+<g clip-path="url(#clip3_4_130027)">
+<g clip-path="url(#clip4_4_130027)">
+<rect x="16" y="203" width="82" height="25" rx="4" fill="#EAF2FD"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="24" y="219.864">Physical kit</tspan></text>
+<rect x="106" y="203" width="100" height="25" rx="4" fill="#FFF5DF"/>
+<text fill="#885B0D" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="114" y="219.864">Issued &#xb7; active</tspan></text>
+</g>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="26" font-weight="bold" letter-spacing="0em"><tspan x="16" y="263.455">Installation essentials</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="IBM Plex Mono" font-size="13" letter-spacing="0em"><tspan x="16" y="293.375">KIT-ND-2026-000042</tspan></text>
+</g>
+</g>
+<mask id="path-28-inside-5_4_130027" fill="white">
+<path d="M16 313H374V357H16V313Z"/>
+</mask>
+<path d="M374 357V356H16V357V358H374V357Z" fill="#D6DEE7" mask="url(#path-28-inside-5_4_130027)"/>
+<mask id="path-30-inside-6_4_130027" fill="white">
+<path d="M16 313H81V357H16V313Z"/>
+</mask>
+<path d="M81 357V354H16V357V360H81V357Z" fill="#185DB4" mask="url(#path-30-inside-6_4_130027)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="16" y="340.091">Overview</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="105" y="340.091">Contents &#xb7; 3</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="212" y="340.091">History</tspan></text>
+<g clip-path="url(#clip5_4_130027)">
+<g clip-path="url(#clip6_4_130027)">
+<rect x="16" y="373" width="358" height="272" rx="8" fill="white"/>
+<mask id="path-37-inside-7_4_130027" fill="white">
+<path d="M16 373H374V425H16V373Z"/>
+</mask>
+<path d="M374 425V424H16V425V426H374V425Z" fill="#E4E9EF" mask="url(#path-37-inside-7_4_130027)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="32" y="404.818">Current job</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="314" y="403.364">Service</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="32" y="454.591">SRV-02642 &#xb7; Alder House maintenance &#x2197;</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="483.727">Hawthorn Services &#xb7; Issued 07 Nov 2026</tspan></text>
+<g clip-path="url(#clip7_4_130027)">
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="32" y="514.455">1 pcs &#xb7; whole physical kit</tspan></text>
+<rect x="303" y="500" width="55" height="25" rx="4" fill="#FFF5DF"/>
+<text fill="#885B0D" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="311" y="516.864">Issued</tspan></text>
+</g>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="550.727">Expected return 12 Nov 2026. The kit stays active </tspan><tspan x="32" y="568.727">until it is returned; dates never archive it.</tspan></text>
+<rect x="32" y="585" width="326" height="44" rx="6" fill="#185DB4"/>
+<path d="M125.751 601.001L122.001 604.75L125.751 608.5M122.001 604.75H129.875C130.417 604.75 130.953 604.857 131.454 605.064C131.954 605.271 132.409 605.575 132.792 605.958C133.175 606.341 133.479 606.796 133.686 607.296C133.893 607.797 134 608.333 134 608.875C134 609.416 133.893 609.953 133.686 610.453C133.479 610.954 133.175 611.408 132.792 611.791C132.409 612.174 131.954 612.478 131.454 612.685C130.953 612.893 130.417 612.999 129.875 612.999H127.25" stroke="white" stroke-width="1.7" stroke-linecap="round"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="145" y="612.091">Return physical kit</tspan></text>
+</g>
+<rect x="16.5" y="373.5" width="357" height="271" rx="7.5" stroke="#D6DEE7"/>
+<g clip-path="url(#clip8_4_130027)">
+<rect x="16" y="661" width="358" height="402" rx="8" fill="white"/>
+<mask id="path-52-inside-8_4_130027" fill="white">
+<path d="M16 661H374V713H16V661Z"/>
+</mask>
+<path d="M374 713V712H16V713V714H374V713Z" fill="#E4E9EF" mask="url(#path-52-inside-8_4_130027)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="32" y="692.818">Physical kit record</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="288" y="691.364">Inventory &#x2197;</tspan></text>
+<mask id="path-56-inside-9_4_130027" fill="white">
+<path d="M32 713H358V751H32V713Z"/>
+</mask>
+<path d="M358 751V750H32V751V752H358V751Z" fill="#E4E9EF" mask="url(#path-56-inside-9_4_130027)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="736.727">Serial</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="IBM Plex Mono" font-size="13" letter-spacing="0em"><tspan x="144" y="736.875">KIT-ND-2026-000042</tspan></text>
+<mask id="path-60-inside-10_4_130027" fill="white">
+<path d="M32 751H358V807H32V751Z"/>
+</mask>
+<path d="M358 807V806H32V807V808H358V807Z" fill="#E4E9EF" mask="url(#path-60-inside-10_4_130027)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="774.727">Model</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="144" y="774.727">Installation essentials &#xb7; INST-</tspan><tspan x="144" y="792.727">ESS-03</tspan></text>
+<mask id="path-64-inside-11_4_130027" fill="white">
+<path d="M32 807H358V863H32V807Z"/>
+</mask>
+<path d="M358 863V862H32V863V864H358V863Z" fill="#E4E9EF" mask="url(#path-64-inside-11_4_130027)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="830.727">Template</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="144" y="830.727">TPL-INST-004 &#xb7; Installation </tspan><tspan x="144" y="848.727">essentials</tspan></text>
+<mask id="path-68-inside-12_4_130027" fill="white">
+<path d="M32 863H358V919H32V863Z"/>
+</mask>
+<path d="M358 919V918H32V919V920H358V919Z" fill="#E4E9EF" mask="url(#path-68-inside-12_4_130027)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="886.727">Home storage</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="144" y="886.727">North depot &#x2014; Manchester / </tspan><tspan x="144" y="904.727">Reusable kit store</tspan></text>
+<mask id="path-72-inside-13_4_130027" fill="white">
+<path d="M32 919H358V957H32V919Z"/>
+</mask>
+<path d="M358 957V956H32V957V958H358V957Z" fill="#E4E9EF" mask="url(#path-72-inside-13_4_130027)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="942.727">Home location</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="144" y="942.727">K-01-02 &#xb7; Kit racking</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="970.727">Reusable two-part package for installation and </tspan><tspan x="32" y="988.727">service work. Clips and fasteners travel in the </tspan><tspan x="32" y="1006.73">hardware case; cable travels in the linked cable </tspan><tspan x="32" y="1024.73">case. Issue and return together as one Inventory </tspan><tspan x="32" y="1042.73">item.</tspan></text>
+</g>
+<rect x="16.5" y="661.5" width="357" height="401" rx="7.5" stroke="#D6DEE7"/>
+<g clip-path="url(#clip9_4_130027)">
+<rect x="16" y="1079" width="358" height="659" rx="8" fill="white"/>
+<mask id="path-79-inside-14_4_130027" fill="white">
+<path d="M16 1079H374V1131H16V1079Z"/>
+</mask>
+<path d="M374 1131V1130H16V1131V1132H374V1131Z" fill="#E4E9EF" mask="url(#path-79-inside-14_4_130027)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="32" y="1110.82">Contents</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="274" y="1109.36">3 components</tspan></text>
+<g clip-path="url(#clip10_4_130027)">
+<mask id="path-83-inside-15_4_130027" fill="white">
+<path d="M16 1131H374V1298H16V1131Z"/>
+</mask>
+<path d="M374 1298V1297H16V1298V1299H374V1298Z" fill="#E4E9EF" mask="url(#path-83-inside-15_4_130027)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="32" y="1162.09">BayForm shelving clips</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="IBM Plex Mono" font-size="12" letter-spacing="0em"><tspan x="32" y="1186">ART-CLP-025 &#xb7; BF-250-CLIP-ZN</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="1209.73">Zinc-plated steel &#xb7; 25 mm pitch</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="32" y="1232.86">Fixings store + Fixings overflow &#xb7; North depot &#xb7; B-02-04 </tspan><tspan x="32" y="1249.86">+ B-03-01</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="32" y="1278.73">In kit &#xb7; 16 pcs</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="267" y="1278.73">Target &#xb7; 16 pcs</tspan></text>
+<mask id="path-91-inside-16_4_130027" fill="white">
+<path d="M16 1298H374V1448H16V1298Z"/>
+</mask>
+<path d="M374 1448V1447H16V1448V1449H374V1448Z" fill="#E4E9EF" mask="url(#path-91-inside-16_4_130027)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="32" y="1329.09">Arcline Cat6 cable, grey</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="IBM Plex Mono" font-size="12" letter-spacing="0em"><tspan x="32" y="1353">ART-CAB-006 &#xb7; ARC-C6-305-GR</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="1376.73">Grey U/UTP cable &#xb7; measured cut length</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="32" y="1399.86">North depot / Cable store &#xb7; C-04-01</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="32" y="1428.73">In kit &#xb7; 8 m</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="278" y="1428.73">Target &#xb7; 10 m</tspan></text>
+<mask id="path-99-inside-17_4_130027" fill="white">
+<path d="M16 1448H374V1598H16V1448Z"/>
+</mask>
+<path d="M374 1598V1597H16V1598V1599H374V1598Z" fill="#E4E9EF" mask="url(#path-99-inside-17_4_130027)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="32" y="1479.09">Stainless steel fasteners M8</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="IBM Plex Mono" font-size="12" letter-spacing="0em"><tspan x="32" y="1503">ART-FIX-008 &#xb7; SS-M8-MIX</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="1526.73">Mixed nuts, bolts and washers &#xb7; weighed loose</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="32" y="1549.86">North depot / Fixings store &#xb7; B-06-03</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="32" y="1578.73">In kit &#xb7; 0.4 kg</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="270" y="1578.73">Target &#xb7; 0.5 kg</tspan></text>
+</g>
+<rect x="32.5" y="1614.5" width="162" height="43" rx="5.5" fill="#F3F5F8"/>
+<rect x="32.5" y="1614.5" width="162" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#8D9BA9" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="46" y="1641.09">Top up components</tspan></text>
+<text fill="#885B0D" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="1681.73">Return this issued kit before topping up. Component </tspan><tspan x="32" y="1699.73">stock is deducted only when a fill or top-up is saved, </tspan><tspan x="32" y="1717.73">not again when reserved or issued.</tspan></text>
+</g>
+<rect x="16.5" y="1079.5" width="357" height="658" rx="7.5" stroke="#D6DEE7"/>
+<g clip-path="url(#clip11_4_130027)">
+<rect x="16" y="1754" width="358" height="424" rx="8" fill="white"/>
+<mask id="path-112-inside-18_4_130027" fill="white">
+<path d="M16 1754H374V1806H16V1754Z"/>
+</mask>
+<path d="M374 1806V1805H16V1806V1807H374V1806Z" fill="#E4E9EF" mask="url(#path-112-inside-18_4_130027)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="32" y="1785.82">Set &#38; component labels</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="330" y="1784.36">Print</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="32" y="1834.86">Shared main serial &#xb7; own component name and model &#xb7; </tspan><tspan x="32" y="1851.86">both parts move together.</tspan></text>
+<g clip-path="url(#clip12_4_130027)">
+<rect x="32.5" y="1868.5" width="325" height="140" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="22" font-weight="bold" letter-spacing="0em"><tspan x="44" y="1901.5">Part 1/2</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="44" y="1928.09">BayForm shelving clips</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="44" y="1950.86">BF-250-CLIP-ZN</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="IBM Plex Mono" font-size="12" letter-spacing="0em"><tspan x="44" y="1972.5">KIT-ND-2026-000042</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="44" y="1993.5">Hardware case &#xb7; Includes M8 fasteners</tspan></text>
+<rect x="32.5" y="2021.5" width="325" height="140" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="22" font-weight="bold" letter-spacing="0em"><tspan x="44" y="2054.5">Part 2/2</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="44" y="2081.09">Arcline Cat6 cable, grey</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="44" y="2103.86">ARC-C6-305-GR</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="IBM Plex Mono" font-size="12" letter-spacing="0em"><tspan x="44" y="2125.5">KIT-ND-2026-000042</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="44" y="2146.5">Cable case &#xb7; Travels with hardware case</tspan></text>
+</g>
+</g>
+<rect x="16.5" y="1754.5" width="357" height="423" rx="7.5" stroke="#D6DEE7"/>
+<g clip-path="url(#clip13_4_130027)">
+<rect x="16" y="2194" width="358" height="489" rx="8" fill="white"/>
+<mask id="path-131-inside-19_4_130027" fill="white">
+<path d="M16 2194H374V2246H16V2194Z"/>
+</mask>
+<path d="M374 2246V2245H16V2246V2247H374V2246Z" fill="#E4E9EF" mask="url(#path-131-inside-19_4_130027)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="32" y="2225.82">Movement history</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="308" y="2224.36">5 events</tspan></text>
+<mask id="path-135-inside-20_4_130027" fill="white">
+<path d="M32 2246H358V2330H32V2246Z"/>
+</mask>
+<path d="M358 2330V2329H32V2330V2331H358V2330Z" fill="#E4E9EF" mask="url(#path-135-inside-20_4_130027)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="32" y="2271.73">Issued as 1 pcs</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="32" y="2291.5">07 Nov 2026, 09:10 &#xb7; Sam Ellis &#xb7; Warehouse</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="32" y="2312.86">SRV-02642 &#xb7; Component stock not deducted again.</tspan></text>
+<mask id="path-140-inside-21_4_130027" fill="white">
+<path d="M32 2330H358V2414H32V2330Z"/>
+</mask>
+<path d="M358 2414V2413H32V2414V2415H358V2414Z" fill="#E4E9EF" mask="url(#path-140-inside-21_4_130027)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="32" y="2355.73">Reserved as 1 pcs</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="32" y="2375.5">06 Nov 2026, 15:42 &#xb7; Alex Morgan &#xb7; Warehouse</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="32" y="2396.86">SRV-02642 &#xb7; No component stock movement.</tspan></text>
+<mask id="path-145-inside-22_4_130027" fill="white">
+<path d="M32 2414H358V2498H32V2414Z"/>
+</mask>
+<path d="M358 2498V2497H32V2498V2499H358V2498Z" fill="#E4E9EF" mask="url(#path-145-inside-22_4_130027)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="32" y="2439.73">Top-up saved</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="32" y="2459.5">05 Nov 2026, 11:20 &#xb7; Alex Morgan &#xb7; Warehouse</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="32" y="2480.86">&#x2212;4 pcs clips from B-03-01; &#x2212;2 m cable from C-04-01.</tspan></text>
+<mask id="path-150-inside-23_4_130027" fill="white">
+<path d="M32 2498H358V2582H32V2498Z"/>
+</mask>
+<path d="M358 2582V2581H32V2582V2583H358V2582Z" fill="#E4E9EF" mask="url(#path-150-inside-23_4_130027)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="32" y="2523.73">Returned to K-01-02</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="32" y="2543.5">05 Nov 2026, 10:05 &#xb7; Sam Ellis &#xb7; Warehouse</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="32" y="2564.86">INST-02591 closed &#xb7; 12 pcs / 6 m / 0.4 kg counted.</tspan></text>
+<mask id="path-155-inside-24_4_130027" fill="white">
+<path d="M32 2582H358V2683H32V2582Z"/>
+</mask>
+<path d="M358 2683V2682H32V2683V2684H358V2683Z" fill="#E4E9EF" mask="url(#path-155-inside-24_4_130027)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="32" y="2607.73">Created &#38; filled</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="32" y="2627.5">02 Nov 2026, 08:30 &#xb7; Jamie Reed &#xb7; Warehouse manager</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="32" y="2648.86">&#x2212;16 pcs clips: B-02-04 (12), B-03-01 (4); &#x2212;10 m cable; </tspan><tspan x="32" y="2665.86">&#x2212;0.5 kg fasteners.</tspan></text>
+</g>
+<rect x="16.5" y="2194.5" width="357" height="488" rx="7.5" stroke="#D6DEE7"/>
+</g>
+<mask id="path-160-inside-25_4_130027" fill="white">
+<path d="M0 2699H390V2761H0V2699Z"/>
+</mask>
+<path d="M0 2699V2700H390V2699V2698H0V2699Z" fill="#D6DEE7" mask="url(#path-160-inside-25_4_130027)"/>
+<g clip-path="url(#clip14_4_130027)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="16" y="2725.5">WarehouseBay v2.0 &#xb7; Design concept</tspan></text>
+</g>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="16" y="2742.5">Not a live environment &#xb7; Next local 1.17</tspan></text>
+</g>
+<defs>
+<clipPath id="clip0_4_130027">
+<rect width="390" height="2761" fill="white"/>
+</clipPath>
+<clipPath id="clip1_4_130027">
+<rect width="390" height="156" fill="white"/>
+</clipPath>
+<clipPath id="clip2_4_130027">
+<rect width="358" height="94" fill="white" transform="translate(16 203)"/>
+</clipPath>
+<clipPath id="clip3_4_130027">
+<rect width="358" height="94" fill="white" transform="translate(16 203)"/>
+</clipPath>
+<clipPath id="clip4_4_130027">
+<rect width="190" height="25" fill="white" transform="translate(16 203)"/>
+</clipPath>
+<clipPath id="clip5_4_130027">
+<rect width="358" height="2310" fill="white" transform="translate(16 373)"/>
+</clipPath>
+<clipPath id="clip6_4_130027">
+<rect x="16" y="373" width="358" height="272" rx="8" fill="white"/>
+</clipPath>
+<clipPath id="clip7_4_130027">
+<rect width="326" height="25" fill="white" transform="translate(32 500)"/>
+</clipPath>
+<clipPath id="clip8_4_130027">
+<rect x="16" y="661" width="358" height="402" rx="8" fill="white"/>
+</clipPath>
+<clipPath id="clip9_4_130027">
+<rect x="16" y="1079" width="358" height="659" rx="8" fill="white"/>
+</clipPath>
+<clipPath id="clip10_4_130027">
+<rect width="358" height="467" fill="white" transform="translate(16 1131)"/>
+</clipPath>
+<clipPath id="clip11_4_130027">
+<rect x="16" y="1754" width="358" height="424" rx="8" fill="white"/>
+</clipPath>
+<clipPath id="clip12_4_130027">
+<rect width="326" height="294" fill="white" transform="translate(32 1868)"/>
+</clipPath>
+<clipPath id="clip13_4_130027">
+<rect x="16" y="2194" width="358" height="489" rx="8" fill="white"/>
+</clipPath>
+<clipPath id="clip14_4_130027">
+<rect width="358" height="13" fill="white" transform="translate(16 2715)"/>
+</clipPath>
+</defs>
+</svg>

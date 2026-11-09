@@ -1,0 +1,89 @@
+<svg width="624" height="961" viewBox="0 0 624 961" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_4_49069)">
+<g clip-path="url(#clip0_4_49069)">
+<rect x="32" y="20" width="560" height="897" rx="8" fill="white"/>
+<mask id="path-3-inside-1_4_49069" fill="white">
+<path d="M32 20H592V96H32V20Z"/>
+</mask>
+<path d="M592 96V95H32V96V97H592V96Z" fill="#E4E9EF" mask="url(#path-3-inside-1_4_49069)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="20" font-weight="600" letter-spacing="0em"><tspan x="56" y="65.2727">Request WEEE review</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="24" letter-spacing="0em"><tspan x="538" y="66.7273">&#xd7;</tspan></text>
+<rect x="56" y="120" width="227" height="25" rx="4" fill="#F3F5F8"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="64" y="136.864">Permission required &#xb7; Request WEEE</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="56" y="180.091">A separate request for managers. This does not approve WEEE or record </tspan><tspan x="56" y="200.091">disposal.</tspan></text>
+<rect x="56.5" y="225.5" width="511" height="154" fill="#F7F9FB"/>
+<rect x="56.5" y="225.5" width="511" height="154" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="68" y="252.091">1 selected unit &#xb7; #10419 &#xb7; Deinstall</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="280.091">Vectra circulation pump &#xb7; 1 pcs</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="68" y="305.864">Demo Market &#x2014; Sheffield East &#xb7; FZ Plant room &#xb7; Date TBC</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="68" y="330.864">North depot / Quarantine &#xb7; Q-02</tspan></text>
+<rect x="68" y="343" width="77" height="25" rx="4" fill="#FDEEEE"/>
+<text fill="#B03738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="76" y="359.864">Failed test</tspan></text>
+<g clip-path="url(#clip1_4_49069)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="412.864">Reason &#xb7; Required</tspan></text>
+<rect x="56.5" y="423.5" width="511" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="423.5" width="511" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="450.091">Failed electrical safety test; housing cracked.</tspan></text>
+</g>
+<g clip-path="url(#clip2_4_49069)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="499.864">Supporting test reference &#xb7; Optional</tspan></text>
+<rect x="56.5" y="510.5" width="511" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="510.5" width="511" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="537.091">Inspection record &#xb7; 8 Nov 2026, 08:30</tspan></text>
+</g>
+<g clip-path="url(#clip3_4_49069)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="586.864">Send to</tspan></text>
+<rect x="56.5" y="597.5" width="511" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="597.5" width="511" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="624.091">Managers &#xb7; North depot</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="56" y="659.864">Managers review this separately from stock approvals.</tspan></text>
+</g>
+<rect x="56" y="684" width="512" height="79" rx="6" fill="#FFF5DF"/>
+<path d="M77 702.75V705.75M77 708.75H77.0075M84.2978 709.5L78.2978 699C78.167 698.769 77.9773 698.577 77.748 698.443C77.5187 698.31 77.2582 698.239 76.9928 698.239C76.7275 698.239 76.4669 698.31 76.2376 698.443C76.0084 698.577 75.8186 698.769 75.6878 699L69.6878 709.5C69.5556 709.729 69.4862 709.989 69.4868 710.253C69.4874 710.518 69.5579 710.777 69.6911 711.006C69.8244 711.234 70.0157 711.423 70.2456 711.554C70.4755 711.684 70.7359 711.752 71.0003 711.75H83.0003C83.2635 711.749 83.522 711.68 83.7498 711.548C83.9776 711.416 84.1667 711.227 84.2982 710.999C84.4297 710.771 84.4988 710.512 84.4988 710.249C84.4987 709.986 84.4294 709.728 84.2978 709.5Z" stroke="#885B0D" stroke-width="1.7" stroke-linecap="round"/>
+<g clip-path="url(#clip4_4_49069)">
+<text fill="#885B0D" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="96" y="709.727">Keep the unit in quarantine</tspan></text>
+<text fill="#885B0D" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="96" y="729.864">The unit remains unavailable for stock return while the request is pending. No </tspan><tspan x="96" y="746.864">items are deleted, approved or disposed of by sending this request.</tspan></text>
+</g>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="56" y="795.864">Requested by Warehouse operator. Available only with WEEE request permission, under </tspan><tspan x="56" y="812.864">More actions.</tspan></text>
+<mask id="path-32-inside-2_4_49069" fill="white">
+<path d="M32 841H592V917H32V841Z"/>
+</mask>
+<path d="M32 841H592V917H32V841Z" fill="#F7F9FB"/>
+<path d="M32 841V842H592V841V840H32V841Z" fill="#E4E9EF" mask="url(#path-32-inside-2_4_49069)"/>
+<rect x="277.5" y="857.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="277.5" y="857.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="291" y="884.091">Cancel</tspan></text>
+<rect x="361.5" y="857.5" width="206" height="43" rx="5.5" fill="#185DB4"/>
+<rect x="361.5" y="857.5" width="206" height="43" rx="5.5" stroke="#185DB4"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="375" y="884.091">Send request to managers</tspan></text>
+</g>
+<rect x="32.5" y="20.5" width="559" height="896" rx="7.5" stroke="#D6DEE7"/>
+</g>
+<defs>
+<filter id="filter0_d_4_49069" x="0" y="0" width="624" height="961" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="12"/>
+<feGaussianBlur stdDeviation="16"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0705882 0 0 0 0 0.168627 0 0 0 0 0.27451 0 0 0 0.109804 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4_49069"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4_49069" result="shape"/>
+</filter>
+<clipPath id="clip0_4_49069">
+<rect x="32" y="20" width="560" height="897" rx="8" fill="white"/>
+</clipPath>
+<clipPath id="clip1_4_49069">
+<rect width="512" height="67" fill="white" transform="translate(56 400)"/>
+</clipPath>
+<clipPath id="clip2_4_49069">
+<rect width="512" height="67" fill="white" transform="translate(56 487)"/>
+</clipPath>
+<clipPath id="clip3_4_49069">
+<rect width="512" height="90" fill="white" transform="translate(56 574)"/>
+</clipPath>
+<clipPath id="clip4_4_49069">
+<rect width="460" height="55" fill="white" transform="translate(96 696)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,71 @@
+<svg width="1280" height="698" viewBox="0 0 1280 698" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="698" fill="#F3F7FA"/>
+<rect width="1280" height="64" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="16" y="39.6364">RepairBay</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="200" y="36.3636">Active jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="314" y="36.3636">Archived jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="443" y="36.3636">Returns</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="527" y="36.3636">Users</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="597" y="36.3636">Spare parts</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1074" y="36.3636">Alex Naumov</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1198" y="36.3636">Sign out</tspan></text>
+<rect x="200" y="60" width="90" height="4" fill="#2D805F"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="32" y="117.636">Active jobs</tspan></text>
+<path d="M37 140.5H1243C1245.49 140.5 1247.5 142.515 1247.5 145V231C1247.5 233.485 1245.49 235.5 1243 235.5H37C34.5147 235.5 32.5 233.485 32.5 231V145C32.5 142.515 34.5147 140.5 37 140.5Z" fill="white"/>
+<path d="M37 140.5H1243C1245.49 140.5 1247.5 142.515 1247.5 145V231C1247.5 233.485 1245.49 235.5 1243 235.5H37C34.5147 235.5 32.5 233.485 32.5 231V145C32.5 142.515 34.5147 140.5 37 140.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="49" y="170.364">Warehouse</tspan></text>
+<path d="M53 181.5H241C242.933 181.5 244.5 183.067 244.5 185V215C244.5 216.933 242.933 218.5 241 218.5H53C51.067 218.5 49.5 216.933 49.5 215V185L49.5049 184.82C49.5984 182.971 51.1273 181.5 53 181.5Z" fill="white"/>
+<path d="M53 181.5H241C242.933 181.5 244.5 183.067 244.5 185V215C244.5 216.933 242.933 218.5 241 218.5H53C51.067 218.5 49.5 216.933 49.5 215V185L49.5049 184.82C49.5984 182.971 51.1273 181.5 53 181.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="60" y="204.727">Reading</tspan></text>
+<path d="M220 197L226 203L232 197" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="261" y="170.364">Search serial number</tspan></text>
+<path d="M265 181.5H801C802.933 181.5 804.5 183.067 804.5 185V215C804.5 216.933 802.933 218.5 801 218.5H265C263.067 218.5 261.5 216.933 261.5 215V185L261.505 184.82C261.598 182.971 263.127 181.5 265 181.5Z" fill="white"/>
+<path d="M265 181.5H801C802.933 181.5 804.5 183.067 804.5 185V215C804.5 216.933 802.933 218.5 801 218.5H265C263.067 218.5 261.5 216.933 261.5 215V185L261.505 184.82C261.598 182.971 263.127 181.5 265 181.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="272" y="204.727">Enter serial number</tspan></text>
+<path d="M825 181.5H899C900.933 181.5 902.5 183.067 902.5 185V215C902.5 216.933 900.933 218.5 899 218.5H825C823.067 218.5 821.5 216.933 821.5 215V185L821.505 184.82C821.598 182.971 823.127 181.5 825 181.5Z" fill="white"/>
+<path d="M825 181.5H899C900.933 181.5 902.5 183.067 902.5 185V215C902.5 216.933 900.933 218.5 899 218.5H825C823.067 218.5 821.5 216.933 821.5 215V185L821.505 184.82C821.598 182.971 823.127 181.5 825 181.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="847.5" y="204.364">Scan</tspan></text>
+<path d="M923 181.5H1023C1024.93 181.5 1026.5 183.067 1026.5 185V215C1026.5 216.933 1024.93 218.5 1023 218.5H923C921.067 218.5 919.5 216.933 919.5 215V185L919.505 184.82C919.598 182.971 921.127 181.5 923 181.5Z" fill="white"/>
+<path d="M923 181.5H1023C1024.93 181.5 1026.5 183.067 1026.5 185V215C1026.5 216.933 1024.93 218.5 1023 218.5H923C921.067 218.5 919.5 216.933 919.5 215V185L919.505 184.82C919.598 182.971 921.127 181.5 923 181.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="947.5" y="204.364">Find unit</tspan></text>
+<path d="M1047 181.5H1199C1200.93 181.5 1202.5 183.067 1202.5 185V215C1202.5 216.933 1200.93 218.5 1199 218.5H1047C1045.07 218.5 1043.5 216.933 1043.5 215V185L1043.5 184.82C1043.6 182.971 1045.13 181.5 1047 181.5Z" fill="#2D805F"/>
+<path d="M1047 181.5H1199C1200.93 181.5 1202.5 183.067 1202.5 185V215C1202.5 216.933 1200.93 218.5 1199 218.5H1047C1045.07 218.5 1043.5 216.933 1043.5 215V185L1043.5 184.82C1043.6 182.971 1045.13 181.5 1047 181.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1080.5" y="204.364">+ Register unit</tspan></text>
+<path d="M37 252.5H1243C1245.49 252.5 1247.5 254.515 1247.5 257V661C1247.5 663.485 1245.49 665.5 1243 665.5H37C34.5147 665.5 32.5 663.485 32.5 661V257C32.5 254.515 34.5147 252.5 37 252.5Z" fill="white"/>
+<path d="M37 252.5H1243C1245.49 252.5 1247.5 254.515 1247.5 257V661C1247.5 663.485 1245.49 665.5 1243 665.5H37C34.5147 665.5 32.5 663.485 32.5 661V257C32.5 254.515 34.5147 252.5 37 252.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="49" y="293.455">0 jobs</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="171" y="292.364">Oldest registered first</tspan></text>
+<path d="M807 269.5H889C890.933 269.5 892.5 271.067 892.5 273V303C892.5 304.933 890.933 306.5 889 306.5H807C805.067 306.5 803.5 304.933 803.5 303V273L803.505 272.82C803.598 270.971 805.127 269.5 807 269.5Z" fill="white"/>
+<path d="M807 269.5H889C890.933 269.5 892.5 271.067 892.5 273V303C892.5 304.933 890.933 306.5 889 306.5H807C805.067 306.5 803.5 304.933 803.5 303V273L803.505 272.82C803.598 270.971 805.127 269.5 807 269.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="824.5" y="292.364">Filter &#xb7; 2</tspan></text>
+<path d="M909 269.5H1141C1142.93 269.5 1144.5 271.067 1144.5 273V303C1144.5 304.933 1142.93 306.5 1141 306.5H909C907.067 306.5 905.5 304.933 905.5 303V273L905.505 272.82C905.598 270.971 907.127 269.5 909 269.5Z" fill="#EDF2F6"/>
+<path d="M909 269.5H1141C1142.93 269.5 1144.5 271.067 1144.5 273V303C1144.5 304.933 1142.93 306.5 1141 306.5H909C907.067 306.5 905.5 304.933 905.5 303V273L905.505 272.82C905.598 270.971 907.127 269.5 909 269.5Z" stroke="#E3EAF0"/>
+<text fill="#697A8F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="966" y="292.364">Print selected labels</tspan></text>
+<path d="M49 343C49 340.791 50.7909 339 53 339H135C137.209 339 139 340.791 139 343V363C139 365.209 137.209 367 135 367H53C50.7909 367 49 365.209 49 363V343Z" fill="#FFF0CF"/>
+<text fill="#855400" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="73" y="357.364">OOW &#xd7;</tspan></text>
+<path d="M151 343C151 340.791 152.791 339 155 339H307C309.209 339 311 340.791 311 343V363C311 365.209 309.209 367 307 367H155C152.791 367 151 365.209 151 363V343Z" fill="#FFF0CF"/>
+<text fill="#855400" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="174" y="357.364">Approval pending &#xd7;</tspan></text>
+<text fill="#2D805F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="323" y="352.364">Clear filters</tspan></text>
+<rect width="1216" height="44" transform="translate(33 383)" fill="#EFF4F8"/>
+<rect x="45.5" y="397.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="81" y="409.364">Serial number</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="165" y="409">&#x2195;</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="289" y="409.364">Model</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="329" y="409">&#x2195;</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="393" y="409.364">Job site</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="443" y="409">&#x2195;</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="633" y="409.364">Fz</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="651" y="409">&#x2195;</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="961" y="409.364">Simpro job</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="1027" y="409">&#x2195;</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="1065" y="409.364">Var job</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="1110" y="409">&#x2195;</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="1169" y="409.364">Status</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="541.5" y="475.455">No jobs match these filters.</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="482" y="507.727">Clear the filters or search for another serial number.</tspan></text>
+<path d="M581 525.5H701C702.933 525.5 704.5 527.067 704.5 529V559C704.5 560.933 702.933 562.5 701 562.5H581C579.067 562.5 577.5 560.933 577.5 559V529L577.505 528.82C577.598 526.971 579.127 525.5 581 525.5Z" fill="white"/>
+<path d="M581 525.5H701C702.933 525.5 704.5 527.067 704.5 529V559C704.5 560.933 702.933 562.5 701 562.5H581C579.067 562.5 577.5 560.933 577.5 559V529L577.505 528.82C577.598 526.971 579.127 525.5 581 525.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="607" y="548.364">Clear filters</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="49" y="623">Confirmed repairs remain here for 7 days, then move to the archive.</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="49" y="645">Green: repaired &#xb7; Blue: QC pass &#xb7; Red: WEEE. Status names appear on hover or keyboard focus.</tspan></text>
+</svg>

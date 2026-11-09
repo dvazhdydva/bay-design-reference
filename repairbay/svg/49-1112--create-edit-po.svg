@@ -1,0 +1,48 @@
+<svg width="1181" height="479" viewBox="0 0 1181 479" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 0.5H1175C1177.49 0.5 1179.5 2.51472 1179.5 5V474C1179.5 476.485 1177.49 478.5 1175 478.5H5C2.51472 478.5 0.5 476.485 0.5 474V5C0.500007 2.51472 2.51473 0.5 5 0.5Z" fill="white"/>
+<path d="M5 0.5H1175C1177.49 0.5 1179.5 2.51472 1179.5 5V474C1179.5 476.485 1177.49 478.5 1175 478.5H5C2.51472 478.5 0.5 476.485 0.5 474V5C0.500007 2.51472 2.51473 0.5 5 0.5Z" stroke="#E3EAF0"/>
+<rect width="1180" height="72" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="25" y="43.1818">Create / edit PO</tspan></text>
+<path d="M1154 31L1142 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1142 31L1154 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="25" y="110.364">Simpro PO</tspan></text>
+<path d="M29 121.5H382.33C384.263 121.5 385.83 123.067 385.83 125V155C385.83 156.933 384.263 158.5 382.33 158.5H29C27.067 158.5 25.5 156.933 25.5 155V125L25.5049 124.82C25.5984 122.971 27.1273 121.5 29 121.5Z" fill="white"/>
+<path d="M29 121.5H382.33C384.263 121.5 385.83 123.067 385.83 125V155C385.83 156.933 384.263 158.5 382.33 158.5H29C27.067 158.5 25.5 156.933 25.5 155V125L25.5049 124.82C25.5984 122.971 27.1273 121.5 29 121.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="36" y="144.727">24960</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="410.33" y="110.364">GSPN PO</tspan></text>
+<path d="M414.33 121.5H767.66C769.593 121.5 771.16 123.067 771.16 125V155C771.16 156.933 769.593 158.5 767.66 158.5H414.33C412.397 158.5 410.83 156.933 410.83 155V125L410.835 124.82C410.928 122.971 412.457 121.5 414.33 121.5Z" fill="white"/>
+<path d="M414.33 121.5H767.66C769.593 121.5 771.16 123.067 771.16 125V155C771.16 156.933 769.593 158.5 767.66 158.5H414.33C412.397 158.5 410.83 156.933 410.83 155V125L410.835 124.82C410.928 122.971 412.457 121.5 414.33 121.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="421.33" y="144.727">RPO25881-IW</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="795.66" y="110.364">GSPN confirmation number</tspan></text>
+<path d="M799.66 121.5H1152.99C1154.92 121.5 1156.49 123.067 1156.49 125V155C1156.49 156.933 1154.92 158.5 1152.99 158.5H799.66C797.727 158.5 796.16 156.933 796.16 155V125L796.165 124.82C796.258 122.971 797.787 121.5 799.66 121.5Z" fill="white"/>
+<path d="M799.66 121.5H1152.99C1154.92 121.5 1156.49 123.067 1156.49 125V155C1156.49 156.933 1154.92 158.5 1152.99 158.5H799.66C797.727 158.5 796.16 156.933 796.16 155V125L796.165 124.82C796.258 122.971 797.787 121.5 799.66 121.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="806.66" y="144.727">&#x2014;</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="25" y="189.727">Entering a GSPN confirmation number locks the order. Draft orders can accept additional free parts.</tspan></text>
+<rect x="25.5" y="211.5" width="1131" height="102" stroke="#E3EAF0"/>
+<rect width="1132" height="48" transform="translate(26 212)" fill="#EFF4F8"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="34" y="240.364">Part number</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="194" y="240.364">Description</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="424" y="240.364">Price (&#xa3;)</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="524" y="240.364">Alt arrived</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="714" y="240.364">Alt price</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="814" y="240.364">Alt part PO</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="984" y="240.364">Delivery no.</tspan></text>
+<rect width="1132" height="52" transform="translate(26 260)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="34" y="290.727">BN95-05436B</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="194" y="290.727">LCD panel</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="424" y="290.727">598.54</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="524" y="290.727">BN95-11983A</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="714" y="290.727">598.54</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="814" y="290.727">RPO25881-IW</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="984" y="290.727">7369991067</tspan></text>
+<rect x="26" y="312" width="1132" height="1" fill="#E3EAF0"/>
+<path d="M29 330.5H201C202.933 330.5 204.5 332.067 204.5 334V364C204.5 365.933 202.933 367.5 201 367.5H29C27.067 367.5 25.5 365.933 25.5 364V334L25.5049 333.82C25.5984 331.971 27.1273 330.5 29 330.5Z" fill="white"/>
+<path d="M29 330.5H201C202.933 330.5 204.5 332.067 204.5 334V364C204.5 365.933 202.933 367.5 201 367.5H29C27.067 367.5 25.5 365.933 25.5 364V334L25.5049 333.82C25.5984 331.971 27.1273 330.5 29 330.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="65" y="353.364">Copy part details</tspan></text>
+<path d="M869 416.5H961C962.933 416.5 964.5 418.067 964.5 420V450C964.5 451.933 962.933 453.5 961 453.5H869C867.067 453.5 865.5 451.933 865.5 450V420L865.505 419.82C865.598 417.971 867.127 416.5 869 416.5Z" fill="white"/>
+<path d="M869 416.5H961C962.933 416.5 964.5 418.067 964.5 420V450C964.5 451.933 962.933 453.5 961 453.5H869C867.067 453.5 865.5 451.933 865.5 450V420L865.505 419.82C865.598 417.971 867.127 416.5 869 416.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="894.5" y="439.364">Cancel</tspan></text>
+<path d="M981 416.5H1153C1154.93 416.5 1156.5 418.067 1156.5 420V450C1156.5 451.933 1154.93 453.5 1153 453.5H981C979.067 453.5 977.5 451.933 977.5 450V420L977.505 419.82C977.598 417.971 979.127 416.5 981 416.5Z" fill="#2D805F"/>
+<path d="M981 416.5H1153C1154.93 416.5 1156.5 418.067 1156.5 420V450C1156.5 451.933 1154.93 453.5 1153 453.5H981C979.067 453.5 977.5 451.933 977.5 450V420L977.505 419.82C977.598 417.971 979.127 416.5 981 416.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1035.5" y="439.364">Save order</tspan></text>
+</svg>

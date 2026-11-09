@@ -1,0 +1,146 @@
+<svg width="704" height="1055" viewBox="0 0 704 1055" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_4_48912)">
+<g clip-path="url(#clip0_4_48912)">
+<rect x="32" y="20" width="640" height="991" rx="8" fill="white"/>
+<mask id="path-3-inside-1_4_48912" fill="white">
+<path d="M32 20H672V96H32V20Z"/>
+</mask>
+<path d="M672 96V95H32V96V97H672V96Z" fill="#E4E9EF" mask="url(#path-3-inside-1_4_48912)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="20" font-weight="600" letter-spacing="0em"><tspan x="56" y="65.2727">Create expected return</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="24" letter-spacing="0em"><tspan x="618" y="66.7273">&#xd7;</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="56" y="135.091">Create the job before any units arrive. No article registration is required yet.</tspan></text>
+<g clip-path="url(#clip1_4_48912)">
+<g clip-path="url(#clip2_4_48912)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="172.864">Job number</tspan></text>
+<rect x="57" y="184" width="590" height="42" rx="5" fill="white"/>
+<rect x="57" y="184" width="590" height="42" rx="5" stroke="#185DB4" stroke-width="2"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="210.091">10460</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="627" y="210.091">&#x2315;</tspan></text>
+</g>
+<rect x="56.5" y="227.5" width="591" height="95" fill="#EAF2FD"/>
+<rect x="56.5" y="227.5" width="591" height="95" stroke="#D6DEE7"/>
+<g clip-path="url(#clip3_4_48912)">
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="68" y="254.091">#10460 &#xb7; Deinstall</tspan></text>
+<rect x="544" y="239" width="92" height="25" rx="4" fill="#EAF2FD"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="552" y="255.864">Matching job</tspan></text>
+</g>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="68" y="283.727">Demo Market &#x2014; Liverpool Waterfront</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="68" y="306.864">FZ &#xb7; Cold-chain &#xb7; Return date TBC</tspan></text>
+</g>
+<g clip-path="url(#clip4_4_48912)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="355.864">Store &#xb7; Prefilled from matching job</tspan></text>
+<rect x="56.5" y="366.5" width="591" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="366.5" width="591" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="393.091">Demo Market &#x2014; Liverpool Waterfront</tspan></text>
+</g>
+<g clip-path="url(#clip5_4_48912)">
+<g clip-path="url(#clip6_4_48912)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="442.864">FZ &#xb7; Prefilled</tspan></text>
+<rect x="56.5" y="453.5" width="289" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="453.5" width="289" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="480.091">Cold-chain</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="326" y="480.091">&#x2304;</tspan></text>
+</g>
+<g clip-path="url(#clip7_4_48912)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="358" y="442.864">Warehouse</tspan></text>
+<rect x="358.5" y="453.5" width="289" height="43" rx="5.5" fill="white"/>
+<rect x="358.5" y="453.5" width="289" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="370" y="480.091">North depot</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="628" y="480.091">&#x2304;</tspan></text>
+</g>
+</g>
+<g clip-path="url(#clip8_4_48912)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="529.864">Expected return date &#xb7; Optional</tspan></text>
+<rect x="56.5" y="540.5" width="591" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="540.5" width="591" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="567.091">Not set &#xb7; TBC</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="624" y="567.091">&#x25a6;</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="56" y="602.864">Leave blank if the date is not confirmed. You can add or change it later.</tspan></text>
+</g>
+<g clip-path="url(#clip9_4_48912)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="639.864">Notes &#xb7; Optional</tspan></text>
+<rect x="56.5" y="650.5" width="591" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="650.5" width="591" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="677.091">Awaiting store handover; box labels required.</tspan></text>
+</g>
+<g clip-path="url(#clip10_4_48912)">
+<rect x="69.75" y="727.75" width="16.5" height="16.5" rx="2.25" fill="#185DB4"/>
+<rect x="69.75" y="727.75" width="16.5" height="16.5" rx="2.25" stroke="#185DB4" stroke-width="1.5"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="72.5" y="740.364">&#x2713;</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="104" y="740.727">Create an empty expected-return job now</tspan></text>
+</g>
+<rect x="56" y="778" width="592" height="96" rx="6" fill="#EAF2FD"/>
+<g clip-path="url(#clip11_4_48912)">
+<path d="M77.0001 802V799M77.0001 795.999H77.0076M84.5007 799C84.5007 803.142 81.1426 806.5 77.0001 806.5C72.8576 806.5 69.4995 803.142 69.4995 799C69.4995 794.857 72.8576 791.499 77.0001 791.499C81.1426 791.499 84.5007 794.857 84.5007 799Z" stroke="#185DB4" stroke-width="1.7" stroke-linecap="round"/>
+</g>
+<g clip-path="url(#clip12_4_48912)">
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="96" y="803.727">Arrivals match by job number</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="96" y="823.864">Registration for #10460 will merge into this expected return. If a deinstall record already exists, </tspan><tspan x="96" y="840.864">use it rather than creating a duplicate. An installation with the same number remains a </tspan><tspan x="96" y="857.864">separate record.</tspan></text>
+</g>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="56" y="906.864">Initial storage will default to the last deinstall FZ, Cold-chain, and can be edited at intake.</tspan></text>
+<mask id="path-45-inside-2_4_48912" fill="white">
+<path d="M32 935H672V1011H32V935Z"/>
+</mask>
+<path d="M32 935H672V1011H32V935Z" fill="#F7F9FB"/>
+<path d="M32 935V936H672V935V934H32V935Z" fill="#E4E9EF" mask="url(#path-45-inside-2_4_48912)"/>
+<rect x="378.5" y="951.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="378.5" y="951.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="392" y="978.091">Cancel</tspan></text>
+<rect x="462.5" y="951.5" width="185" height="43" rx="5.5" fill="#185DB4"/>
+<rect x="462.5" y="951.5" width="185" height="43" rx="5.5" stroke="#185DB4"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="476" y="978.091">Create expected return</tspan></text>
+</g>
+<rect x="32.5" y="20.5" width="639" height="990" rx="7.5" stroke="#D6DEE7"/>
+</g>
+<defs>
+<filter id="filter0_d_4_48912" x="0" y="0" width="704" height="1055" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="12"/>
+<feGaussianBlur stdDeviation="16"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0705882 0 0 0 0 0.168627 0 0 0 0 0.27451 0 0 0 0.109804 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4_48912"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4_48912" result="shape"/>
+</filter>
+<clipPath id="clip0_4_48912">
+<rect x="32" y="20" width="640" height="991" rx="8" fill="white"/>
+</clipPath>
+<clipPath id="clip1_4_48912">
+<rect width="592" height="163" fill="white" transform="translate(56 160)"/>
+</clipPath>
+<clipPath id="clip2_4_48912">
+<rect width="592" height="67" fill="white" transform="translate(56 160)"/>
+</clipPath>
+<clipPath id="clip3_4_48912">
+<rect width="568" height="25" fill="white" transform="translate(68 239)"/>
+</clipPath>
+<clipPath id="clip4_4_48912">
+<rect width="592" height="67" fill="white" transform="translate(56 343)"/>
+</clipPath>
+<clipPath id="clip5_4_48912">
+<rect width="592" height="67" fill="white" transform="translate(56 430)"/>
+</clipPath>
+<clipPath id="clip6_4_48912">
+<rect width="290" height="67" fill="white" transform="translate(56 430)"/>
+</clipPath>
+<clipPath id="clip7_4_48912">
+<rect width="290" height="67" fill="white" transform="translate(358 430)"/>
+</clipPath>
+<clipPath id="clip8_4_48912">
+<rect width="592" height="90" fill="white" transform="translate(56 517)"/>
+</clipPath>
+<clipPath id="clip9_4_48912">
+<rect width="592" height="67" fill="white" transform="translate(56 627)"/>
+</clipPath>
+<clipPath id="clip10_4_48912">
+<rect width="592" height="44" fill="white" transform="translate(56 714)"/>
+</clipPath>
+<clipPath id="clip11_4_48912">
+<rect width="18" height="18" fill="white" transform="translate(68 790)"/>
+</clipPath>
+<clipPath id="clip12_4_48912">
+<rect width="540" height="72" fill="white" transform="translate(96 790)"/>
+</clipPath>
+</defs>
+</svg>

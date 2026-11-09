@@ -1,0 +1,37 @@
+<svg width="701" height="545" viewBox="0 0 701 545" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 0.5H694C697.038 0.5 699.5 2.96243 699.5 6V539C699.5 542.038 697.038 544.5 694 544.5H6C2.96244 544.5 0.5 542.038 0.5 539V6C0.5 2.96243 2.96243 0.5 6 0.5Z" fill="white"/>
+<path d="M6 0.5H694C697.038 0.5 699.5 2.96243 699.5 6V539C699.5 542.038 697.038 544.5 694 544.5H6C2.96244 544.5 0.5 542.038 0.5 539V6C0.5 2.96243 2.96243 0.5 6 0.5Z" stroke="#E3EAF0"/>
+<rect width="700" height="72" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="25" y="43.1818">Confirm stock take?</tspan></text>
+<path d="M673 31L661 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M661 31L673 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="25" y="113.455">Apply the counted quantities to Reading stock?</tspan></text>
+<rect x="25.5" y="135.5" width="651" height="261" stroke="#E3EAF0"/>
+<rect width="652" height="48" transform="translate(26 136)" fill="#EFF4F8"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="34" y="164.364">Summary</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="514" y="164.364">Entries</tspan></text>
+<rect width="652" height="52" transform="translate(26 184)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="34" y="214.727">Counted entries</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="514" y="214.727">4</tspan></text>
+<rect x="26" y="236" width="652" height="1" fill="#E3EAF0"/>
+<rect width="652" height="52" transform="translate(26 237)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="34" y="267.727">Quantity differences</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="514" y="267.727">3</tspan></text>
+<rect x="26" y="289" width="652" height="1" fill="#E3EAF0"/>
+<rect width="652" height="52" transform="translate(26 290)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="34" y="320.727">New part entries</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="514" y="320.727">1</tspan></text>
+<rect x="26" y="342" width="652" height="1" fill="#E3EAF0"/>
+<rect width="652" height="52" transform="translate(26 343)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="34" y="373.727">Not yet counted</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="514" y="373.727">0</tspan></text>
+<rect x="26" y="395" width="652" height="1" fill="#E3EAF0"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="25" y="427.727">One item will be marked Out of stock. This completes the stock take and makes it read-only.</tspan></text>
+<rect x="1" y="457" width="700" height="1" fill="#E3EAF0"/>
+<path d="M389 482.5H481C482.933 482.5 484.5 484.067 484.5 486V516C484.5 517.933 482.933 519.5 481 519.5H389C387.067 519.5 385.5 517.933 385.5 516V486L385.505 485.82C385.598 483.971 387.127 482.5 389 482.5Z" fill="white"/>
+<path d="M389 482.5H481C482.933 482.5 484.5 484.067 484.5 486V516C484.5 517.933 482.933 519.5 481 519.5H389C387.067 519.5 385.5 517.933 385.5 516V486L385.505 485.82C385.598 483.971 387.127 482.5 389 482.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="414.5" y="505.364">Cancel</tspan></text>
+<path d="M501 482.5H673C674.933 482.5 676.5 484.067 676.5 486V516C676.5 517.933 674.933 519.5 673 519.5H501C499.067 519.5 497.5 517.933 497.5 516V486L497.505 485.82C497.598 483.971 499.127 482.5 501 482.5Z" fill="#2D805F"/>
+<path d="M501 482.5H673C674.933 482.5 676.5 484.067 676.5 486V516C676.5 517.933 674.933 519.5 673 519.5H501C499.067 519.5 497.5 517.933 497.5 516V486L497.505 485.82C497.598 483.971 499.127 482.5 501 482.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="532" y="505.364">Confirm stock take</tspan></text>
+</svg>

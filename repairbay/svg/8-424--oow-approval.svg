@@ -1,0 +1,14 @@
+<svg width="1192" height="154" viewBox="0 0 1192 154" fill="none" xmlns="http://www.w3.org/2000/svg">
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="0" y="16.4545">OOW approval</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="0" y="51.3636">Approved by</tspan></text>
+<path d="M4 62.5H580C581.933 62.5 583.5 64.067 583.5 66V96C583.5 97.933 581.933 99.5 580 99.5H4C2.06701 99.5 0.5 97.933 0.5 96V66L0.504883 65.8203C0.598422 63.9708 2.12727 62.5 4 62.5Z" fill="white"/>
+<path d="M4 62.5H580C581.933 62.5 583.5 64.067 583.5 66V96C583.5 97.933 581.933 99.5 580 99.5H4C2.06701 99.5 0.5 97.933 0.5 96V66L0.504883 65.8203C0.598422 63.9708 2.12727 62.5 4 62.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="608" y="51.3636">Approval date</tspan></text>
+<path d="M612 62.5H1188C1189.93 62.5 1191.5 64.067 1191.5 66V96C1191.5 97.933 1189.93 99.5 1188 99.5H612C610.067 99.5 608.5 97.933 608.5 96V66L608.505 65.8203C608.598 63.9708 610.127 62.5 612 62.5Z" fill="white"/>
+<path d="M612 62.5H1188C1189.93 62.5 1191.5 64.067 1191.5 66V96C1191.5 97.933 1189.93 99.5 1188 99.5H612C610.067 99.5 608.5 97.933 608.5 96V66L608.505 65.8203C608.598 63.9708 610.127 62.5 612 62.5Z" stroke="#CDDAE7"/>
+<path d="M1180 74H1166C1164.9 74 1164 74.8954 1164 76V88C1164 89.1046 1164.9 90 1166 90H1180C1181.1 90 1182 89.1046 1182 88V76C1182 74.8954 1181.1 74 1180 74Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1177 72V76M1169 72V76M1164 80H1182" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4 116.5H156C157.933 116.5 159.5 118.067 159.5 120V150C159.5 151.933 157.933 153.5 156 153.5H4C2.067 153.5 0.5 151.933 0.5 150V120L0.504883 119.82C0.598422 117.971 2.12727 116.5 4 116.5Z" fill="white"/>
+<path d="M4 116.5H156C157.933 116.5 159.5 118.067 159.5 120V150C159.5 151.933 157.933 153.5 156 153.5H4C2.067 153.5 0.5 151.933 0.5 150V120L0.504883 119.82C0.598422 117.971 2.12727 116.5 4 116.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="27" y="139.364">Copy OOW details</tspan></text>
+</svg>

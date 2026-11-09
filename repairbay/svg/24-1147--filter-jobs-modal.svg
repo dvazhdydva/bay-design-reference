@@ -1,0 +1,66 @@
+<svg width="821" height="584" viewBox="0 0 821 584" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 0.5H814C817.038 0.5 819.5 2.96243 819.5 6V578C819.5 581.038 817.038 583.5 814 583.5H6C2.96243 583.5 0.5 581.038 0.5 578V6L0.506836 5.7168C0.654228 2.81084 3.05742 0.5 6 0.5Z" fill="white"/>
+<path d="M6 0.5H814C817.038 0.5 819.5 2.96243 819.5 6V578C819.5 581.038 817.038 583.5 814 583.5H6C2.96243 583.5 0.5 581.038 0.5 578V6L0.506836 5.7168C0.654228 2.81084 3.05742 0.5 6 0.5Z" stroke="#CDDAE7"/>
+<rect width="820" height="76" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="25" y="46.6364">Filter jobs</tspan></text>
+<path d="M777 33L765 45" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M765 33L777 45" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip0_24_1147)">
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="25" y="114.364">Warehouse: Reading</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="25" y="155.455">Status</tspan></text>
+<rect x="29.5" y="173.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="57" y="185.727">Issue Barring Progress</tspan></text>
+<rect x="29.5" y="205.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="57" y="217.727">Awaiting Assessment</tspan></text>
+<rect x="29.5" y="237.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="57" y="249.727">OOW Repair Needs Approval</tspan></text>
+<rect x="29.5" y="269.5" width="15" height="15" rx="2.5" fill="#1769B3" stroke="#CDDAE7"/>
+<path d="M40.8333 273.25L34.875 279.208L32.1666 276.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="57" y="281.727">OOW Repair pending approval</tspan></text>
+<rect x="29.5" y="301.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="57" y="313.727">Parts Need Ordering</tspan></text>
+<rect x="29.5" y="333.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="57" y="345.727">Parts Ordered</tspan></text>
+<rect x="29.5" y="365.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="57" y="377.727">Parts Delivered, Awaiting Repair</tspan></text>
+<rect x="29.5" y="397.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="57" y="409.727">Parts Sent to Warehouse</tspan></text>
+<rect x="29.5" y="429.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="57" y="441.727">Repair Complete, Needs Internal PO Raising</tspan></text>
+<rect x="29.5" y="461.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="57" y="473.727">Repair Complete, IW Credit needs Raising</tspan></text>
+<rect x="29.5" y="493.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="57" y="505.727">Faulty Parts Need Returning</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="489" y="155.455">Type</tspan></text>
+<rect x="493.5" y="173.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="521" y="185.727">TBC</tspan></text>
+<rect x="493.5" y="205.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="521" y="217.727">IW</tspan></text>
+<rect x="493.5" y="237.5" width="15" height="15" rx="2.5" fill="#1769B3" stroke="#CDDAE7"/>
+<path d="M504.833 241.25L498.875 247.208L496.167 244.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="521" y="249.727">OOW</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="489" y="293.455">Engineer</tspan></text>
+<rect x="493.5" y="311.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="521" y="323.727">Max Bainton</tspan></text>
+<rect x="493.5" y="343.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="521" y="355.727">Ben Gill</tspan></text>
+<rect x="493.5" y="375.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="521" y="387.727">Alex Naumov</tspan></text>
+<rect x="493.5" y="407.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="521" y="419.727">Szymon Tamborowski</tspan></text>
+</g>
+<path d="M445 521.5H533C534.933 521.5 536.5 523.067 536.5 525V555C536.5 556.933 534.933 558.5 533 558.5H445C443.067 558.5 441.5 556.933 441.5 555V525L441.505 524.82C441.598 522.971 443.127 521.5 445 521.5Z" fill="white"/>
+<path d="M445 521.5H533C534.933 521.5 536.5 523.067 536.5 525V555C536.5 556.933 534.933 558.5 533 558.5H445C443.067 558.5 441.5 556.933 441.5 555V525L441.505 524.82C441.598 522.971 443.127 521.5 445 521.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="472" y="544.364">Reset</tspan></text>
+<path d="M553 521.5H641C642.933 521.5 644.5 523.067 644.5 525V555C644.5 556.933 642.933 558.5 641 558.5H553C551.067 558.5 549.5 556.933 549.5 555V525L549.505 524.82C549.598 522.971 551.127 521.5 553 521.5Z" fill="white"/>
+<path d="M553 521.5H641C642.933 521.5 644.5 523.067 644.5 525V555C644.5 556.933 642.933 558.5 641 558.5H553C551.067 558.5 549.5 556.933 549.5 555V525L549.505 524.82C549.598 522.971 551.127 521.5 553 521.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="576.5" y="544.364">Cancel</tspan></text>
+<path d="M661 521.5H793C794.933 521.5 796.5 523.067 796.5 525V555C796.5 556.933 794.933 558.5 793 558.5H661C659.067 558.5 657.5 556.933 657.5 555V525L657.505 524.82C657.598 522.971 659.127 521.5 661 521.5Z" fill="#2D805F"/>
+<path d="M661 521.5H793C794.933 521.5 796.5 523.067 796.5 525V555C796.5 556.933 794.933 558.5 793 558.5H661C659.067 558.5 657.5 556.933 657.5 555V525L657.505 524.82C657.598 522.971 659.127 521.5 661 521.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="691.5" y="544.364">Apply filters</tspan></text>
+<defs>
+<clipPath id="clip0_24_1147">
+<rect width="820" height="420" fill="white" transform="translate(1 77)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,56 @@
+<svg width="1280" height="678" viewBox="0 0 1280 678" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="678" fill="#F3F7FA"/>
+<rect width="1280" height="64" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="16" y="39.6364">RepairBay</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="200" y="36.3636">Active jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="314" y="36.3636">Archived jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="443" y="36.3636">Returns</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="527" y="36.3636">Users</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="597" y="36.3636">Spare parts</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1074" y="36.3636">Alex Naumov</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1198" y="36.3636">Sign out</tspan></text>
+<rect x="527" y="60" width="46" height="4" fill="#2D805F"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="32" y="117.636">Add / edit warehouse</tspan></text>
+<path d="M37 140.5H1243C1245.49 140.5 1247.5 142.515 1247.5 145V283C1247.5 285.485 1245.49 287.5 1243 287.5H37C34.5147 287.5 32.5 285.485 32.5 283V145C32.5 142.515 34.5147 140.5 37 140.5Z" fill="white"/>
+<path d="M37 140.5H1243C1245.49 140.5 1247.5 142.515 1247.5 145V283C1247.5 285.485 1245.49 287.5 1243 287.5H37C34.5147 287.5 32.5 285.485 32.5 283V145C32.5 142.515 34.5147 140.5 37 140.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="55" y="181.182">Warehouse</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="216.364">Name *</tspan></text>
+<path d="M59 227.5H425.66C427.593 227.5 429.16 229.067 429.16 231V261C429.16 262.933 427.593 264.5 425.66 264.5H59C57.067 264.5 55.5 262.933 55.5 261V231L55.5049 230.82C55.5984 228.971 57.1273 227.5 59 227.5Z" fill="white"/>
+<path d="M59 227.5H425.66C427.593 227.5 429.16 229.067 429.16 231V261C429.16 262.933 427.593 264.5 425.66 264.5H59C57.067 264.5 55.5 262.933 55.5 261V231L55.5049 230.82C55.5984 228.971 57.1273 227.5 59 227.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="250.727">Reading</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="453.66" y="216.364">Code (max 3) *</tspan></text>
+<path d="M457.66 227.5H824.32C826.253 227.5 827.82 229.067 827.82 231V261C827.82 262.933 826.253 264.5 824.32 264.5H457.66C455.727 264.5 454.16 262.933 454.16 261V231L454.165 230.82C454.259 228.971 455.787 227.5 457.66 227.5Z" fill="white"/>
+<path d="M457.66 227.5H824.32C826.253 227.5 827.82 229.067 827.82 231V261C827.82 262.933 826.253 264.5 824.32 264.5H457.66C455.727 264.5 454.16 262.933 454.16 261V231L454.165 230.82C454.259 228.971 455.787 227.5 457.66 227.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="464.66" y="250.727">R</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="852.32" y="216.364">ASC profile</tspan></text>
+<path d="M856.32 227.5H1222.98C1224.91 227.5 1226.48 229.067 1226.48 231V261C1226.48 262.933 1224.91 264.5 1222.98 264.5H856.32C854.387 264.5 852.82 262.933 852.82 261V231L852.825 230.82C852.918 228.971 854.447 227.5 856.32 227.5Z" fill="white"/>
+<path d="M856.32 227.5H1222.98C1224.91 227.5 1226.48 229.067 1226.48 231V261C1226.48 262.933 1224.91 264.5 1222.98 264.5H856.32C854.387 264.5 852.82 262.933 852.82 261V231L852.825 230.82C852.918 228.971 854.447 227.5 856.32 227.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="863.32" y="250.727">Pioneer Digital Solutions</tspan></text>
+<path d="M1201.98 243L1207.98 249L1213.98 243" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37 304.5H1243C1245.49 304.5 1247.5 306.515 1247.5 309V551C1247.5 553.485 1245.49 555.5 1243 555.5H37C34.5147 555.5 32.5 553.485 32.5 551V309L32.5059 308.769C32.6263 306.391 34.5923 304.5 37 304.5Z" fill="white"/>
+<path d="M37 304.5H1243C1245.49 304.5 1247.5 306.515 1247.5 309V551C1247.5 553.485 1245.49 555.5 1243 555.5H37C34.5147 555.5 32.5 553.485 32.5 551V309L32.5059 308.769C32.6263 306.391 34.5923 304.5 37 304.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="55" y="345.182">Collection address</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="380.364">Company</tspan></text>
+<path d="M59 391.5H425.66C427.593 391.5 429.16 393.067 429.16 395V425C429.16 426.933 427.593 428.5 425.66 428.5H59C57.067 428.5 55.5 426.933 55.5 425V395L55.5049 394.82C55.5984 392.971 57.1273 391.5 59 391.5Z" fill="white"/>
+<path d="M59 391.5H425.66C427.593 391.5 429.16 393.067 429.16 395V425C429.16 426.933 427.593 428.5 425.66 428.5H59C57.067 428.5 55.5 426.933 55.5 425V395L55.5049 394.82C55.5984 392.971 57.1273 391.5 59 391.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="414.727">TRISON</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="453.66" y="380.364">Contact person</tspan></text>
+<path d="M457.66 391.5H824.32C826.253 391.5 827.82 393.067 827.82 395V425C827.82 426.933 826.253 428.5 824.32 428.5H457.66C455.727 428.5 454.16 426.933 454.16 425V395L454.165 394.82C454.259 392.971 455.787 391.5 457.66 391.5Z" fill="white"/>
+<path d="M457.66 391.5H824.32C826.253 391.5 827.82 393.067 827.82 395V425C827.82 426.933 826.253 428.5 824.32 428.5H457.66C455.727 428.5 454.16 426.933 454.16 425V395L454.165 394.82C454.259 392.971 455.787 391.5 457.66 391.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="464.66" y="414.727">Warehouse contact</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="852.32" y="380.364">Phone number</tspan></text>
+<path d="M856.32 391.5H1222.98C1224.91 391.5 1226.48 393.067 1226.48 395V425C1226.48 426.933 1224.91 428.5 1222.98 428.5H856.32C854.387 428.5 852.82 426.933 852.82 425V395L852.825 394.82C852.918 392.971 854.447 391.5 856.32 391.5Z" fill="white"/>
+<path d="M856.32 391.5H1222.98C1224.91 391.5 1226.48 393.067 1226.48 395V425C1226.48 426.933 1224.91 428.5 1222.98 428.5H856.32C854.387 428.5 852.82 426.933 852.82 425V395L852.825 394.82C852.918 392.971 854.447 391.5 856.32 391.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="863.32" y="414.727">&#x2014;</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="458.364">Address</tspan></text>
+<path d="M59 469.5H425.66C427.593 469.5 429.16 471.067 429.16 473V529C429.16 530.933 427.593 532.5 425.66 532.5H59C57.067 532.5 55.5 530.933 55.5 529V473C55.5 471.067 57.067 469.5 59 469.5Z" fill="white"/>
+<path d="M59 469.5H425.66C427.593 469.5 429.16 471.067 429.16 473V529C429.16 530.933 427.593 532.5 425.66 532.5H59C57.067 532.5 55.5 530.933 55.5 529V473C55.5 471.067 57.067 469.5 59 469.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="494.727">Collection address</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="586.727">&#x2611; Active warehouse &#xb7; ASC assignment follows company permissions.</tspan></text>
+<path d="M976 608.5H1068C1069.93 608.5 1071.5 610.067 1071.5 612V642C1071.5 643.933 1069.93 645.5 1068 645.5H976C974.067 645.5 972.5 643.933 972.5 642V612L972.505 611.82C972.598 609.971 974.127 608.5 976 608.5Z" fill="white"/>
+<path d="M976 608.5H1068C1069.93 608.5 1071.5 610.067 1071.5 612V642C1071.5 643.933 1069.93 645.5 1068 645.5H976C974.067 645.5 972.5 643.933 972.5 642V612L972.505 611.82C972.598 609.971 974.127 608.5 976 608.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1001.5" y="631.364">Cancel</tspan></text>
+<path d="M1092 608.5H1244C1245.93 608.5 1247.5 610.067 1247.5 612V642C1247.5 643.933 1245.93 645.5 1244 645.5H1092C1090.07 645.5 1088.5 643.933 1088.5 642V612L1088.5 611.82C1088.6 609.971 1090.13 608.5 1092 608.5Z" fill="#2D805F"/>
+<path d="M1092 608.5H1244C1245.93 608.5 1247.5 610.067 1247.5 612V642C1247.5 643.933 1245.93 645.5 1244 645.5H1092C1090.07 645.5 1088.5 643.933 1088.5 642V612L1088.5 611.82C1088.6 609.971 1090.13 608.5 1092 608.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1120" y="631.364">Save warehouse</tspan></text>
+</svg>

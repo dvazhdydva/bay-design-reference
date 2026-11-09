@@ -1,0 +1,64 @@
+/* Reference tokens derived from the exported Figma layers; not application layout CSS. */
+:root {
+  --figma-color-14263e: #14263e; /* 1277 occurrences */
+  --figma-color-ffffff: #ffffff; /* 1052 occurrences */
+  --figma-color-586e8b: #586e8b; /* 1016 occurrences */
+  --figma-color-cddae7: #cddae7; /* 458 occurrences */
+  --figma-color-e3eaf0: #e3eaf0; /* 353 occurrences */
+  --figma-color-1769b3: #1769b3; /* 190 occurrences */
+  --figma-color-2d805f: #2d805f; /* 115 occurrences */
+  --figma-color-b4232c: #b4232c; /* 103 occurrences */
+  --figma-color-657d98: #657d98; /* 65 occurrences */
+  --figma-color-855400: #855400; /* 62 occurrences */
+  --figma-color-edf2f6: #edf2f6; /* 54 occurrences */
+  --figma-color-172e49: #172e49; /* 53 occurrences */
+  --figma-color-f3f7fa: #f3f7fa; /* 47 occurrences */
+  --figma-color-17613c: #17613c; /* 46 occurrences */
+  --figma-color-697a8f: #697a8f; /* 42 occurrences */
+  --figma-color-dcf5e5: #dcf5e5; /* 37 occurrences */
+  --figma-color-eff4f8: #eff4f8; /* 36 occurrences */
+  --figma-color-edf5ff: #edf5ff; /* 34 occurrences */
+  --figma-color-fce7e7: #fce7e7; /* 22 occurrences */
+  --figma-color-7051b5: #7051b5; /* 20 occurrences */
+  --figma-color-fff0cf: #fff0cf; /* 19 occurrences */
+  --figma-color-087f83: #087f83; /* 19 occurrences */
+  --figma-color-e9f7f6: #e9f7f6; /* 8 occurrences */
+  --figma-color-f3eefc: #f3eefc; /* 6 occurrences */
+  --figma-color-e8f2ff: #e8f2ff; /* 5 occurrences */
+  --figma-color-bad4f5: #bad4f5; /* 5 occurrences */
+  --figma-color-2e5c9c: #2e5c9c; /* 5 occurrences */
+  --figma-color-f2ebff: #f2ebff; /* 4 occurrences */
+  --figma-color-d1bff0: #d1bff0; /* 4 occurrences */
+  --figma-color-66459c: #66459c; /* 4 occurrences */
+  --figma-color-e5edf2: #e5edf2; /* 3 occurrences */
+  --figma-color-738aa6: #738aa6; /* 3 occurrences */
+  --figma-color-246b50: #246b50; /* 2 occurrences */
+  --figma-font-inter: "Inter", sans-serif;
+  --figma-font-size-10: 10px;
+  --figma-font-size-11: 11px;
+  --figma-font-size-12: 12px;
+  --figma-font-size-13: 13px;
+  --figma-font-size-15: 15px;
+  --figma-font-size-17: 17px;
+  --figma-font-size-21: 21px;
+  --figma-font-size-28: 28px;
+  --figma-radius-1-5: 1.5px;
+  --figma-radius-3: 3px;
+  --figma-radius-4: 4px;
+  --figma-radius-5: 5px;
+  --figma-radius-6: 6px;
+  --figma-radius-15: 15px;
+  --figma-space-1: 1px;
+  --figma-space-4: 4px;
+  --figma-space-6: 6px;
+  --figma-space-8: 8px;
+  --figma-space-10: 10px;
+  --figma-space-12: 12px;
+  --figma-space-14: 14px;
+  --figma-space-16: 16px;
+  --figma-space-18: 18px;
+  --figma-space-20: 20px;
+  --figma-space-22: 22px;
+  --figma-space-24: 24px;
+  --figma-space-32: 32px;
+}

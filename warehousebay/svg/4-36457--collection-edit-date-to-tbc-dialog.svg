@@ -1,0 +1,105 @@
+<svg width="584" height="596" viewBox="0 0 584 596" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_4_36457)">
+<g clip-path="url(#clip0_4_36457)">
+<rect x="32" y="20" width="520" height="532" rx="8" fill="white"/>
+<mask id="path-3-inside-1_4_36457" fill="white">
+<path d="M32 20H552V102H32V20Z"/>
+</mask>
+<path d="M552 102V101H32V102V103H552V102Z" fill="#E4E9EF" mask="url(#path-3-inside-1_4_36457)"/>
+<g clip-path="url(#clip1_4_36457)">
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="20" font-weight="600" letter-spacing="0em"><tspan x="56" y="57.2727">Edit collection date</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="56" y="81.7273">#10428 &#xb7; Installation</tspan></text>
+</g>
+<rect x="490.5" y="39.5" width="37" height="43" rx="5.5" fill="white"/>
+<rect x="490.5" y="39.5" width="37" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="504" y="66.0909">&#xd7;</tspan></text>
+<g clip-path="url(#clip2_4_36457)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="138.864">Collection date &#xb7; Optional</tspan></text>
+<rect x="56.5" y="149.5" width="471" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="149.5" width="471" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="176.091">12/11/2026</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="504" y="176.091">&#x25a6;</tspan></text>
+</g>
+<g clip-path="url(#clip3_4_36457)">
+<rect x="69.75" y="226.75" width="16.5" height="16.5" rx="2.25" fill="#185DB4"/>
+<rect x="69.75" y="226.75" width="16.5" height="16.5" rx="2.25" stroke="#185DB4" stroke-width="1.5"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="72.5" y="239.364">&#x2713;</tspan></text>
+<g clip-path="url(#clip4_4_36457)">
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="104" y="230.091">Clear date and save as TBC</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="104" y="250.864">Use when the collection date is not confirmed.</tspan></text>
+</g>
+</g>
+<rect x="56.5" y="277.5" width="471" height="63" fill="#F7F9FB"/>
+<rect x="56.5" y="277.5" width="471" height="63" stroke="#D6DEE7"/>
+<g clip-path="url(#clip5_4_36457)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="70" y="302.864">Current date</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="70" y="323.591">12 Nov 2026</tspan></text>
+</g>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="20" letter-spacing="0em"><tspan x="289.5" y="310.273">&#x2192;</tspan></text>
+<g clip-path="url(#clip6_4_36457)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="445" y="302.864">After saving</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="445" y="323.591">TBC</tspan></text>
+</g>
+<rect x="56" y="361" width="472" height="62" rx="6" fill="#EAF2FD"/>
+<g clip-path="url(#clip7_4_36457)">
+<path d="M77.0001 385V382M77.0001 379H77.0076M84.5007 382C84.5007 386.142 81.1426 389.501 77.0001 389.501C72.8576 389.501 69.4995 386.142 69.4995 382C69.4995 377.858 72.8576 374.499 77.0001 374.499C81.1426 374.499 84.5007 377.858 84.5007 382Z" stroke="#185DB4" stroke-width="1.7" stroke-linecap="round"/>
+</g>
+<g clip-path="url(#clip8_4_36457)">
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="96" y="386.727">Picking is still available with a TBC date</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="96" y="406.864">Job identity, collected history and Inventory reservations are retained.</tspan></text>
+</g>
+<mask id="path-27-inside-2_4_36457" fill="white">
+<path d="M32 447H552V552H32V447Z"/>
+</mask>
+<path d="M32 447H552V552H32V447Z" fill="#F7F9FB"/>
+<path d="M32 447V448H552V447V446H32V447Z" fill="#E4E9EF" mask="url(#path-27-inside-2_4_36457)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="56" y="475.864">Date is optional &#xb7; Existing items and reservations are unchanged</tspan></text>
+<rect x="331.5" y="492.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="331.5" y="492.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="345" y="519.091">Cancel</tspan></text>
+<rect x="415.5" y="492.5" width="112" height="43" rx="5.5" fill="#185DB4"/>
+<rect x="415.5" y="492.5" width="112" height="43" rx="5.5" stroke="#185DB4"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="429" y="519.091">Save as TBC</tspan></text>
+</g>
+<rect x="32.5" y="20.5" width="519" height="531" rx="7.5" stroke="#D6DEE7"/>
+</g>
+<defs>
+<filter id="filter0_d_4_36457" x="0" y="0" width="584" height="596" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="12"/>
+<feGaussianBlur stdDeviation="16"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0705882 0 0 0 0 0.168627 0 0 0 0 0.27451 0 0 0 0.109804 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4_36457"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4_36457" result="shape"/>
+</filter>
+<clipPath id="clip0_4_36457">
+<rect x="32" y="20" width="520" height="532" rx="8" fill="white"/>
+</clipPath>
+<clipPath id="clip1_4_36457">
+<rect width="418" height="50" fill="white" transform="translate(56 36)"/>
+</clipPath>
+<clipPath id="clip2_4_36457">
+<rect width="472" height="67" fill="white" transform="translate(56 126)"/>
+</clipPath>
+<clipPath id="clip3_4_36457">
+<rect width="472" height="44" fill="white" transform="translate(56 213)"/>
+</clipPath>
+<clipPath id="clip4_4_36457">
+<rect width="424" height="40" fill="white" transform="translate(104 215)"/>
+</clipPath>
+<clipPath id="clip5_4_36457">
+<rect width="84" height="36" fill="white" transform="translate(70 291)"/>
+</clipPath>
+<clipPath id="clip6_4_36457">
+<rect width="69" height="36" fill="white" transform="translate(445 291)"/>
+</clipPath>
+<clipPath id="clip7_4_36457">
+<rect width="18" height="18" fill="white" transform="translate(68 373)"/>
+</clipPath>
+<clipPath id="clip8_4_36457">
+<rect width="420" height="38" fill="white" transform="translate(96 373)"/>
+</clipPath>
+</defs>
+</svg>

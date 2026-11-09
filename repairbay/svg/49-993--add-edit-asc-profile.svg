@@ -1,0 +1,52 @@
+<svg width="1280" height="592" viewBox="0 0 1280 592" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="592" fill="#F3F7FA"/>
+<rect width="1280" height="64" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="16" y="39.6364">RepairBay</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="200" y="36.3636">Active jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="314" y="36.3636">Archived jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="443" y="36.3636">Returns</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="527" y="36.3636">Users</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="597" y="36.3636">Spare parts</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1074" y="36.3636">Alex Naumov</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1198" y="36.3636">Sign out</tspan></text>
+<rect x="527" y="60" width="46" height="4" fill="#2D805F"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="32" y="117.636">Add / edit ASC profile</tspan></text>
+<path d="M37 140.5H1243C1245.49 140.5 1247.5 142.515 1247.5 145V465C1247.5 467.485 1245.49 469.5 1243 469.5H37C34.5147 469.5 32.5 467.485 32.5 465V145C32.5 142.515 34.5147 140.5 37 140.5Z" fill="white"/>
+<path d="M37 140.5H1243C1245.49 140.5 1247.5 142.515 1247.5 145V465C1247.5 467.485 1245.49 469.5 1243 469.5H37C34.5147 469.5 32.5 467.485 32.5 465V145C32.5 142.515 34.5147 140.5 37 140.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="55" y="181.182">Company details</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="216.364">Company / brand name</tspan></text>
+<path d="M59 227.5H425.66C427.593 227.5 429.16 229.067 429.16 231V261C429.16 262.933 427.593 264.5 425.66 264.5H59C57.067 264.5 55.5 262.933 55.5 261V231L55.5049 230.82C55.5984 228.971 57.1273 227.5 59 227.5Z" fill="white"/>
+<path d="M59 227.5H425.66C427.593 227.5 429.16 229.067 429.16 231V261C429.16 262.933 427.593 264.5 425.66 264.5H59C57.067 264.5 55.5 262.933 55.5 261V231L55.5049 230.82C55.5984 228.971 57.1273 227.5 59 227.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="250.727">PIONEER GROUP</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="453.66" y="216.364">Legal name *</tspan></text>
+<path d="M457.66 227.5H824.32C826.253 227.5 827.82 229.067 827.82 231V261C827.82 262.933 826.253 264.5 824.32 264.5H457.66C455.727 264.5 454.16 262.933 454.16 261V231L454.165 230.82C454.259 228.971 455.787 227.5 457.66 227.5Z" fill="white"/>
+<path d="M457.66 227.5H824.32C826.253 227.5 827.82 229.067 827.82 231V261C827.82 262.933 826.253 264.5 824.32 264.5H457.66C455.727 264.5 454.16 262.933 454.16 261V231L454.165 230.82C454.259 228.971 455.787 227.5 457.66 227.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="464.66" y="250.727">Pioneer Digital Solutions Ltd</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="852.32" y="216.364">Samsung ASC Code No.</tspan></text>
+<path d="M856.32 227.5H1222.98C1224.91 227.5 1226.48 229.067 1226.48 231V261C1226.48 262.933 1224.91 264.5 1222.98 264.5H856.32C854.387 264.5 852.82 262.933 852.82 261V231L852.825 230.82C852.918 228.971 854.447 227.5 856.32 227.5Z" fill="white"/>
+<path d="M856.32 227.5H1222.98C1224.91 227.5 1226.48 229.067 1226.48 231V261C1226.48 262.933 1224.91 264.5 1222.98 264.5H856.32C854.387 264.5 852.82 262.933 852.82 261V231L852.825 230.82C852.918 228.971 854.447 227.5 856.32 227.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="863.32" y="250.727">0004214027</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="294.364">Country</tspan></text>
+<path d="M59 305.5H425.66C427.593 305.5 429.16 307.067 429.16 309V339C429.16 340.933 427.593 342.5 425.66 342.5H59C57.067 342.5 55.5 340.933 55.5 339V309L55.5049 308.82C55.5984 306.971 57.1273 305.5 59 305.5Z" fill="white"/>
+<path d="M59 305.5H425.66C427.593 305.5 429.16 307.067 429.16 309V339C429.16 340.933 427.593 342.5 425.66 342.5H59C57.067 342.5 55.5 340.933 55.5 339V309L55.5049 308.82C55.5984 306.971 57.1273 305.5 59 305.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="328.727">United Kingdom</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="453.66" y="294.364">VAT number</tspan></text>
+<path d="M457.66 305.5H824.32C826.253 305.5 827.82 307.067 827.82 309V339C827.82 340.933 826.253 342.5 824.32 342.5H457.66C455.727 342.5 454.16 340.933 454.16 339V309L454.165 308.82C454.259 306.971 455.787 305.5 457.66 305.5Z" fill="white"/>
+<path d="M457.66 305.5H824.32C826.253 305.5 827.82 307.067 827.82 309V339C827.82 340.933 826.253 342.5 824.32 342.5H457.66C455.727 342.5 454.16 340.933 454.16 339V309L454.165 308.82C454.259 306.971 455.787 305.5 457.66 305.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="464.66" y="328.727">GB&#x2026;</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="852.32" y="294.364">EORI number</tspan></text>
+<path d="M856.32 305.5H1222.98C1224.91 305.5 1226.48 307.067 1226.48 309V339C1226.48 340.933 1224.91 342.5 1222.98 342.5H856.32C854.387 342.5 852.82 340.933 852.82 339V309L852.825 308.82C852.918 306.971 854.447 305.5 856.32 305.5Z" fill="white"/>
+<path d="M856.32 305.5H1222.98C1224.91 305.5 1226.48 307.067 1226.48 309V339C1226.48 340.933 1224.91 342.5 1222.98 342.5H856.32C854.387 342.5 852.82 340.933 852.82 339V309L852.825 308.82C852.918 306.971 854.447 305.5 856.32 305.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="863.32" y="328.727">GB&#x2026;</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="372.364">Address *</tspan></text>
+<path d="M59 383.5H425.66C427.593 383.5 429.16 385.067 429.16 387V443C429.16 444.933 427.593 446.5 425.66 446.5H59C57.067 446.5 55.5 444.933 55.5 443V387C55.5 385.067 57.067 383.5 59 383.5Z" fill="white"/>
+<path d="M59 383.5H425.66C427.593 383.5 429.16 385.067 429.16 387V443C429.16 444.933 427.593 446.5 425.66 446.5H59C57.067 446.5 55.5 444.933 55.5 443V387C55.5 385.067 57.067 383.5 59 383.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="408.727">Company address</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="500.727">&#x2611; Active ASC profile &#xb7; preserve leading zeros in Samsung ASC code.</tspan></text>
+<path d="M976 522.5H1068C1069.93 522.5 1071.5 524.067 1071.5 526V556C1071.5 557.933 1069.93 559.5 1068 559.5H976C974.067 559.5 972.5 557.933 972.5 556V526L972.505 525.82C972.598 523.971 974.127 522.5 976 522.5Z" fill="white"/>
+<path d="M976 522.5H1068C1069.93 522.5 1071.5 524.067 1071.5 526V556C1071.5 557.933 1069.93 559.5 1068 559.5H976C974.067 559.5 972.5 557.933 972.5 556V526L972.505 525.82C972.598 523.971 974.127 522.5 976 522.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1001.5" y="545.364">Cancel</tspan></text>
+<path d="M1092 522.5H1244C1245.93 522.5 1247.5 524.067 1247.5 526V556C1247.5 557.933 1245.93 559.5 1244 559.5H1092C1090.07 559.5 1088.5 557.933 1088.5 556V526L1088.5 525.82C1088.6 523.971 1090.13 522.5 1092 522.5Z" fill="#2D805F"/>
+<path d="M1092 522.5H1244C1245.93 522.5 1247.5 524.067 1247.5 526V556C1247.5 557.933 1245.93 559.5 1244 559.5H1092C1090.07 559.5 1088.5 557.933 1088.5 556V526L1088.5 525.82C1088.6 523.971 1090.13 522.5 1092 522.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1119.5" y="545.364">Save ASC profile</tspan></text>
+</svg>

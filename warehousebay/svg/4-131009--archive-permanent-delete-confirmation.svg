@@ -1,0 +1,84 @@
+<svg width="624" height="787" viewBox="0 0 624 787" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_4_131009)">
+<g clip-path="url(#clip0_4_131009)">
+<rect x="32" y="20" width="560" height="723" rx="8" fill="white"/>
+<mask id="path-3-inside-1_4_131009" fill="white">
+<path d="M32 20H592V123H32V20Z"/>
+</mask>
+<path d="M592 123V122H32V123V124H592V123Z" fill="#E4E9EF" mask="url(#path-3-inside-1_4_131009)"/>
+<g clip-path="url(#clip1_4_131009)">
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="22" font-weight="bold" letter-spacing="0em"><tspan x="56" y="67.5">Permanently delete article?</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="56" y="94.7273">Admin only &#xb7; Irreversible action</tspan></text>
+</g>
+<path d="M551 61L541 71M541 61L551 71" stroke="#607184" stroke-width="1.7" stroke-linecap="round"/>
+<rect x="56" y="147" width="54" height="25" rx="4" fill="#FDEEEE"/>
+<text fill="#B03738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="64" y="163.864">Admin</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="56" y="203.318">PolarLine CX-900-RH-R290-UK</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="IBM Plex Mono" font-size="13" letter-spacing="0em"><tspan x="56" y="236.375">WB-ND-2026-004818-AX12</tspan></text>
+<rect x="56" y="256" width="512" height="96" rx="6" fill="#FDEEEE"/>
+<g clip-path="url(#clip2_4_131009)">
+<path d="M76.9996 274V277M76.9996 280H77.0071M84.5002 277C84.5002 281.143 81.1421 284.501 76.9996 284.501C72.8572 284.501 69.499 281.143 69.499 277C69.499 272.858 72.8572 269.5 76.9996 269.5C81.1421 269.5 84.5002 272.858 84.5002 277Z" stroke="#B03738" stroke-width="1.7" stroke-linecap="round"/>
+</g>
+<g clip-path="url(#clip3_4_131009)">
+<text fill="#B03738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="96" y="281.727">This cannot be undone</tspan></text>
+<text fill="#B03738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="96" y="301.864">The archived article, serial, original placement and full movement, archive and </tspan><tspan x="96" y="318.864">restore history will be permanently removed. It cannot be restored to Inventory </tspan><tspan x="96" y="335.864">afterwards.</tspan></text>
+</g>
+<rect x="56.5" y="368.5" width="511" height="98" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="72" y="397.591">You are deleting this record, not moving stock</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="72" y="425.727">&#x2022; No stock is returned or made available. &#x2022; Serial and searchable article </tspan><tspan x="72" y="445.727">history are removed. &#x2022; This action does not mark a missing unit as found.</tspan></text>
+<g clip-path="url(#clip4_4_131009)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="495.864">Type the complete serial to confirm</tspan></text>
+<rect x="57" y="507" width="510" height="42" rx="5" fill="white"/>
+<rect x="57" y="507" width="510" height="42" rx="5" stroke="#185DB4" stroke-width="2"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="533.091">WB-ND-2026-004818-AX12</tspan></text>
+</g>
+<g clip-path="url(#clip5_4_131009)">
+<rect x="69.75" y="579.75" width="16.5" height="16.5" rx="2.25" fill="#185DB4"/>
+<rect x="69.75" y="579.75" width="16.5" height="16.5" rx="2.25" stroke="#185DB4" stroke-width="1.5"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="72.5" y="592.364">&#x2713;</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="100" y="592.727">I understand that this article and its history will be deleted permanently.</tspan></text>
+</g>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="56" y="638.864">To keep the history, cancel and leave the article archived or use Restore to stock instead.</tspan></text>
+<mask id="path-26-inside-2_4_131009" fill="white">
+<path d="M32 667H592V743H32V667Z"/>
+</mask>
+<path d="M32 667V668H592V667V666H32V667Z" fill="#E4E9EF" mask="url(#path-26-inside-2_4_131009)"/>
+<rect x="324.5" y="683.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="324.5" y="683.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="338" y="710.091">Cancel</tspan></text>
+<rect x="408" y="683" width="160" height="44" rx="6" fill="#B03738"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="422" y="710.091">Permanently delete</tspan></text>
+</g>
+<rect x="32.5" y="20.5" width="559" height="722" rx="7.5" stroke="#D6DEE7"/>
+</g>
+<defs>
+<filter id="filter0_d_4_131009" x="0" y="0" width="624" height="787" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="12"/>
+<feGaussianBlur stdDeviation="16"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0705882 0 0 0 0 0.168627 0 0 0 0 0.27451 0 0 0 0.109804 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4_131009"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4_131009" result="shape"/>
+</filter>
+<clipPath id="clip0_4_131009">
+<rect x="32" y="20" width="560" height="723" rx="8" fill="white"/>
+</clipPath>
+<clipPath id="clip1_4_131009">
+<rect width="452" height="55" fill="white" transform="translate(56 44)"/>
+</clipPath>
+<clipPath id="clip2_4_131009">
+<rect width="18" height="18" fill="white" transform="translate(68 268)"/>
+</clipPath>
+<clipPath id="clip3_4_131009">
+<rect width="460" height="72" fill="white" transform="translate(96 268)"/>
+</clipPath>
+<clipPath id="clip4_4_131009">
+<rect width="512" height="67" fill="white" transform="translate(56 483)"/>
+</clipPath>
+<clipPath id="clip5_4_131009">
+<rect width="512" height="44" fill="white" transform="translate(56 566)"/>
+</clipPath>
+</defs>
+</svg>

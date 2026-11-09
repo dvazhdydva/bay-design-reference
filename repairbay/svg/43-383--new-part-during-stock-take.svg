@@ -1,0 +1,62 @@
+<svg width="721" height="581" viewBox="0 0 721 581" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 0.5H714C717.038 0.5 719.5 2.96243 719.5 6V575C719.5 578.038 717.038 580.5 714 580.5H6C2.96243 580.5 0.5 578.038 0.5 575V6C0.500006 2.96244 2.96244 0.5 6 0.5Z" fill="white"/>
+<path d="M6 0.5H714C717.038 0.5 719.5 2.96243 719.5 6V575C719.5 578.038 717.038 580.5 714 580.5H6C2.96243 580.5 0.5 578.038 0.5 575V6C0.500006 2.96244 2.96244 0.5 6 0.5Z" stroke="#E3EAF0"/>
+<rect width="720" height="72" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="25" y="43.1818">New part during stock take</tspan></text>
+<path d="M693 31L681 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M681 31L693 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip0_43_383)">
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="25" y="110.364">Part number *</tspan></text>
+<path d="M29 121.5H467C468.933 121.5 470.5 123.067 470.5 125V155C470.5 156.933 468.933 158.5 467 158.5H29C27.067 158.5 25.5 156.933 25.5 155V125L25.5049 124.82C25.5984 122.971 27.1273 121.5 29 121.5Z" fill="white"/>
+<path d="M29 121.5H467C468.933 121.5 470.5 123.067 470.5 125V155C470.5 156.933 468.933 158.5 467 158.5H29C27.067 158.5 25.5 156.933 25.5 155V125L25.5049 124.82C25.5984 122.971 27.1273 121.5 29 121.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="36" y="144.727">BN95-NEW001A</tspan></text>
+<path d="M491 121.5H693C694.933 121.5 696.5 123.067 696.5 125V155C696.5 156.933 694.933 158.5 693 158.5H491C489.067 158.5 487.5 156.933 487.5 155V125L487.505 124.82C487.598 122.971 489.127 121.5 491 121.5Z" fill="white"/>
+<path d="M491 121.5H693C694.933 121.5 696.5 123.067 696.5 125V155C696.5 156.933 694.933 158.5 693 158.5H491C489.067 158.5 487.5 156.933 487.5 155V125L487.505 124.82C487.598 122.971 489.127 121.5 491 121.5Z" stroke="#1769B3"/>
+<path d="M547.5 143V147C547.5 147.53 547.289 148.039 546.914 148.414C546.539 148.789 546.03 149 545.5 149H531.5C530.97 149 530.461 148.789 530.086 148.414C529.711 148.039 529.5 147.53 529.5 147V143" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M533.5 138L538.5 143L543.5 138" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M538.5 143V131" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="554.5" y="144.364">Fetch from GSPN</tspan></text>
+<path d="M25 179C25 176.791 26.7909 175 29 175H693C695.209 175 697 176.791 697 179V219C697 221.209 695.209 223 693 223H29C26.7908 223 25 221.209 25 219V179Z" fill="#EDF5FF"/>
+<path d="M45 209C50.5228 209 55 204.523 55 199C55 193.477 50.5228 189 45 189C39.4772 189 35 193.477 35 199C35 204.523 39.4772 209 45 209Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45 203V199" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45 195H45.01" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="65" y="200.364">New part number &#xb7; enter a description or fetch it from GSPN.</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="25" y="252.364">Description *</tspan></text>
+<path d="M29 263.5H693C694.933 263.5 696.5 265.067 696.5 267V297C696.5 298.933 694.933 300.5 693 300.5H29C27.067 300.5 25.5 298.933 25.5 297V267L25.5049 266.82C25.5984 264.971 27.1273 263.5 29 263.5Z" fill="white"/>
+<path d="M29 263.5H693C694.933 263.5 696.5 265.067 696.5 267V297C696.5 298.933 694.933 300.5 693 300.5H29C27.067 300.5 25.5 298.933 25.5 297V267L25.5049 266.82C25.5984 264.971 27.1273 263.5 29 263.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="36" y="286.727">Enter description or fetch from GSPN</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="25" y="330.364">Quantity found *</tspan></text>
+<path d="M29 341.5H261C262.933 341.5 264.5 343.067 264.5 345V375C264.5 376.933 262.933 378.5 261 378.5H29C27.067 378.5 25.5 376.933 25.5 375V345L25.5049 344.82C25.5984 342.971 27.1273 341.5 29 341.5Z" fill="white"/>
+<path d="M29 341.5H261C262.933 341.5 264.5 343.067 264.5 345V375C264.5 376.933 262.933 378.5 261 378.5H29C27.067 378.5 25.5 376.933 25.5 375V345L25.5049 344.82C25.5984 342.971 27.1273 341.5 29 341.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="36" y="364.727">2</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="289" y="330.364">Warehouse *</tspan></text>
+<path d="M293 341.5H693C694.933 341.5 696.5 343.067 696.5 345V375C696.5 376.933 694.933 378.5 693 378.5H293C291.067 378.5 289.5 376.933 289.5 375V345L289.505 344.82C289.598 342.971 291.127 341.5 293 341.5Z" fill="white"/>
+<path d="M293 341.5H693C694.933 341.5 696.5 343.067 696.5 345V375C696.5 376.933 694.933 378.5 693 378.5H293C291.067 378.5 289.5 376.933 289.5 375V345L289.505 344.82C289.598 342.971 291.127 341.5 293 341.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="300" y="364.727">Reading</tspan></text>
+<path d="M672 357L678 363L684 357" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="25" y="408.364">Location *</tspan></text>
+<path d="M29 419.5H693C694.933 419.5 696.5 421.067 696.5 423V453C696.5 454.933 694.933 456.5 693 456.5H29C27.067 456.5 25.5 454.933 25.5 453V423L25.5049 422.82C25.5984 420.971 27.1273 419.5 29 419.5Z" fill="white"/>
+<path d="M29 419.5H693C694.933 419.5 696.5 421.067 696.5 423V453C696.5 454.933 694.933 456.5 693 456.5H29C27.067 456.5 25.5 454.933 25.5 453V423L25.5049 422.82C25.5984 420.971 27.1273 419.5 29 419.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="36" y="442.727">Crate #2</tspan></text>
+<path d="M25 477C25 474.791 26.7909 473 29 473H693C695.209 473 697 474.791 697 477V517C697 519.209 695.209 521 693 521H29C26.7908 521 25 519.209 25 517V477Z" fill="#EDF5FF"/>
+<path d="M45 507C50.5228 507 55 502.523 55 497C55 491.477 50.5228 487 45 487C39.4772 487 35 491.477 35 497C35 502.523 39.4772 507 45 507Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45 493H45.01" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="65" y="498.364">Stored as: Reading / Crate #2</tspan></text>
+<path d="M121 243C121 240.791 122.791 239 125 239H159C161.209 239 163 240.791 163 243V255C163 257.209 161.209 259 159 259H125C122.791 259 121 257.209 121 255V243Z" fill="#EDF5FF"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="126.5" y="253">GSPN</tspan></text>
+<rect x="713" y="89" width="3" height="388" rx="1.5" fill="#E6EDF2"/>
+<rect x="713" y="89" width="3" height="160" rx="1.5" fill="#738AA6"/>
+</g>
+<rect x="1" y="493" width="720" height="1" fill="#E3EAF0"/>
+<path d="M409 518.5H501C502.933 518.5 504.5 520.067 504.5 522V552C504.5 553.933 502.933 555.5 501 555.5H409C407.067 555.5 405.5 553.933 405.5 552V522L405.505 521.82C405.598 519.971 407.127 518.5 409 518.5Z" fill="white"/>
+<path d="M409 518.5H501C502.933 518.5 504.5 520.067 504.5 522V552C504.5 553.933 502.933 555.5 501 555.5H409C407.067 555.5 405.5 553.933 405.5 552V522L405.505 521.82C405.598 519.971 407.127 518.5 409 518.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="434.5" y="541.364">Cancel</tspan></text>
+<path d="M521 518.5H693C694.933 518.5 696.5 520.067 696.5 522V552C696.5 553.933 694.933 555.5 693 555.5H521C519.067 555.5 517.5 553.933 517.5 552V522L517.505 521.82C517.598 519.971 519.127 518.5 521 518.5Z" fill="#2D805F"/>
+<path d="M521 518.5H693C694.933 518.5 696.5 520.067 696.5 522V552C696.5 553.933 694.933 555.5 693 555.5H521C519.067 555.5 517.5 553.933 517.5 552V522L517.505 521.82C517.598 519.971 519.127 518.5 521 518.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="553.5" y="541.364">Save counted part</tspan></text>
+<defs>
+<clipPath id="clip0_43_383">
+<rect width="720" height="420" fill="white" transform="translate(1 73)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="621" height="267" viewBox="0 0 621 267" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 0.5H614C617.038 0.5 619.5 2.96243 619.5 6V261C619.5 264.038 617.038 266.5 614 266.5H6C2.96243 266.5 0.5 264.038 0.5 261V6C0.5 2.96243 2.96243 0.5 6 0.5Z" fill="white"/>
+<path d="M6 0.5H614C617.038 0.5 619.5 2.96243 619.5 6V261C619.5 264.038 617.038 266.5 614 266.5H6C2.96243 266.5 0.5 264.038 0.5 261V6C0.5 2.96243 2.96243 0.5 6 0.5Z" stroke="#E3EAF0"/>
+<rect width="620" height="72" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="25" y="43.1818">Delete empty pallet?</tspan></text>
+<path d="M593 31L581 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M581 31L593 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="25" y="113.455">Remove P2 from this draft shipment?</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="25" y="149.727">No parts are assigned to P2. P1 and its assigned parts are kept.</tspan></text>
+<rect x="1" y="179" width="620" height="1" fill="#E3EAF0"/>
+<path d="M309 204.5H401C402.933 204.5 404.5 206.067 404.5 208V238C404.5 239.933 402.933 241.5 401 241.5H309C307.067 241.5 305.5 239.933 305.5 238V208L305.505 207.82C305.598 205.971 307.127 204.5 309 204.5Z" fill="white"/>
+<path d="M309 204.5H401C402.933 204.5 404.5 206.067 404.5 208V238C404.5 239.933 402.933 241.5 401 241.5H309C307.067 241.5 305.5 239.933 305.5 238V208L305.505 207.82C305.598 205.971 307.127 204.5 309 204.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="334.5" y="227.364">Cancel</tspan></text>
+<path d="M421 204.5H593C594.933 204.5 596.5 206.067 596.5 208V238C596.5 239.933 594.933 241.5 593 241.5H421C419.067 241.5 417.5 239.933 417.5 238V208L417.505 207.82C417.598 205.971 419.127 204.5 421 204.5Z" fill="white"/>
+<path d="M421 204.5H593C594.933 204.5 596.5 206.067 596.5 208V238C596.5 239.933 594.933 241.5 593 241.5H421C419.067 241.5 417.5 239.933 417.5 238V208L417.505 207.82C417.598 205.971 419.127 204.5 421 204.5Z" stroke="#B4232C"/>
+<text fill="#B4232C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="466" y="227.364">Remove pallet</tspan></text>
+</svg>

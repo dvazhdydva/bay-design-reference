@@ -1,0 +1,124 @@
+/* Native named Figma variables. FLOAT values are raw numbers; use px in layout bindings where appropriate. */
+:root {
+  --rb-rb-primitives-primitive-white: #ffffff;
+  --rb-rb-primitives-primitive-canvas: #f3f7fa;
+  --rb-rb-primitives-primitive-navy: #172e49;
+  --rb-rb-primitives-primitive-ink: #14263e;
+  --rb-rb-primitives-primitive-muted: #586e8b;
+  --rb-rb-primitives-primitive-border: #cddae7;
+  --rb-rb-primitives-primitive-line: #e3eaf0;
+  --rb-rb-primitives-primitive-table: #eff4f8;
+  --rb-rb-primitives-primitive-green: #2d805f;
+  --rb-rb-primitives-primitive-greenhover: #246b50;
+  --rb-rb-primitives-primitive-greenpale: #dcf5e5;
+  --rb-rb-primitives-primitive-greenink: #17613c;
+  --rb-rb-primitives-primitive-amber: #855400;
+  --rb-rb-primitives-primitive-amberpale: #fff0cf;
+  --rb-rb-primitives-primitive-red: #b4232c;
+  --rb-rb-primitives-primitive-redpale: #fce7e7;
+  --rb-rb-primitives-primitive-slate: #657d98;
+  --rb-rb-primitives-primitive-disabled: #edf2f6;
+  --rb-rb-primitives-primitive-disabledink: #697a8f;
+  --rb-rb-primitives-primitive-blue: #1769b3;
+  --rb-rb-primitives-primitive-bluepale: #edf5ff;
+  --rb-rb-primitives-primitive-violet: #7051b5;
+  --rb-rb-primitives-primitive-violetpale: #f3eefc;
+  --rb-rb-primitives-primitive-teal: #087f83;
+  --rb-rb-primitives-primitive-tealpale: #e9f7f6;
+  --rb-rb-semantic-color-bg-canvas: var(--rb-rb-primitives-primitive-canvas);
+  --rb-rb-semantic-color-bg-surface: var(--rb-rb-primitives-primitive-white);
+  --rb-rb-semantic-color-bg-header: var(--rb-rb-primitives-primitive-navy);
+  --rb-rb-semantic-color-bg-table: var(--rb-rb-primitives-primitive-table);
+  --rb-rb-semantic-color-bg-disabled: var(--rb-rb-primitives-primitive-disabled);
+  --rb-rb-semantic-color-text-primary: var(--rb-rb-primitives-primitive-ink);
+  --rb-rb-semantic-color-text-secondary: var(--rb-rb-primitives-primitive-muted);
+  --rb-rb-semantic-color-text-inverse: var(--rb-rb-primitives-primitive-white);
+  --rb-rb-semantic-color-text-disabled: var(--rb-rb-primitives-primitive-disabledink);
+  --rb-rb-semantic-color-border-default: var(--rb-rb-primitives-primitive-border);
+  --rb-rb-semantic-color-border-subtle: var(--rb-rb-primitives-primitive-line);
+  --rb-rb-semantic-color-action-primary: var(--rb-rb-primitives-primitive-green);
+  --rb-rb-semantic-color-action-primary-hover: var(--rb-rb-primitives-primitive-greenhover);
+  --rb-rb-semantic-color-status-done-bg: var(--rb-rb-primitives-primitive-greenpale);
+  --rb-rb-semantic-color-status-done-text: var(--rb-rb-primitives-primitive-greenink);
+  --rb-rb-semantic-color-status-progress-bg: var(--rb-rb-primitives-primitive-amberpale);
+  --rb-rb-semantic-color-status-progress-text: var(--rb-rb-primitives-primitive-amber);
+  --rb-rb-semantic-color-status-pending-bg: var(--rb-rb-primitives-primitive-redpale);
+  --rb-rb-semantic-color-status-pending-text: var(--rb-rb-primitives-primitive-red);
+  --rb-rb-semantic-color-status-neutral: var(--rb-rb-primitives-primitive-slate);
+  --rb-rb-semantic-color-source-gspn: var(--rb-rb-primitives-primitive-blue);
+  --rb-rb-semantic-color-source-gspn-bg: var(--rb-rb-primitives-primitive-bluepale);
+  --rb-rb-semantic-color-source-simpro: var(--rb-rb-primitives-primitive-violet);
+  --rb-rb-semantic-color-source-simpro-bg: var(--rb-rb-primitives-primitive-violetpale);
+  --rb-rb-semantic-color-source-claim: var(--rb-rb-primitives-primitive-teal);
+  --rb-rb-semantic-color-source-claim-bg: var(--rb-rb-primitives-primitive-tealpale);
+  --rb-rb-metrics-space-0: 0;
+  --rb-rb-metrics-space-4: 4;
+  --rb-rb-metrics-space-6: 6;
+  --rb-rb-metrics-space-8: 8;
+  --rb-rb-metrics-space-10: 10;
+  --rb-rb-metrics-space-12: 12;
+  --rb-rb-metrics-space-14: 14;
+  --rb-rb-metrics-space-16: 16;
+  --rb-rb-metrics-space-18: 18;
+  --rb-rb-metrics-space-20: 20;
+  --rb-rb-metrics-space-22: 22;
+  --rb-rb-metrics-space-24: 24;
+  --rb-rb-metrics-space-32: 32;
+  --rb-rb-metrics-radius-control: 4;
+  --rb-rb-metrics-radius-card: 5;
+  --rb-rb-metrics-radius-modal: 6;
+  --rb-rb-metrics-size-control: 38;
+  --rb-rb-metrics-size-section-header: 60;
+  --rb-rb-metrics-size-table-row: 44;
+  --rb-rb-metrics-size-icon: 24;
+  --rb-rb-metrics-stroke-default: 1;
+  --rb-rb-metrics-stroke-focus: 2;
+}
+.rb-text-rb-display {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 36px;
+}
+.rb-text-rb-page-title {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 28px;
+}
+.rb-text-rb-section-title {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 24px;
+}
+.rb-text-rb-subheading {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 22px;
+}
+.rb-text-rb-body {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+}
+.rb-text-rb-label {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+}
+.rb-text-rb-action {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+}
+.rb-text-rb-caption {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 16px;
+}

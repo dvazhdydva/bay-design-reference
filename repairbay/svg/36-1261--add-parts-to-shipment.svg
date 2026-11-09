@@ -1,0 +1,38 @@
+<svg width="901" height="401" viewBox="0 0 901 401" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 0.5H894C897.038 0.5 899.5 2.96243 899.5 6V395C899.5 398.038 897.038 400.5 894 400.5H6C2.96243 400.5 0.5 398.038 0.5 395V6C0.500004 2.96244 2.96244 0.5 6 0.5Z" fill="white"/>
+<path d="M6 0.5H894C897.038 0.5 899.5 2.96243 899.5 6V395C899.5 398.038 897.038 400.5 894 400.5H6C2.96243 400.5 0.5 398.038 0.5 395V6C0.500004 2.96244 2.96244 0.5 6 0.5Z" stroke="#E3EAF0"/>
+<rect width="900" height="72" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="25" y="43.1818">Add parts to shipment</tspan></text>
+<path d="M873 31L861 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M861 31L873 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="25" y="111.727">Reading &#xb7; IW &#xb7; only eligible Return required parts are shown.</tspan></text>
+<rect x="25.5" y="133.5" width="851" height="155" stroke="#E3EAF0"/>
+<rect width="852" height="48" transform="translate(26 134)" fill="#EFF4F8"/>
+<rect x="36.5" y="150.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="74" y="162.364">Part number</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="294" y="162.364">ASC job</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="514" y="162.364">GSPN PO</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="734" y="162.364">Completed</tspan></text>
+<rect width="852" height="52" transform="translate(26 182)" fill="#EDF5FF"/>
+<rect x="36.5" y="200.5" width="15" height="15" rx="2.5" fill="#1769B3" stroke="#CDDAE7"/>
+<path d="M49.8334 204.25L43.875 210.208L41.1667 207.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="74" y="212.727">BN94-18167C</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="294" y="212.727">R-20946-IW</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="514" y="212.727">RPO25881-IW</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="734" y="212.727">28 Oct 2026</tspan></text>
+<rect x="26" y="234" width="852" height="1" fill="#E3EAF0"/>
+<rect width="852" height="52" transform="translate(26 235)" fill="white"/>
+<rect x="36.5" y="253.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="74" y="265.727">BN44-00974A</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="294" y="265.727">R-22751-IW</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="514" y="265.727">RPO25940-IW</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="734" y="265.727">29 Oct 2026</tspan></text>
+<rect x="26" y="287" width="852" height="1" fill="#E3EAF0"/>
+<rect x="1" y="313" width="900" height="1" fill="#E3EAF0"/>
+<path d="M589 338.5H681C682.933 338.5 684.5 340.067 684.5 342V372C684.5 373.933 682.933 375.5 681 375.5H589C587.067 375.5 585.5 373.933 585.5 372V342L585.505 341.82C585.598 339.971 587.127 338.5 589 338.5Z" fill="white"/>
+<path d="M589 338.5H681C682.933 338.5 684.5 340.067 684.5 342V372C684.5 373.933 682.933 375.5 681 375.5H589C587.067 375.5 585.5 373.933 585.5 372V342L585.505 341.82C585.598 339.971 587.127 338.5 589 338.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="614.5" y="361.364">Cancel</tspan></text>
+<path d="M701 338.5H873C874.933 338.5 876.5 340.067 876.5 342V372C876.5 373.933 874.933 375.5 873 375.5H701C699.067 375.5 697.5 373.933 697.5 372V342L697.505 341.82C697.598 339.971 699.127 338.5 701 338.5Z" fill="#2D805F"/>
+<path d="M701 338.5H873C874.933 338.5 876.5 340.067 876.5 342V372C876.5 373.933 874.933 375.5 873 375.5H701C699.067 375.5 697.5 373.933 697.5 372V342L697.505 341.82C697.598 339.971 699.127 338.5 701 338.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="731.5" y="361.364">Add selected parts</tspan></text>
+</svg>

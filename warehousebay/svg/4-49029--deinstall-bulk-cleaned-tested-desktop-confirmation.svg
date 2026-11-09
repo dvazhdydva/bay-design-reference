@@ -1,0 +1,90 @@
+<svg width="624" height="790" viewBox="0 0 624 790" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_4_49029)">
+<g clip-path="url(#clip0_4_49029)">
+<rect x="32" y="20" width="560" height="726" rx="8" fill="white"/>
+<mask id="path-3-inside-1_4_49029" fill="white">
+<path d="M32 20H592V96H32V20Z"/>
+</mask>
+<path d="M592 96V95H32V96V97H592V96Z" fill="#E4E9EF" mask="url(#path-3-inside-1_4_49029)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="20" font-weight="600" letter-spacing="0em"><tspan x="56" y="65.2727">Mark selected as cleaned &#38; tested</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="24" letter-spacing="0em"><tspan x="538" y="66.7273">&#xd7;</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="56" y="135.091">Apply one inspection outcome to the selected group.</tspan></text>
+<rect x="56.5" y="160.5" width="511" height="134" fill="#F7F9FB"/>
+<rect x="56.5" y="160.5" width="511" height="134" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="68" y="187.091">#10428 &#xb7; Deinstall &#xb7; 2 units</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="68" y="215.727">PolarLine CX-900-LH-R290-UK &#xb7; 1 pcs</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="68" y="243.727">PolarLine CX-900-RH-R290-UK &#xb7; 1 pcs</tspan></text>
+<rect x="68" y="258" width="194" height="25" rx="4" fill="#FFF5DF"/>
+<text fill="#885B0D" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="76" y="274.864">1 unit reserved &#xb7; Install #10452</tspan></text>
+<g clip-path="url(#clip1_4_49029)">
+<rect x="69.75" y="328.75" width="16.5" height="16.5" rx="2.25" fill="#185DB4"/>
+<rect x="69.75" y="328.75" width="16.5" height="16.5" rx="2.25" stroke="#185DB4" stroke-width="1.5"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="72.5" y="341.364">&#x2713;</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="100" y="342.091">All selected units have been cleaned.</tspan></text>
+</g>
+<g clip-path="url(#clip2_4_49029)">
+<rect x="69.75" y="392.75" width="16.5" height="16.5" rx="2.25" fill="#185DB4"/>
+<rect x="69.75" y="392.75" width="16.5" height="16.5" rx="2.25" stroke="#185DB4" stroke-width="1.5"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="72.5" y="405.364">&#x2713;</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="100" y="406.091">All selected units have passed the required tests.</tspan></text>
+</g>
+<g clip-path="url(#clip3_4_49029)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="455.864">Inspection notes &#xb7; Optional</tspan></text>
+<rect x="56.5" y="466.5" width="511" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="466.5" width="511" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="493.091">Safety checks passed; external surfaces cleaned.</tspan></text>
+</g>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="56" y="542.864">Recorded as Warehouse operator &#xb7; 8 Nov 2026, 10:05</tspan></text>
+<rect x="56" y="567" width="512" height="79" rx="6" fill="#EAF2FD"/>
+<g clip-path="url(#clip4_4_49029)">
+<path d="M77.0001 591V588M77.0001 584.999H77.0076M84.5007 588C84.5007 592.142 81.1426 595.5 77.0001 595.5C72.8576 595.5 69.4995 592.142 69.4995 588C69.4995 583.857 72.8576 580.499 77.0001 580.499C81.1426 580.499 84.5007 583.857 84.5007 588Z" stroke="#185DB4" stroke-width="1.7" stroke-linecap="round"/>
+</g>
+<g clip-path="url(#clip5_4_49029)">
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="96" y="592.727">Install-manager approval is still required</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="96" y="612.864">The 2 units will move to Pending approval. The installation reservation is </tspan><tspan x="96" y="629.864">retained, but does not approve the unit or return it to stock.</tspan></text>
+</g>
+<mask id="path-28-inside-2_4_49029" fill="white">
+<path d="M32 670H592V746H32V670Z"/>
+</mask>
+<path d="M32 670H592V746H32V670Z" fill="#F7F9FB"/>
+<path d="M32 670V671H592V670V669H32V670Z" fill="#E4E9EF" mask="url(#path-28-inside-2_4_49029)"/>
+<rect x="352.5" y="686.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="352.5" y="686.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="366" y="713.091">Cancel</tspan></text>
+<rect x="436.5" y="686.5" width="131" height="43" rx="5.5" fill="#185DB4"/>
+<rect x="436.5" y="686.5" width="131" height="43" rx="5.5" stroke="#185DB4"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="450" y="713.091">Confirm 2 units</tspan></text>
+</g>
+<rect x="32.5" y="20.5" width="559" height="725" rx="7.5" stroke="#D6DEE7"/>
+</g>
+<defs>
+<filter id="filter0_d_4_49029" x="0" y="0" width="624" height="790" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="12"/>
+<feGaussianBlur stdDeviation="16"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0705882 0 0 0 0 0.168627 0 0 0 0 0.27451 0 0 0 0.109804 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4_49029"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4_49029" result="shape"/>
+</filter>
+<clipPath id="clip0_4_49029">
+<rect x="32" y="20" width="560" height="726" rx="8" fill="white"/>
+</clipPath>
+<clipPath id="clip1_4_49029">
+<rect width="512" height="44" fill="white" transform="translate(56 315)"/>
+</clipPath>
+<clipPath id="clip2_4_49029">
+<rect width="512" height="44" fill="white" transform="translate(56 379)"/>
+</clipPath>
+<clipPath id="clip3_4_49029">
+<rect width="512" height="67" fill="white" transform="translate(56 443)"/>
+</clipPath>
+<clipPath id="clip4_4_49029">
+<rect width="18" height="18" fill="white" transform="translate(68 579)"/>
+</clipPath>
+<clipPath id="clip5_4_49029">
+<rect width="460" height="55" fill="white" transform="translate(96 579)"/>
+</clipPath>
+</defs>
+</svg>

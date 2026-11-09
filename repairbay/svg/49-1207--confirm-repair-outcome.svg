@@ -1,0 +1,17 @@
+<svg width="761" height="298" viewBox="0 0 761 298" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 0.5H755C757.485 0.5 759.5 2.51472 759.5 5V293C759.5 295.485 757.485 297.5 755 297.5H5C2.51472 297.5 0.5 295.485 0.5 293V5C0.500001 2.51472 2.51472 0.5 5 0.5Z" fill="white"/>
+<path d="M5 0.5H755C757.485 0.5 759.5 2.51472 759.5 5V293C759.5 295.485 757.485 297.5 755 297.5H5C2.51472 297.5 0.5 295.485 0.5 293V5C0.500001 2.51472 2.51472 0.5 5 0.5Z" stroke="#E3EAF0"/>
+<rect width="760" height="72" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="25" y="43.1818">Confirm repair outcome</tspan></text>
+<path d="M734 31L722 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M722 31L734 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="25" y="113.455">Repaired &#xb7; 04 Nov 2026 &#xb7; Alex Naumov</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="25" y="149.727">Confirmation locks this repair. It remains in Active jobs for seven days before archiving.</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="25" y="183">QC pass uses the same confirmation. WEEE additionally requires Approved by, Approval date and Approval source.</tspan></text>
+<path d="M449 235.5H541C542.933 235.5 544.5 237.067 544.5 239V269C544.5 270.933 542.933 272.5 541 272.5H449C447.067 272.5 445.5 270.933 445.5 269V239L445.505 238.82C445.598 236.971 447.127 235.5 449 235.5Z" fill="white"/>
+<path d="M449 235.5H541C542.933 235.5 544.5 237.067 544.5 239V269C544.5 270.933 542.933 272.5 541 272.5H449C447.067 272.5 445.5 270.933 445.5 269V239L445.505 238.82C445.598 236.971 447.127 235.5 449 235.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="474.5" y="258.364">Cancel</tspan></text>
+<path d="M561 235.5H733C734.933 235.5 736.5 237.067 736.5 239V269C736.5 270.933 734.933 272.5 733 272.5H561C559.067 272.5 557.5 270.933 557.5 269V239L557.505 238.82C557.598 236.971 559.127 235.5 561 235.5Z" fill="#2D805F"/>
+<path d="M561 235.5H733C734.933 235.5 736.5 237.067 736.5 239V269C736.5 270.933 734.933 272.5 733 272.5H561C559.067 272.5 557.5 270.933 557.5 269V239L557.505 238.82C557.598 236.971 559.127 235.5 561 235.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="596.5" y="258.364">Confirm outcome</tspan></text>
+</svg>

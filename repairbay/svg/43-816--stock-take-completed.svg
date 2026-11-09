@@ -1,0 +1,75 @@
+<svg width="1280" height="780" viewBox="0 0 1280 780" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="780" fill="#F3F7FA"/>
+<rect width="1280" height="64" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="16" y="39.6364">RepairBay</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="200" y="36.3636">Active jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="314" y="36.3636">Archived jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="443" y="36.3636">Returns</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="527" y="36.3636">Users</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="597" y="36.3636">Spare parts</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1074" y="36.3636">Alex Naumov</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1198" y="36.3636">Sign out</tspan></text>
+<rect x="597" y="60" width="90" height="4" fill="#2D805F"/>
+<text fill="#2D805F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="32" y="109.364">&#x2190; Back to spare parts</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="32" y="151.636">Stock take &#xb7; Reading</tspan></text>
+<path d="M257 134C257 131.791 258.791 130 261 130H336C338.209 130 340 131.791 340 134V154C340 156.209 338.209 158 336 158H261C258.791 158 257 156.209 257 154V134Z" fill="#DCF5E5"/>
+<text fill="#17613C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="266.5" y="148.364">Completed</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="1007" y="148.364">Confirmed by Alex Naumov &#xb7; 04 Nov 2026</tspan></text>
+<path d="M32 178C32 175.791 33.7909 174 36 174H1244C1246.21 174 1248 175.791 1248 178V218C1248 220.209 1246.21 222 1244 222H36C33.7908 222 32 220.209 32 218V178Z" fill="#DCF5E5"/>
+<path d="M60 192L49 203L44 198" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#17613C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="72" y="199.364">This stock take is complete and read-only.</tspan></text>
+<path d="M37 238.5H1243C1245.49 238.5 1247.5 240.515 1247.5 243V585C1247.5 587.485 1245.49 589.5 1243 589.5H37C34.5147 589.5 32.5 587.485 32.5 585V243C32.5 240.515 34.5147 238.5 37 238.5Z" fill="white"/>
+<path d="M37 238.5H1243C1245.49 238.5 1247.5 240.515 1247.5 243V585C1247.5 587.485 1245.49 589.5 1243 589.5H37C34.5147 589.5 32.5 587.485 32.5 585V243C32.5 240.515 34.5147 238.5 37 238.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="55" y="281.182">Counted parts</tspan></text>
+<path d="M191 265C191 262.791 192.791 261 195 261H270C272.209 261 274 262.791 274 265V285C274 287.209 272.209 289 270 289H195C192.791 289 191 287.209 191 285V265Z" fill="#DCF5E5"/>
+<text fill="#17613C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="203" y="279.364">4 counted</tspan></text>
+<rect x="55.5" y="305.5" width="1171" height="261" stroke="#E3EAF0"/>
+<rect width="1172" height="48" transform="translate(56 306)" fill="#EFF4F8"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="64" y="334.364">Part number</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="234" y="334.364">Description</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="498" y="334.364">Location</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="736" y="334.364">Expected</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="844" y="334.364">Counted</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="952" y="334.364">Difference</tspan></text>
+<rect width="1172" height="52" transform="translate(56 354)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="64" y="384.727">BN95-11983A</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="234" y="384.727">UHD panel</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="498" y="384.727">Crate #2</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="736" y="384.727">2</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="844" y="384.727">2</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="952" y="384.727">0</tspan></text>
+<rect x="56" y="406" width="1172" height="1" fill="#E3EAF0"/>
+<rect width="1172" height="52" transform="translate(56 407)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="64" y="437.727">BN94-18167C</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="234" y="437.727">Main PCB assembly</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="498" y="437.727">Shelf by the bench</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="736" y="437.727">4</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="844" y="437.727">3</tspan></text>
+<text fill="#B4232C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="952" y="437.727">&#x2212;1</tspan></text>
+<rect x="56" y="459" width="1172" height="1" fill="#E3EAF0"/>
+<rect width="1172" height="52" transform="translate(56 460)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="64" y="490.727">BN44-00974A</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="234" y="490.727">Power supply board</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="498" y="490.727">Crate #3</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="736" y="490.727">1</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="844" y="490.727">0</tspan></text>
+<text fill="#B4232C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="952" y="490.727">&#x2212;1</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1060" y="490.727">Out of stock</tspan></text>
+<rect x="56" y="512" width="1172" height="1" fill="#E3EAF0"/>
+<rect width="1172" height="52" transform="translate(56 513)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="64" y="543.727">BN95-NEW001A</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="234" y="543.727">LCD panel</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="498" y="543.727">Crate #2</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="736" y="543.727">0</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="844" y="543.727">1</tspan></text>
+<text fill="#17613C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="952" y="543.727">+1</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1060" y="543.727">New part</tspan></text>
+<rect x="56" y="565" width="1172" height="1" fill="#E3EAF0"/>
+<path d="M37 606.5H1243C1245.49 606.5 1247.5 608.515 1247.5 611V711C1247.5 713.485 1245.49 715.5 1243 715.5H37C34.5147 715.5 32.5 713.485 32.5 711V611C32.5 608.515 34.5147 606.5 37 606.5Z" fill="white"/>
+<path d="M37 606.5H1243C1245.49 606.5 1247.5 608.515 1247.5 611V711C1247.5 713.485 1245.49 715.5 1243 715.5H37C34.5147 715.5 32.5 713.485 32.5 711V611C32.5 608.515 34.5147 606.5 37 606.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="55" y="649.182">Not yet counted</tspan></text>
+<path d="M204 633C204 630.791 205.791 629 208 629H297C299.209 629 301 630.791 301 633V653C301 655.209 299.209 657 297 657H208C205.791 657 204 655.209 204 653V633Z" fill="#DCF5E5"/>
+<text fill="#17613C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="218" y="647.364">0 remaining</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="55" y="687.727">All entries were counted or explicitly marked Out of stock.</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="32" y="744">&#xa9; 2026 NAVIG home labs &#xb7; Internal operational tool exclusively for TRISON</tspan></text>
+</svg>

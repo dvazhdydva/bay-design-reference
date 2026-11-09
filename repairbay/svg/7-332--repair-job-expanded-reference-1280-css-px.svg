@@ -1,0 +1,294 @@
+<svg width="1280" height="2295" viewBox="0 0 1280 2295" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="2295" fill="#F3F7FA"/>
+<rect width="1280" height="64" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="16" y="39.6364">RepairBay</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="200" y="36.3636">Active jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="314" y="36.3636">Archived jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="443" y="36.3636">Returns</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="527" y="36.3636">Users</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="597" y="36.3636">Spare parts</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="711" y="36">Warehouse</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="793" y="36.3636">Reading&#x2304;</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="901" y="36.3636">Alex Naumov</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1025" y="36.3636">Sign out</tspan></text>
+<rect x="200" y="60" width="90" height="4" fill="#2D805F"/>
+<text fill="#2D805F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="32" y="109.364">&#x2190; Jobs</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="32" y="152.636">Serial: 0S6EHNDX902283M</tspan></text>
+<path d="M402 142H393C391.895 142 391 142.895 391 144V153C391 154.105 391.895 155 393 155H402C403.105 155 404 154.105 404 153V144C404 142.895 403.105 142 402 142Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M387 148H386C385.47 148 384.961 147.789 384.586 147.414C384.211 147.039 384 146.53 384 146V137C384 136.47 384.211 135.961 384.586 135.586C384.961 135.211 385.47 135 386 135H395C395.53 135 396.039 135.211 396.414 135.586C396.789 135.961 397 136.47 397 137V138" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M420 126.5H516C517.933 126.5 519.5 128.067 519.5 130V160C519.5 161.933 517.933 163.5 516 163.5H420C418.067 163.5 416.5 161.933 416.5 160V130L416.505 129.82C416.598 127.971 418.127 126.5 420 126.5Z" fill="white"/>
+<path d="M420 126.5H516C517.933 126.5 519.5 128.067 519.5 130V160C519.5 161.933 517.933 163.5 516 163.5H420C418.067 163.5 416.5 161.933 416.5 160V130L416.505 129.82C416.598 127.971 418.127 126.5 420 126.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="438.5" y="149.364">Print label</tspan></text>
+<path d="M536 126.5H666C667.933 126.5 669.5 128.067 669.5 130V160C669.5 161.933 667.933 163.5 666 163.5H536C534.067 163.5 532.5 161.933 532.5 160V130L532.505 129.82C532.598 127.971 534.127 126.5 536 126.5Z" fill="white"/>
+<path d="M536 126.5H666C667.933 126.5 669.5 128.067 669.5 130V160C669.5 161.933 667.933 163.5 666 163.5H536C534.067 163.5 532.5 161.933 532.5 160V130L532.505 129.82C532.598 127.971 534.127 126.5 536 126.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="554" y="149.364">Copy job details</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="858.5" y="149.364">Saved</tspan></text>
+<path d="M1004.5 126.5H1091.5C1093.43 126.5 1095 128.067 1095 130V160C1095 161.933 1093.43 163.5 1091.5 163.5H1004.5C1002.57 163.5 1001 161.933 1001 160V130L1001 129.82C1001.1 127.971 1002.63 126.5 1004.5 126.5Z" fill="#EDF2F6"/>
+<path d="M1004.5 126.5H1091.5C1093.43 126.5 1095 128.067 1095 130V160C1095 161.933 1093.43 163.5 1091.5 163.5H1004.5C1002.57 163.5 1001 161.933 1001 160V130L1001 129.82C1001.1 127.971 1002.63 126.5 1004.5 126.5Z" stroke="#E3EAF0"/>
+<text fill="#697A8F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1025.5" y="149.364">Discard</tspan></text>
+<path d="M1111.5 126.5H1243.5C1245.43 126.5 1247 128.067 1247 130V160C1247 161.933 1245.43 163.5 1243.5 163.5H1111.5C1109.57 163.5 1108 161.933 1108 160V130L1108 129.82C1108.1 127.971 1109.63 126.5 1111.5 126.5Z" fill="#EDF2F6"/>
+<path d="M1111.5 126.5H1243.5C1245.43 126.5 1247 128.067 1247 130V160C1247 161.933 1245.43 163.5 1243.5 163.5H1111.5C1109.57 163.5 1108 161.933 1108 160V130L1108 129.82C1108.1 127.971 1109.63 126.5 1111.5 126.5Z" stroke="#E3EAF0"/>
+<text fill="#697A8F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1137" y="149.364">Save changes</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="32" y="189.364">Model: QM50C     |     Job site: KFC Worcester DT     |     Fz: Splendid Restaurants (Harland) Ltd     |     Simpro job: 23018</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="32" y="219.364">1 of 4 sections done</tspan></text>
+<path d="M194 208C194 206.895 194.895 206 196 206H552C553.105 206 554 206.895 554 208C554 209.105 553.105 210 552 210H196C194.895 210 194 209.105 194 208Z" fill="#E3EAF0"/>
+<rect x="194" y="206" width="90" height="4" fill="#2D805F"/>
+<path d="M37 236.5H1243C1245.49 236.5 1247.5 238.515 1247.5 241V795C1247.5 797.485 1245.49 799.5 1243 799.5H37C34.5147 799.5 32.5 797.485 32.5 795V241C32.5 238.515 34.5147 236.5 37 236.5Z" fill="white"/>
+<path d="M37 236.5H1243C1245.49 236.5 1247.5 238.515 1247.5 241V795C1247.5 797.485 1245.49 799.5 1243 799.5H37C34.5147 799.5 32.5 797.485 32.5 795V241C32.5 238.515 34.5147 236.5 37 236.5Z" stroke="#E3EAF0"/>
+<path d="M38 237.5H1244C1246.49 237.5 1248.5 239.515 1248.5 242V292C1248.5 294.485 1246.49 296.5 1244 296.5H38C35.5147 296.5 33.5 294.485 33.5 292V242C33.5 239.515 35.5147 237.5 38 237.5Z" fill="white"/>
+<path d="M38 237.5H1244C1246.49 237.5 1248.5 239.515 1248.5 242V292C1248.5 294.485 1246.49 296.5 1244 296.5H38C35.5147 296.5 33.5 294.485 33.5 292V242C33.5 239.515 35.5147 237.5 38 237.5Z" stroke="#E3EAF0"/>
+<path d="M52 264L58 270L64 264" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="80" y="252" width="30" height="30" rx="15" fill="#657D98"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="91" y="272.455">1</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="124" y="273.182">Unit details</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="233" y="271.727">0S6EHNDX902283M &#xb7; QM50C &#xb7; KFC Worcester DT &#xb7; Splendid Restaurants &#xb7; 23018</tspan></text>
+<path d="M1180 257C1180 254.791 1181.79 253 1184 253H1228C1230.21 253 1232 254.791 1232 257V277C1232 279.209 1230.21 281 1228 281H1184C1181.79 281 1180 279.209 1180 277V257Z" fill="#DCF5E5"/>
+<text fill="#17613C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1190.5" y="271.364">Done</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="332.364">Serial number *</tspan></text>
+<path d="M59 343.5H425.667C427.6 343.5 429.167 345.067 429.167 347V377C429.167 378.933 427.6 380.5 425.667 380.5H59C57.067 380.5 55.5 378.933 55.5 377V347L55.5049 346.82C55.5984 344.971 57.1273 343.5 59 343.5Z" fill="white"/>
+<path d="M59 343.5H425.667C427.6 343.5 429.167 345.067 429.167 347V377C429.167 378.933 427.6 380.5 425.667 380.5H59C57.067 380.5 55.5 378.933 55.5 377V347L55.5049 346.82C55.5984 344.971 57.1273 343.5 59 343.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="366.727">0S6EHNDX902283M</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="453.667" y="332.364">Model *</tspan></text>
+<path d="M457.667 343.5H824.367C826.3 343.5 827.867 345.067 827.867 347V377C827.867 378.933 826.3 380.5 824.367 380.5H457.667C455.734 380.5 454.167 378.933 454.167 377V347L454.172 346.82C454.265 344.971 455.794 343.5 457.667 343.5Z" fill="white"/>
+<path d="M457.667 343.5H824.367C826.3 343.5 827.867 345.067 827.867 347V377C827.867 378.933 826.3 380.5 824.367 380.5H457.667C455.734 380.5 454.167 378.933 454.167 377V347L454.172 346.82C454.265 344.971 455.794 343.5 457.667 343.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="464.667" y="366.727">QM50C</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="852.367" y="332.364">Model code</tspan></text>
+<path d="M856.367 343.5H1223.07C1225 343.5 1226.57 345.067 1226.57 347V377C1226.57 378.933 1225 380.5 1223.07 380.5H856.367C854.434 380.5 852.867 378.933 852.867 377V347L852.872 346.82C852.965 344.971 854.494 343.5 856.367 343.5Z" fill="white"/>
+<path d="M856.367 343.5H1223.07C1225 343.5 1226.57 345.067 1226.57 347V377C1226.57 378.933 1225 380.5 1223.07 380.5H856.367C854.434 380.5 852.867 378.933 852.867 377V347L852.872 346.82C852.965 344.971 854.494 343.5 856.367 343.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="863.367" y="366.727">LH50QMCEPGCXEN</tspan></text>
+<rect x="507.167" y="319.5" width="41" height="19" rx="3.5" fill="#E8F2FF"/>
+<rect x="507.167" y="319.5" width="41" height="19" rx="3.5" stroke="#BAD4F5"/>
+<text fill="#2E5C9C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="513.667" y="332.636">GSPN</tspan></text>
+<rect x="928.867" y="319.5" width="41" height="19" rx="3.5" fill="#E8F2FF"/>
+<rect x="928.867" y="319.5" width="41" height="19" rx="3.5" stroke="#BAD4F5"/>
+<text fill="#2E5C9C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="935.367" y="332.636">GSPN</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="412.364">Version</tspan></text>
+<path d="M59 423.5H425.7C427.633 423.5 429.2 425.067 429.2 427V457C429.2 458.933 427.633 460.5 425.7 460.5H59C57.067 460.5 55.5 458.933 55.5 457V427L55.5049 426.82C55.5984 424.971 57.1273 423.5 59 423.5Z" fill="white"/>
+<path d="M59 423.5H425.7C427.633 423.5 429.2 425.067 429.2 427V457C429.2 458.933 427.633 460.5 425.7 460.5H59C57.067 460.5 55.5 458.933 55.5 457V427L55.5049 426.82C55.5984 424.971 57.1273 423.5 59 423.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="446.727">XA01</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="453.7" y="412.364">Purchase date</tspan></text>
+<path d="M457.7 423.5H824.4C826.333 423.5 827.9 425.067 827.9 427V457C827.9 458.933 826.333 460.5 824.4 460.5H457.7C455.767 460.5 454.2 458.933 454.2 457V427L454.205 426.82C454.298 424.971 455.827 423.5 457.7 423.5Z" fill="white"/>
+<path d="M457.7 423.5H824.4C826.333 423.5 827.9 425.067 827.9 427V457C827.9 458.933 826.333 460.5 824.4 460.5H457.7C455.767 460.5 454.2 458.933 454.2 457V427L454.205 426.82C454.298 424.971 455.827 423.5 457.7 423.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="464.7" y="446.727">01/09/2024</tspan></text>
+<path d="M816.4 435H802.4C801.295 435 800.4 435.895 800.4 437V449C800.4 450.105 801.295 451 802.4 451H816.4C817.505 451 818.4 450.105 818.4 449V437C818.4 435.895 817.505 435 816.4 435Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M813.4 433V437M805.4 433V437M800.4 441H818.4" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="852.4" y="412.364">Warranty expiry</tspan></text>
+<path d="M856.4 423.5H1223.1C1225.03 423.5 1226.6 425.067 1226.6 427V457C1226.6 458.933 1225.03 460.5 1223.1 460.5H856.4C854.467 460.5 852.9 458.933 852.9 457V427L852.905 426.82C852.998 424.971 854.527 423.5 856.4 423.5Z" fill="white"/>
+<path d="M856.4 423.5H1223.1C1225.03 423.5 1226.6 425.067 1226.6 427V457C1226.6 458.933 1225.03 460.5 1223.1 460.5H856.4C854.467 460.5 852.9 458.933 852.9 457V427L852.905 426.82C852.998 424.971 854.527 423.5 856.4 423.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="863.4" y="446.727">31/12/2027</tspan></text>
+<path d="M1215.1 435H1201.1C1200 435 1199.1 435.895 1199.1 437V449C1199.1 450.105 1200 451 1201.1 451H1215.1C1216.2 451 1217.1 450.105 1217.1 449V437C1217.1 435.895 1216.2 435 1215.1 435Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1212.1 433V437M1204.1 433V437M1199.1 441H1217.1" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="107.5" y="399.5" width="41" height="19" rx="3.5" fill="#E8F2FF"/>
+<rect x="107.5" y="399.5" width="41" height="19" rx="3.5" stroke="#BAD4F5"/>
+<text fill="#2E5C9C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="114" y="412.636">GSPN</tspan></text>
+<rect x="545.2" y="399.5" width="41" height="19" rx="3.5" fill="#E8F2FF"/>
+<rect x="545.2" y="399.5" width="41" height="19" rx="3.5" stroke="#BAD4F5"/>
+<text fill="#2E5C9C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="551.7" y="412.636">GSPN</tspan></text>
+<rect x="952.9" y="399.5" width="41" height="19" rx="3.5" fill="#E8F2FF"/>
+<rect x="952.9" y="399.5" width="41" height="19" rx="3.5" stroke="#BAD4F5"/>
+<text fill="#2E5C9C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="959.4" y="412.636">GSPN</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="55" y="493.727">&#x203a; Reason for changing existing unit information</tspan></text>
+<path d="M59 517.5H281C282.933 517.5 284.5 519.067 284.5 521V551C284.5 552.933 282.933 554.5 281 554.5H59C57.067 554.5 55.5 552.933 55.5 551V521L55.5049 520.82C55.5984 518.971 57.1273 517.5 59 517.5Z" fill="white"/>
+<path d="M59 517.5H281C282.933 517.5 284.5 519.067 284.5 521V551C284.5 552.933 282.933 554.5 281 554.5H59C57.067 554.5 55.5 552.933 55.5 551V521L55.5049 520.82C55.5984 518.971 57.1273 517.5 59 517.5Z" stroke="#1769B3"/>
+<path d="M125.5 539V543C125.5 543.53 125.289 544.039 124.914 544.414C124.539 544.789 124.03 545 123.5 545H109.5C108.97 545 108.461 544.789 108.086 544.414C107.711 544.039 107.5 543.53 107.5 543V539" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M111.5 534L116.5 539L121.5 534" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M116.5 539V527" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="132.5" y="540.364">Fetch from GSPN</tspan></text>
+<path d="M301 517.5H523C524.933 517.5 526.5 519.067 526.5 521V551C526.5 552.933 524.933 554.5 523 554.5H301C299.067 554.5 297.5 552.933 297.5 551V521L297.505 520.82C297.598 518.971 299.127 517.5 301 517.5Z" fill="white"/>
+<path d="M301 517.5H523C524.933 517.5 526.5 519.067 526.5 521V551C526.5 552.933 524.933 554.5 523 554.5H301C299.067 554.5 297.5 552.933 297.5 551V521L297.505 520.82C297.598 518.971 299.127 517.5 301 517.5Z" stroke="#7051B5"/>
+<path d="M363.5 539V543C363.5 543.53 363.289 544.039 362.914 544.414C362.539 544.789 362.03 545 361.5 545H347.5C346.97 545 346.461 544.789 346.086 544.414C345.711 544.039 345.5 543.53 345.5 543V539" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M349.5 534L354.5 539L359.5 534" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M354.5 539V527" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#7051B5" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="370.5" y="540.364">Fetch from Simpro</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="55" y="585">Requires Chrome bridge and a signed-in source tab. Download Chrome bridge 0.6.0</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="620.364">Simpro job</tspan></text>
+<path d="M59 631.5H425.667C427.6 631.5 429.167 633.067 429.167 635V665C429.167 666.933 427.6 668.5 425.667 668.5H59C57.067 668.5 55.5 666.933 55.5 665V635L55.5049 634.82C55.5984 632.971 57.1273 631.5 59 631.5Z" fill="white"/>
+<path d="M59 631.5H425.667C427.6 631.5 429.167 633.067 429.167 635V665C429.167 666.933 427.6 668.5 425.667 668.5H59C57.067 668.5 55.5 666.933 55.5 665V635L55.5049 634.82C55.5984 632.971 57.1273 631.5 59 631.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="654.727">23018</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="453.667" y="620.364">Job site</tspan></text>
+<path d="M457.667 631.5H824.367C826.3 631.5 827.867 633.067 827.867 635V665C827.867 666.933 826.3 668.5 824.367 668.5H457.667C455.734 668.5 454.167 666.933 454.167 665V635L454.172 634.82C454.265 632.971 455.794 631.5 457.667 631.5Z" fill="white"/>
+<path d="M457.667 631.5H824.367C826.3 631.5 827.867 633.067 827.867 635V665C827.867 666.933 826.3 668.5 824.367 668.5H457.667C455.734 668.5 454.167 666.933 454.167 665V635L454.172 634.82C454.265 632.971 455.794 631.5 457.667 631.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="464.667" y="654.727">KFC Worcester DT</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="852.367" y="620.364">Franchisee / Fz *</tspan></text>
+<path d="M856.367 631.5H1223.07C1225 631.5 1226.57 633.067 1226.57 635V665C1226.57 666.933 1225 668.5 1223.07 668.5H856.367C854.434 668.5 852.867 666.933 852.867 665V635L852.872 634.82C852.965 632.971 854.494 631.5 856.367 631.5Z" fill="white"/>
+<path d="M856.367 631.5H1223.07C1225 631.5 1226.57 633.067 1226.57 635V665C1226.57 666.933 1225 668.5 1223.07 668.5H856.367C854.434 668.5 852.867 666.933 852.867 665V635L852.872 634.82C852.965 632.971 854.494 631.5 856.367 631.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="863.367" y="654.727">Splendid Restaurants (Harland) Ltd</tspan></text>
+<rect x="508.167" y="607.5" width="47" height="19" rx="3.5" fill="#F2EBFF"/>
+<rect x="508.167" y="607.5" width="47" height="19" rx="3.5" stroke="#D1BFF0"/>
+<text fill="#66459C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="514.667" y="620.636">Simpro</tspan></text>
+<rect x="957.867" y="607.5" width="47" height="19" rx="3.5" fill="#F2EBFF"/>
+<rect x="957.867" y="607.5" width="47" height="19" rx="3.5" stroke="#D1BFF0"/>
+<text fill="#66459C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="964.367" y="620.636">Simpro</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="700.364">Received</tspan></text>
+<path d="M59 711.5H425C426.933 711.5 428.5 713.067 428.5 715V745C428.5 746.933 426.933 748.5 425 748.5H59C57.067 748.5 55.5 746.933 55.5 745V715L55.5049 714.82C55.5984 712.971 57.1273 711.5 59 711.5Z" fill="white"/>
+<path d="M59 711.5H425C426.933 711.5 428.5 713.067 428.5 715V745C428.5 746.933 426.933 748.5 425 748.5H59C57.067 748.5 55.5 746.933 55.5 745V715L55.5049 714.82C55.5984 712.971 57.1273 711.5 59 711.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="734.727">05/08/2026</tspan></text>
+<path d="M417 723H403C401.895 723 401 723.895 401 725V737C401 738.105 401.895 739 403 739H417C418.105 739 419 738.105 419 737V725C419 723.895 418.105 723 417 723Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M414 721V725M406 721V725M401 729H419" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip0_7_332)">
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="55" y="766">yesterday</tspan></text>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="120" y="766">today</tspan></text>
+</g>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="453" y="700.364">Unit comments</tspan></text>
+<path d="M457 711.5H1223C1224.93 711.5 1226.5 713.067 1226.5 715V771C1226.5 772.933 1224.93 774.5 1223 774.5H457C455.067 774.5 453.5 772.933 453.5 771V715C453.5 713.067 455.067 711.5 457 711.5Z" fill="white"/>
+<path d="M457 711.5H1223C1224.93 711.5 1226.5 713.067 1226.5 715V771C1226.5 772.933 1224.93 774.5 1223 774.5H457C455.067 774.5 453.5 772.933 453.5 771V715C453.5 713.067 455.067 711.5 457 711.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="464" y="736.727">&#x2014;</tspan></text>
+<rect x="116.5" y="687.5" width="47" height="19" rx="3.5" fill="#F2EBFF"/>
+<rect x="116.5" y="687.5" width="47" height="19" rx="3.5" stroke="#D1BFF0"/>
+<text fill="#66459C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="123" y="700.636">Simpro</tspan></text>
+<path d="M37 812.5H1243C1245.49 812.5 1247.5 814.515 1247.5 817V1081C1247.5 1083.49 1245.49 1085.5 1243 1085.5H37C34.5147 1085.5 32.5 1083.49 32.5 1081V817C32.5 814.515 34.5147 812.5 37 812.5Z" fill="white"/>
+<path d="M37 812.5H1243C1245.49 812.5 1247.5 814.515 1247.5 817V1081C1247.5 1083.49 1245.49 1085.5 1243 1085.5H37C34.5147 1085.5 32.5 1083.49 32.5 1081V817C32.5 814.515 34.5147 812.5 37 812.5Z" stroke="#E3EAF0"/>
+<path d="M38 813.5H1244C1246.49 813.5 1248.5 815.515 1248.5 818V868C1248.5 870.485 1246.49 872.5 1244 872.5H38C35.5147 872.5 33.5 870.485 33.5 868V818C33.5 815.515 35.5147 813.5 38 813.5Z" fill="white"/>
+<path d="M38 813.5H1244C1246.49 813.5 1248.5 815.515 1248.5 818V868C1248.5 870.485 1246.49 872.5 1244 872.5H38C35.5147 872.5 33.5 870.485 33.5 868V818C33.5 815.515 35.5147 813.5 38 813.5Z" stroke="#E3EAF0"/>
+<path d="M52 840L58 846L64 840" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="80" y="828" width="30" height="30" rx="15" fill="#657D98"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="90" y="848.455">2</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="124" y="849.182">Job details</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="230" y="847.727">No variation job &#xb7; TBC &#xb7; No fault recorded</tspan></text>
+<path d="M1159 833C1159 830.791 1160.79 829 1163 829H1228C1230.21 829 1232 830.791 1232 833V853C1232 855.209 1230.21 857 1228 857H1163C1160.79 857 1159 855.209 1159 853V833Z" fill="#FCE7E7"/>
+<text fill="#B4232C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1171.5" y="847.364">Pending</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="908.364">Variation job</tspan></text>
+<path d="M59 919.5H425.667C427.6 919.5 429.167 921.067 429.167 923V953C429.167 954.933 427.6 956.5 425.667 956.5H59C57.067 956.5 55.5 954.933 55.5 953V923L55.5049 922.82C55.5984 920.971 57.1273 919.5 59 919.5Z" fill="white"/>
+<path d="M59 919.5H425.667C427.6 919.5 429.167 921.067 429.167 923V953C429.167 954.933 427.6 956.5 425.667 956.5H59C57.067 956.5 55.5 954.933 55.5 953V923L55.5049 922.82C55.5984 920.971 57.1273 919.5 59 919.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="942.727">&#x2014;</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="453.667" y="908.364">Repair type *</tspan></text>
+<path d="M457.667 919.5H824.334C826.266 919.5 827.834 921.067 827.834 923V953C827.834 954.933 826.266 956.5 824.334 956.5H457.667C455.734 956.5 454.167 954.933 454.167 953V923L454.172 922.82C454.265 920.971 455.794 919.5 457.667 919.5Z" fill="white"/>
+<path d="M457.667 919.5H824.334C826.266 919.5 827.834 921.067 827.834 923V953C827.834 954.933 826.266 956.5 824.334 956.5H457.667C455.734 956.5 454.167 954.933 454.167 953V923L454.172 922.82C454.265 920.971 455.794 919.5 457.667 919.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="464.667" y="942.727">TBC</tspan></text>
+<path d="M803.333 935L809.333 941L815.333 935" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="852.333" y="908.364">Fault</tspan></text>
+<path d="M856.333 919.5H1223C1224.93 919.5 1226.5 921.067 1226.5 923V953C1226.5 954.933 1224.93 956.5 1223 956.5H856.333C854.4 956.5 852.833 954.933 852.833 953V923L852.838 922.82C852.932 920.971 854.461 919.5 856.333 919.5Z" fill="white"/>
+<path d="M856.333 919.5H1223C1224.93 919.5 1226.5 921.067 1226.5 923V953C1226.5 954.933 1224.93 956.5 1223 956.5H856.333C854.4 956.5 852.833 954.933 852.833 953V923L852.838 922.82C852.932 920.971 854.461 919.5 856.333 919.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="863.333" y="942.727">&#x2014;</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="988.364">Repair comments</tspan></text>
+<path d="M59 999.5H1223C1224.93 999.5 1226.5 1001.07 1226.5 1003V1059C1226.5 1060.93 1224.93 1062.5 1223 1062.5H59C57.067 1062.5 55.5 1060.93 55.5 1059V1003C55.5 1001.07 57.067 999.5 59 999.5Z" fill="white"/>
+<path d="M59 999.5H1223C1224.93 999.5 1226.5 1001.07 1226.5 1003V1059C1226.5 1060.93 1224.93 1062.5 1223 1062.5H59C57.067 1062.5 55.5 1060.93 55.5 1059V1003C55.5 1001.07 57.067 999.5 59 999.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="1024.73">Arrived on the site to find DMB 2 screen full of lines but couldn&#x2019;t find any point of impact on the screen. I replaced the screen with no issues.</tspan></text>
+<rect x="163.5" y="975.5" width="47" height="19" rx="3.5" fill="#F2EBFF"/>
+<rect x="163.5" y="975.5" width="47" height="19" rx="3.5" stroke="#D1BFF0"/>
+<text fill="#66459C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="170" y="988.636">Simpro</tspan></text>
+<path d="M37 1098.5H1243C1245.49 1098.5 1247.5 1100.51 1247.5 1103V1551C1247.5 1553.49 1245.49 1555.5 1243 1555.5H37C34.5147 1555.5 32.5 1553.49 32.5 1551V1103C32.5 1100.51 34.5147 1098.5 37 1098.5Z" fill="white"/>
+<path d="M37 1098.5H1243C1245.49 1098.5 1247.5 1100.51 1247.5 1103V1551C1247.5 1553.49 1245.49 1555.5 1243 1555.5H37C34.5147 1555.5 32.5 1553.49 32.5 1551V1103C32.5 1100.51 34.5147 1098.5 37 1098.5Z" stroke="#E3EAF0"/>
+<path d="M38 1099.5H1244C1246.49 1099.5 1248.5 1101.51 1248.5 1104V1154C1248.5 1156.49 1246.49 1158.5 1244 1158.5H38C35.5147 1158.5 33.5 1156.49 33.5 1154V1104C33.5 1101.51 35.5147 1099.5 38 1099.5Z" fill="white"/>
+<path d="M38 1099.5H1244C1246.49 1099.5 1248.5 1101.51 1248.5 1104V1154C1248.5 1156.49 1246.49 1158.5 1244 1158.5H38C35.5147 1158.5 33.5 1156.49 33.5 1154V1104C33.5 1101.51 35.5147 1099.5 38 1099.5Z" stroke="#E3EAF0"/>
+<path d="M52 1126L58 1132L64 1126" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="80" y="1114" width="30" height="30" rx="15" fill="#657D98"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="90" y="1134.45">3</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="124" y="1135.18">GSPN details</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="246" y="1133.73">ASC job: &#x2014; &#xb7; GSPN SO: &#x2014;</tspan></text>
+<path d="M1159 1119C1159 1116.79 1160.79 1115 1163 1115H1228C1230.21 1115 1232 1116.79 1232 1119V1139C1232 1141.21 1230.21 1143 1228 1143H1163C1160.79 1143 1159 1141.21 1159 1139V1119Z" fill="#FCE7E7"/>
+<text fill="#B4232C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1171.5" y="1133.36">Pending</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="1207.36">ASC job number</tspan></text>
+<path d="M59 1218.5H381C382.933 1218.5 384.5 1220.07 384.5 1222V1252C384.5 1253.93 382.933 1255.5 381 1255.5H59C57.067 1255.5 55.5 1253.93 55.5 1252V1222L55.5049 1221.82C55.5984 1219.97 57.1273 1218.5 59 1218.5Z" fill="white"/>
+<path d="M59 1218.5H381C382.933 1218.5 384.5 1220.07 384.5 1222V1252C384.5 1253.93 382.933 1255.5 381 1255.5H59C57.067 1255.5 55.5 1253.93 55.5 1252V1222L55.5049 1221.82C55.5984 1219.97 57.1273 1218.5 59 1218.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="1241.73">&#x2014;</tspan></text>
+<rect x="409.5" y="1181.5" width="817" height="87" rx="3.5" stroke="#CDDAE7" stroke-dasharray="4 4"/>
+<path d="M426 1218.5H656C657.933 1218.5 659.5 1220.07 659.5 1222V1252C659.5 1253.93 657.933 1255.5 656 1255.5H426C424.067 1255.5 422.5 1253.93 422.5 1252V1222L422.505 1221.82C422.598 1219.97 424.127 1218.5 426 1218.5Z" fill="white"/>
+<path d="M426 1218.5H656C657.933 1218.5 659.5 1220.07 659.5 1222V1252C659.5 1253.93 657.933 1255.5 656 1255.5H426C424.067 1255.5 422.5 1253.93 422.5 1252V1222L422.505 1221.82C422.598 1219.97 424.127 1218.5 426 1218.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="459.5" y="1241.36">Fill GSPN service order form</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="676" y="1207.36">GSPN service order (SO)</tspan></text>
+<path d="M680 1218.5H1212C1213.93 1218.5 1215.5 1220.07 1215.5 1222V1252C1215.5 1253.93 1213.93 1255.5 1212 1255.5H680C678.067 1255.5 676.5 1253.93 676.5 1252V1222L676.505 1221.82C676.598 1219.97 678.127 1218.5 680 1218.5Z" fill="white"/>
+<path d="M680 1218.5H1212C1213.93 1218.5 1215.5 1220.07 1215.5 1222V1252C1215.5 1253.93 1213.93 1255.5 1212 1255.5H680C678.067 1255.5 676.5 1253.93 676.5 1252V1222L676.505 1221.82C676.598 1219.97 678.127 1218.5 680 1218.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="687" y="1241.73">&#x2014;</tspan></text>
+<path d="M59 1287.5H269C270.933 1287.5 272.5 1289.07 272.5 1291V1321C272.5 1322.93 270.933 1324.5 269 1324.5H59C57.067 1324.5 55.5 1322.93 55.5 1321V1291L55.5049 1290.82C55.5954 1289.03 57.0303 1287.6 58.8203 1287.5L59 1287.5Z" fill="#EDF2F6"/>
+<path d="M59 1287.5H269C270.933 1287.5 272.5 1289.07 272.5 1291V1321C272.5 1322.93 270.933 1324.5 269 1324.5H59C57.067 1324.5 55.5 1322.93 55.5 1321V1291L55.5049 1290.82C55.5954 1289.03 57.0303 1287.6 58.8203 1287.5L59 1287.5Z" stroke="#E3EAF0"/>
+<path d="M102.5 1309V1313C102.5 1313.53 102.289 1314.04 101.914 1314.41C101.539 1314.79 101.03 1315 100.5 1315H86.5C85.9696 1315 85.4609 1314.79 85.0858 1314.41C84.7107 1314.04 84.5 1313.53 84.5 1313V1309" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M88.5 1304L93.5 1309L98.5 1304" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M93.5 1309V1297" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#697A8F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="109.5" y="1310.36">Fetch parts from GSPN</tspan></text>
+<path d="M289 1287.5H393C394.933 1287.5 396.5 1289.07 396.5 1291V1321C396.5 1322.93 394.933 1324.5 393 1324.5H289C287.067 1324.5 285.5 1322.93 285.5 1321V1291L285.505 1290.82C285.598 1288.97 287.127 1287.5 289 1287.5Z" fill="white"/>
+<path d="M289 1287.5H393C394.933 1287.5 396.5 1289.07 396.5 1291V1321C396.5 1322.93 394.933 1324.5 393 1324.5H289C287.067 1324.5 285.5 1322.93 285.5 1321V1291L285.505 1290.82C285.598 1288.97 287.127 1287.5 289 1287.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="310" y="1310.36">+ Add part</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="409" y="1299">Save a GSPN SO to enable parts fetching.</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="55" y="1359.45">Parts linked to this repair</tspan></text>
+<rect width="1172" height="48" transform="translate(55 1383)" fill="#EFF4F8"/>
+<rect x="65.5" y="1399.5" width="15" height="15" rx="2.5" fill="white" stroke="#CDDAE7"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="93" y="1411">Part no</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="201" y="1411">Description</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="295" y="1411">Price (&#xa3;)</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="361" y="1411">Delivery no</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="459" y="1411">PO</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="531" y="1411">Arrived part no</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="639" y="1411">Parts S/N</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="929" y="1403">IW/OOW/</tspan><tspan x="929" y="1419">DOA</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="1003" y="1411">Return status</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="1137" y="1411">Docs</tspan></text>
+<path d="M1200 1401H1202H1218" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1216 1401V1415C1216 1415.53 1215.79 1416.04 1215.41 1416.41C1215.04 1416.79 1214.53 1417 1214 1417H1204C1203.47 1417 1202.96 1416.79 1202.59 1416.41C1202.21 1416.04 1202 1415.53 1202 1415V1401M1205 1401V1399C1205 1398.47 1205.21 1397.96 1205.59 1397.59C1205.96 1397.21 1206.47 1397 1207 1397H1211C1211.53 1397 1212.04 1397.21 1212.41 1397.59C1212.79 1397.96 1213 1398.47 1213 1399V1401" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1207 1406V1412" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1211 1406V1412" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="55.5" y="1431.5" width="1171" height="45" stroke="#E3EAF0"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="581" y="1458.73">No parts linked yet.</tspan></text>
+<path d="M59 1495.5H161C162.933 1495.5 164.5 1497.07 164.5 1499V1529C164.5 1530.93 162.933 1532.5 161 1532.5H59C57.067 1532.5 55.5 1530.93 55.5 1529V1499L55.5049 1498.82C55.5984 1496.97 57.1273 1495.5 59 1495.5Z" fill="#EDF2F6"/>
+<path d="M59 1495.5H161C162.933 1495.5 164.5 1497.07 164.5 1499V1529C164.5 1530.93 162.933 1532.5 161 1532.5H59C57.067 1532.5 55.5 1530.93 55.5 1529V1499L55.5049 1498.82C55.5984 1496.97 57.1273 1495.5 59 1495.5Z" stroke="#E3EAF0"/>
+<text fill="#697A8F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="80" y="1518.36">Create PO</tspan></text>
+<path d="M181 1495.5H313C314.933 1495.5 316.5 1497.07 316.5 1499V1529C316.5 1530.93 314.933 1532.5 313 1532.5H181C179.067 1532.5 177.5 1530.93 177.5 1529V1499L177.505 1498.82C177.598 1496.97 179.127 1495.5 181 1495.5Z" fill="#EDF2F6"/>
+<path d="M181 1495.5H313C314.933 1495.5 316.5 1497.07 316.5 1499V1529C316.5 1530.93 314.933 1532.5 313 1532.5H181C179.067 1532.5 177.5 1530.93 177.5 1529V1499L177.505 1498.82C177.598 1496.97 179.127 1495.5 181 1495.5Z" stroke="#E3EAF0"/>
+<text fill="#697A8F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="202" y="1518.36">Add to draft PO</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="329" y="1507">No draft POs available</tspan></text>
+<path d="M37 1568.5H1243C1245.49 1568.5 1247.5 1570.51 1247.5 1573V1959C1247.5 1961.49 1245.49 1963.5 1243 1963.5H37C34.5147 1963.5 32.5 1961.49 32.5 1959V1573L32.5059 1572.77C32.6263 1570.39 34.5923 1568.5 37 1568.5Z" fill="white"/>
+<path d="M37 1568.5H1243C1245.49 1568.5 1247.5 1570.51 1247.5 1573V1959C1247.5 1961.49 1245.49 1963.5 1243 1963.5H37C34.5147 1963.5 32.5 1961.49 32.5 1959V1573L32.5059 1572.77C32.6263 1570.39 34.5923 1568.5 37 1568.5Z" stroke="#E3EAF0"/>
+<path d="M38 1569.5H1244C1246.49 1569.5 1248.5 1571.51 1248.5 1574V1624C1248.5 1626.49 1246.49 1628.5 1244 1628.5H38C35.5147 1628.5 33.5 1626.49 33.5 1624V1574C33.5 1571.51 35.5147 1569.5 38 1569.5Z" fill="white"/>
+<path d="M38 1569.5H1244C1246.49 1569.5 1248.5 1571.51 1248.5 1574V1624C1248.5 1626.49 1246.49 1628.5 1244 1628.5H38C35.5147 1628.5 33.5 1626.49 33.5 1624V1574C33.5 1571.51 35.5147 1569.5 38 1569.5Z" stroke="#E3EAF0"/>
+<path d="M52 1596L58 1602L64 1596" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="80" y="1584" width="30" height="30" rx="15" fill="#657D98"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="90" y="1604.45">4</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="124" y="1605.18">Repair outcome</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="269" y="1603.73">Not completed</tspan></text>
+<path d="M1159 1589C1159 1586.79 1160.79 1585 1163 1585H1228C1230.21 1585 1232 1586.79 1232 1589V1609C1232 1611.21 1230.21 1613 1228 1613H1163C1160.79 1613 1159 1611.21 1159 1609V1589Z" fill="#FCE7E7"/>
+<text fill="#B4232C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1171.5" y="1603.36">Pending</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="1664.36">Repair outcome *</tspan></text>
+<path d="M59 1675.5H425.667C427.6 1675.5 429.167 1677.07 429.167 1679V1709C429.167 1710.93 427.6 1712.5 425.667 1712.5H59C57.067 1712.5 55.5 1710.93 55.5 1709V1679L55.5049 1678.82C55.5984 1676.97 57.1273 1675.5 59 1675.5Z" fill="white"/>
+<path d="M59 1675.5H425.667C427.6 1675.5 429.167 1677.07 429.167 1679V1709C429.167 1710.93 427.6 1712.5 425.667 1712.5H59C57.067 1712.5 55.5 1710.93 55.5 1709V1679L55.5049 1678.82C55.5984 1676.97 57.1273 1675.5 59 1675.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="1698.73">Choose outcome</tspan></text>
+<path d="M404.667 1691L410.667 1697L416.667 1691" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip1_7_332)">
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="453.667" y="1664.36">Completion date *</tspan></text>
+<path d="M457.667 1675.5H824.334C826.266 1675.5 827.834 1677.07 827.834 1679V1709C827.834 1710.93 826.266 1712.5 824.334 1712.5H457.667C455.734 1712.5 454.167 1710.93 454.167 1709V1679L454.172 1678.82C454.265 1676.97 455.794 1675.5 457.667 1675.5Z" fill="white"/>
+<path d="M457.667 1675.5H824.334C826.266 1675.5 827.834 1677.07 827.834 1679V1709C827.834 1710.93 826.266 1712.5 824.334 1712.5H457.667C455.734 1712.5 454.167 1710.93 454.167 1709V1679L454.172 1678.82C454.265 1676.97 455.794 1675.5 457.667 1675.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="464.667" y="1698.73">04/11/2026</tspan></text>
+<path d="M816.333 1687H802.333C801.229 1687 800.333 1687.9 800.333 1689V1701C800.333 1702.1 801.229 1703 802.333 1703H816.333C817.438 1703 818.333 1702.1 818.333 1701V1689C818.333 1687.9 817.438 1687 816.333 1687Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M813.333 1685V1689M805.333 1685V1689M800.333 1693H818.333" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip2_7_332)">
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="453.667" y="1730">yesterday</tspan></text>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="518.667" y="1730">today</tspan></text>
+</g>
+</g>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="852.333" y="1664.36">Engineer</tspan></text>
+<path d="M856.333 1675.5H1223C1224.93 1675.5 1226.5 1677.07 1226.5 1679V1709C1226.5 1710.93 1224.93 1712.5 1223 1712.5H856.333C854.4 1712.5 852.833 1710.93 852.833 1709V1679L852.838 1678.82C852.932 1676.97 854.461 1675.5 856.333 1675.5Z" fill="white"/>
+<path d="M856.333 1675.5H1223C1224.93 1675.5 1226.5 1677.07 1226.5 1679V1709C1226.5 1710.93 1224.93 1712.5 1223 1712.5H856.333C854.4 1712.5 852.833 1710.93 852.833 1709V1679L852.838 1678.82C852.932 1676.97 854.461 1675.5 856.333 1675.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="863.333" y="1698.73">Alex Naumov</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="1772.36">Comments</tspan></text>
+<path d="M59 1783.5H825C826.933 1783.5 828.5 1785.07 828.5 1787V1843C828.5 1844.93 826.933 1846.5 825 1846.5H59C57.067 1846.5 55.5 1844.93 55.5 1843V1787C55.5 1785.07 57.067 1783.5 59 1783.5Z" fill="white"/>
+<path d="M59 1783.5H825C826.933 1783.5 828.5 1785.07 828.5 1787V1843C828.5 1844.93 826.933 1846.5 825 1846.5H59C57.067 1846.5 55.5 1844.93 55.5 1843V1787C55.5 1785.07 57.067 1783.5 59 1783.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="1808.73">&#x2014;</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="55" y="1879.73">Confirmation locks this repair. It remains in Active jobs for 7 days, then moves to the archive.</tspan></text>
+<path d="M59 1903.5H147C148.933 1903.5 150.5 1905.07 150.5 1907V1937C150.5 1938.93 148.933 1940.5 147 1940.5H59C57.067 1940.5 55.5 1938.93 55.5 1937V1907L55.5049 1906.82C55.5984 1904.97 57.1273 1903.5 59 1903.5Z" fill="#2D805F"/>
+<path d="M59 1903.5H147C148.933 1903.5 150.5 1905.07 150.5 1907V1937C150.5 1938.93 148.933 1940.5 147 1940.5H59C57.067 1940.5 55.5 1938.93 55.5 1937V1907L55.5049 1906.82C55.5984 1904.97 57.1273 1903.5 59 1903.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="79.5" y="1926.36">Confirm</tspan></text>
+<path d="M37 1976.5H1243C1245.49 1976.5 1247.5 1978.51 1247.5 1981V2029C1247.5 2031.49 1245.49 2033.5 1243 2033.5H37C34.5147 2033.5 32.5 2031.49 32.5 2029V1981C32.5 1978.51 34.5147 1976.5 37 1976.5Z" fill="white"/>
+<path d="M37 1976.5H1243C1245.49 1976.5 1247.5 1978.51 1247.5 1981V2029C1247.5 2031.49 1245.49 2033.5 1243 2033.5H37C34.5147 2033.5 32.5 2031.49 32.5 2029V1981C32.5 1978.51 34.5147 1976.5 37 1976.5Z" stroke="#E3EAF0"/>
+<path d="M54 1999L60 2005L54 2011" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="77" y="2009.45">Unit repair history &#xb7; shown when previous repairs exist</tspan></text>
+<path d="M37 2046.5H1243C1245.49 2046.5 1247.5 2048.51 1247.5 2051V2099C1247.5 2101.49 1245.49 2103.5 1243 2103.5H37C34.5147 2103.5 32.5 2101.49 32.5 2099V2051C32.5 2048.51 34.5147 2046.5 37 2046.5Z" fill="white"/>
+<path d="M37 2046.5H1243C1245.49 2046.5 1247.5 2048.51 1247.5 2051V2099C1247.5 2101.49 1245.49 2103.5 1243 2103.5H37C34.5147 2103.5 32.5 2101.49 32.5 2099V2051C32.5 2048.51 34.5147 2046.5 37 2046.5Z" stroke="#E3EAF0"/>
+<path d="M54 2069L60 2075L54 2081" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="77" y="2079.45">Audit history</tspan></text>
+<rect x="32" y="2116" width="1216" height="1" fill="#E3EAF0"/>
+<path d="M56 2149.5H170C171.933 2149.5 173.5 2151.07 173.5 2153V2183C173.5 2184.93 171.933 2186.5 170 2186.5H56C54.067 2186.5 52.5 2184.93 52.5 2183V2153L52.5049 2152.82C52.5984 2150.97 54.1273 2149.5 56 2149.5Z" fill="white"/>
+<path d="M56 2149.5H170C171.933 2149.5 173.5 2151.07 173.5 2153V2183C173.5 2184.93 171.933 2186.5 170 2186.5H56C54.067 2186.5 52.5 2184.93 52.5 2183V2153L52.5049 2152.82C52.5984 2150.97 54.1273 2149.5 56 2149.5Z" stroke="#B4232C"/>
+<text fill="#B4232C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="75.5" y="2172.36">Delete repair</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="52" y="2211">Separate from routine actions and repair history. Confirmation is required.</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="32" y="2259">&#xa9; 2026 NAVIG home labs &#xb7; Internal operational tool exclusively for TRISON</tspan></text>
+<defs>
+<clipPath id="clip0_7_332">
+<rect width="95" height="18" fill="white" transform="translate(55 753)"/>
+</clipPath>
+<clipPath id="clip1_7_332">
+<rect width="374.667" height="90" fill="white" transform="translate(453.667 1651)"/>
+</clipPath>
+<clipPath id="clip2_7_332">
+<rect width="95" height="18" fill="white" transform="translate(453.667 1717)"/>
+</clipPath>
+</defs>
+</svg>

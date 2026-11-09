@@ -1,0 +1,251 @@
+<svg width="1280" height="2211" viewBox="0 0 1280 2211" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="2211" fill="#F3F7FA"/>
+<rect width="1280" height="64" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="16" y="39.6364">RepairBay</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="200" y="36.3636">Active jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="314" y="36.3636">Archived jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="443" y="36.3636">Returns</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="527" y="36.3636">Users</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="597" y="36.3636">Spare parts</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1074" y="36.3636">Alex Naumov</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1198" y="36.3636">Sign out</tspan></text>
+<rect x="443" y="60" width="60" height="4" fill="#2D805F"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="32" y="134.636">Returns</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="1038" y="109.364">Warehouse</tspan></text>
+<path d="M1042 120.5H1244C1245.93 120.5 1247.5 122.067 1247.5 124V154C1247.5 155.933 1245.93 157.5 1244 157.5H1042C1040.07 157.5 1038.5 155.933 1038.5 154V124L1038.5 123.82C1038.6 121.971 1040.13 120.5 1042 120.5Z" fill="white"/>
+<path d="M1042 120.5H1244C1245.93 120.5 1247.5 122.067 1247.5 124V154C1247.5 155.933 1245.93 157.5 1244 157.5H1042C1040.07 157.5 1038.5 155.933 1038.5 154V124L1038.5 123.82C1038.6 121.971 1040.13 120.5 1042 120.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1049" y="143.727">Reading</tspan></text>
+<path d="M1223 136L1229 142L1235 136" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="32" y="187.364">Pending parts</tspan></text>
+<rect x="32" y="202" width="130" height="3" fill="#F3F7FA"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="186" y="187.364">Shipments</tspan></text>
+<rect x="186" y="202" width="130" height="3" fill="#2D805F"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="340" y="187.364">Archived shipments</tspan></text>
+<rect x="340" y="202" width="170" height="3" fill="#F3F7FA"/>
+<rect x="32" y="221" width="1216" height="1" fill="#E3EAF0"/>
+<text fill="#2D805F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="32" y="251.364">&#x2190; Back to shipments</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="32" y="298.636">Draft shipment</tspan></text>
+<path d="M202 281C202 278.791 203.791 277 206 277H281C283.209 277 285 278.791 285 281V301C285 303.209 283.209 305 281 305H206C203.791 305 202 303.209 202 301V281Z" fill="#FFF0CF"/>
+<text fill="#855400" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="215" y="295.364">Preparing</tspan></text>
+<text fill="#855400" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="878.5" y="295.364">&#x25cf; Unsaved changes</tspan></text>
+<path d="M1024.5 272.5H1111.5C1113.43 272.5 1115 274.067 1115 276V306C1115 307.933 1113.43 309.5 1111.5 309.5H1024.5C1022.57 309.5 1021 307.933 1021 306V276L1021 275.82C1021.1 273.971 1022.63 272.5 1024.5 272.5Z" fill="white"/>
+<path d="M1024.5 272.5H1111.5C1113.43 272.5 1115 274.067 1115 276V306C1115 307.933 1113.43 309.5 1111.5 309.5H1024.5C1022.57 309.5 1021 307.933 1021 306V276L1021 275.82C1021.1 273.971 1022.63 272.5 1024.5 272.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1045.5" y="295.364">Discard</tspan></text>
+<path d="M1131.5 272.5H1263.5C1265.43 272.5 1267 274.067 1267 276V306C1267 307.933 1265.43 309.5 1263.5 309.5H1131.5C1129.57 309.5 1128 307.933 1128 306V276L1128 275.82C1128.1 273.971 1129.63 272.5 1131.5 272.5Z" fill="#2D805F"/>
+<path d="M1131.5 272.5H1263.5C1265.43 272.5 1267 274.067 1267 276V306C1267 307.933 1265.43 309.5 1263.5 309.5H1131.5C1129.57 309.5 1128 307.933 1128 306V276L1128 275.82C1128.1 273.971 1129.63 272.5 1131.5 272.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1157" y="295.364">Save changes</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="32" y="339.364">2 of 5 sections done</tspan></text>
+<rect width="560" height="4" transform="translate(32 360)" fill="#E3EAF0"/>
+<rect x="32" y="360" width="224" height="4" fill="#2D805F"/>
+<path d="M37 380.5H1243C1245.49 380.5 1247.5 382.515 1247.5 385V576C1247.5 578.485 1245.49 580.5 1243 580.5H37C34.5147 580.5 32.5 578.485 32.5 576V385C32.5 382.515 34.5147 380.5 37 380.5Z" fill="white"/>
+<path d="M37 380.5H1243C1245.49 380.5 1247.5 382.515 1247.5 385V576C1247.5 578.485 1245.49 580.5 1243 580.5H37C34.5147 580.5 32.5 578.485 32.5 576V385C32.5 382.515 34.5147 380.5 37 380.5Z" stroke="#E3EAF0"/>
+<path d="M51 408L57 414L63 408" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="77" y="396" width="30" height="30" rx="15" fill="#657D98"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="88" y="416.455">1</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="119" y="417.182">Shipment setup</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="263" y="415.364">202611 &#xb7; DOA &#xb7; Box</tspan></text>
+<path d="M1169 401C1169 398.791 1170.79 397 1173 397H1229C1231.21 397 1233 398.791 1233 401V421C1233 423.209 1231.21 425 1229 425H1173C1170.79 425 1169 423.209 1169 421V401Z" fill="#DCF5E5"/>
+<text fill="#17613C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1185.5" y="415.364">Done</tspan></text>
+<rect x="33" y="441" width="1216" height="1" fill="#E3EAF0"/>
+<rect width="1216" height="138" transform="translate(33 442)" fill="white"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="477.364">Fiscal period *</tspan></text>
+<path d="M59 488.5H425C426.933 488.5 428.5 490.067 428.5 492V522C428.5 523.933 426.933 525.5 425 525.5H59C57.067 525.5 55.5 523.933 55.5 522V492L55.5049 491.82C55.5984 489.971 57.1273 488.5 59 488.5Z" fill="white"/>
+<path d="M59 488.5H425C426.933 488.5 428.5 490.067 428.5 492V522C428.5 523.933 426.933 525.5 425 525.5H59C57.067 525.5 55.5 523.933 55.5 522V492L55.5049 491.82C55.5984 489.971 57.1273 488.5 59 488.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="511.727">202611</tspan></text>
+<path d="M404 504L410 510L416 504" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="453" y="477.364">Return type *</tspan></text>
+<path d="M457 488.5H823C824.933 488.5 826.5 490.067 826.5 492V522C826.5 523.933 824.933 525.5 823 525.5H457C455.067 525.5 453.5 523.933 453.5 522V492L453.505 491.82C453.598 489.971 455.127 488.5 457 488.5Z" fill="white"/>
+<path d="M457 488.5H823C824.933 488.5 826.5 490.067 826.5 492V522C826.5 523.933 824.933 525.5 823 525.5H457C455.067 525.5 453.5 523.933 453.5 522V492L453.505 491.82C453.598 489.971 455.127 488.5 457 488.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="464" y="511.727">DOA</tspan></text>
+<path d="M802 504L808 510L814 504" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="851" y="477.364">Package *</tspan></text>
+<path d="M855 488.5H1223C1224.93 488.5 1226.5 490.067 1226.5 492V522C1226.5 523.933 1224.93 525.5 1223 525.5H855C853.067 525.5 851.5 523.933 851.5 522V492L851.505 491.82C851.598 489.971 853.127 488.5 855 488.5Z" fill="white"/>
+<path d="M855 488.5H1223C1224.93 488.5 1226.5 490.067 1226.5 492V522C1226.5 523.933 1224.93 525.5 1223 525.5H855C853.067 525.5 851.5 523.933 851.5 522V492L851.505 491.82C851.598 489.971 853.127 488.5 855 488.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="862" y="511.727">Box</tspan></text>
+<path d="M1202 504L1208 510L1214 504" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="55" y="554">Available periods: 202605&#x2013;202611 &#xb7; current month selected for a new shipment.</tspan></text>
+<path d="M37 597.5H1243C1245.49 597.5 1247.5 599.515 1247.5 602V946C1247.5 948.485 1245.49 950.5 1243 950.5H37C34.5147 950.5 32.5 948.485 32.5 946V602C32.5 599.515 34.5147 597.5 37 597.5Z" fill="white"/>
+<path d="M37 597.5H1243C1245.49 597.5 1247.5 599.515 1247.5 602V946C1247.5 948.485 1245.49 950.5 1243 950.5H37C34.5147 950.5 32.5 948.485 32.5 946V602C32.5 599.515 34.5147 597.5 37 597.5Z" stroke="#E3EAF0"/>
+<path d="M51 625L57 631L63 625" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="77" y="613" width="30" height="30" rx="15" fill="#657D98"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="87" y="633.455">2</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="119" y="634.182">Packaging details</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="279" y="632.364">Box &#xb7; pallet details disabled</tspan></text>
+<path d="M1169 618C1169 615.791 1170.79 614 1173 614H1229C1231.21 614 1233 615.791 1233 618V638C1233 640.209 1231.21 642 1229 642H1173C1170.79 642 1169 640.209 1169 638V618Z" fill="#DCF5E5"/>
+<text fill="#17613C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1185.5" y="632.364">Done</tspan></text>
+<rect x="33" y="658" width="1216" height="1" fill="#E3EAF0"/>
+<rect width="1216" height="291" transform="translate(33 659)" fill="white"/>
+<path d="M59 681.5H151C152.933 681.5 154.5 683.067 154.5 685V715C154.5 716.933 152.933 718.5 151 718.5H59C57.067 718.5 55.5 716.933 55.5 715V685L55.5049 684.82C55.5984 682.971 57.1273 681.5 59 681.5Z" fill="white"/>
+<path d="M59 681.5H151C152.933 681.5 154.5 683.067 154.5 685V715C154.5 716.933 152.933 718.5 151 718.5H59C57.067 718.5 55.5 716.933 55.5 715V685L55.5049 684.82C55.5984 682.971 57.1273 681.5 59 681.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="88.5" y="704.364">Pallet</tspan></text>
+<path d="M159 681.5H251C252.933 681.5 254.5 683.067 254.5 685V715C254.5 716.933 252.933 718.5 251 718.5H159C157.067 718.5 155.5 716.933 155.5 715V685L155.505 684.82C155.598 682.971 157.127 681.5 159 681.5Z" fill="#2D805F"/>
+<path d="M159 681.5H251C252.933 681.5 254.5 683.067 254.5 685V715C254.5 716.933 252.933 718.5 251 718.5H159C157.067 718.5 155.5 716.933 155.5 715V685L155.505 684.82C155.598 682.971 157.127 681.5 159 681.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="194" y="704.364">Box</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="55" y="749.727">Pallet dimensions are not required for individually boxed parts.</tspan></text>
+<rect x="55.5" y="771.5" width="1171" height="102" stroke="#E3EAF0"/>
+<rect width="1172" height="48" transform="translate(56 772)" fill="#EFF4F8"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="64" y="800.364">Pallet</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="184" y="800.364">Tare (kg)</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="412" y="800.364">Length (cm)</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="656" y="800.364">Width (cm)</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="900" y="800.364">Height (cm)</tspan></text>
+<rect width="1172" height="52" transform="translate(56 820)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="64" y="850.727">&#x2014;</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="184" y="850.727">&#x2014;</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="412" y="850.727">&#x2014;</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="656" y="850.727">&#x2014;</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="900" y="850.727">&#x2014;</tspan></text>
+<g opacity="0.3">
+<path d="M1144 840H1146H1162" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1160 840V854C1160 854.53 1159.79 855.039 1159.41 855.414C1159.04 855.789 1158.53 856 1158 856H1148C1147.47 856 1146.96 855.789 1146.59 855.414C1146.21 855.039 1146 854.53 1146 854V840M1149 840V838C1149 837.47 1149.21 836.961 1149.59 836.586C1149.96 836.211 1150.47 836 1151 836H1155C1155.53 836 1156.04 836.211 1156.41 836.586C1156.79 836.961 1157 837.47 1157 838V840" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1151 845V851" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1155 845V851" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<rect x="56" y="872" width="1172" height="1" fill="#E3EAF0"/>
+<path d="M59 890.5H247C248.933 890.5 250.5 892.067 250.5 894V924C250.5 925.933 248.933 927.5 247 927.5H59C57.067 927.5 55.5 925.933 55.5 924V894L55.5049 893.82C55.5984 891.971 57.1273 890.5 59 890.5Z" fill="white"/>
+<path d="M59 890.5H247C248.933 890.5 250.5 892.067 250.5 894V924C250.5 925.933 248.933 927.5 247 927.5H59C57.067 927.5 55.5 925.933 55.5 924V894L55.5049 893.82C55.5984 891.971 57.1273 890.5 59 890.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="86.5" y="913.364">Print handling symbols</tspan></text>
+<path d="M37 967.5H1243C1245.49 967.5 1247.5 969.515 1247.5 972V1204C1247.5 1206.49 1245.49 1208.5 1243 1208.5H37C34.5147 1208.5 32.5 1206.49 32.5 1204V972C32.5 969.515 34.5147 967.5 37 967.5Z" fill="white"/>
+<path d="M37 967.5H1243C1245.49 967.5 1247.5 969.515 1247.5 972V1204C1247.5 1206.49 1245.49 1208.5 1243 1208.5H37C34.5147 1208.5 32.5 1206.49 32.5 1204V972C32.5 969.515 34.5147 967.5 37 967.5Z" stroke="#E3EAF0"/>
+<path d="M51 995L57 1001L63 995" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="77" y="983" width="30" height="30" rx="15" fill="#657D98"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="87" y="1003.45">3</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="119" y="1004.18">Packing list</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="227" y="1002.36">1 part &#xb7; 12 kg</tspan></text>
+<path d="M1051 979.5H1153C1154.93 979.5 1156.5 981.067 1156.5 983V1013C1156.5 1014.93 1154.93 1016.5 1153 1016.5H1051C1049.07 1016.5 1047.5 1014.93 1047.5 1013V983L1047.5 982.82C1047.6 980.971 1049.13 979.5 1051 979.5Z" fill="white"/>
+<path d="M1051 979.5H1153C1154.93 979.5 1156.5 981.067 1156.5 983V1013C1156.5 1014.93 1154.93 1016.5 1153 1016.5H1051C1049.07 1016.5 1047.5 1014.93 1047.5 1013V983L1047.5 982.82C1047.6 980.971 1049.13 979.5 1051 979.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1071" y="1002.36">+ Add part</tspan></text>
+<path d="M1169 988C1169 985.791 1170.79 984 1173 984H1229C1231.21 984 1233 985.791 1233 988V1008C1233 1010.21 1231.21 1012 1229 1012H1173C1170.79 1012 1169 1010.21 1169 1008V988Z" fill="#DCF5E5"/>
+<text fill="#17613C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1185.5" y="1002.36">Done</tspan></text>
+<rect x="33" y="1028" width="1216" height="1" fill="#E3EAF0"/>
+<rect width="1216" height="179" transform="translate(33 1029)" fill="white"/>
+<rect x="55.5" y="1051.5" width="1171" height="102" stroke="#E3EAF0"/>
+<rect width="1172" height="48" transform="translate(56 1052)" fill="#EFF4F8"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="64" y="1080.36">Part number</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="236" y="1080.36">ASC job</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="426" y="1080.36">GSPN PO</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="616" y="1080.36">Weight (kg)</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="740" y="1080.36">L (cm)</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="848" y="1080.36">W (cm)</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="956" y="1080.36">H (cm)</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="1064" y="1080.36">Pallet</tspan></text>
+<rect width="1172" height="52" transform="translate(56 1100)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="64" y="1130.73">BN95-05436B</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="236" y="1130.73">R-22868-IW</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="426" y="1130.73">RPO25975-IW</tspan></text>
+<path d="M620 1108.5H720C721.933 1108.5 723.5 1110.07 723.5 1112V1140C723.5 1141.93 721.933 1143.5 720 1143.5H620C618.067 1143.5 616.5 1141.93 616.5 1140V1112C616.5 1110.07 618.067 1108.5 620 1108.5Z" fill="white"/>
+<path d="M620 1108.5H720C721.933 1108.5 723.5 1110.07 723.5 1112V1140C723.5 1141.93 721.933 1143.5 720 1143.5H620C618.067 1143.5 616.5 1141.93 616.5 1140V1112C616.5 1110.07 618.067 1108.5 620 1108.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="625" y="1130.73">12.00</tspan></text>
+<path d="M744 1108.5H828C829.933 1108.5 831.5 1110.07 831.5 1112V1140C831.5 1141.93 829.933 1143.5 828 1143.5H744C742.067 1143.5 740.5 1141.93 740.5 1140V1112C740.5 1110.07 742.067 1108.5 744 1108.5Z" fill="white"/>
+<path d="M744 1108.5H828C829.933 1108.5 831.5 1110.07 831.5 1112V1140C831.5 1141.93 829.933 1143.5 828 1143.5H744C742.067 1143.5 740.5 1141.93 740.5 1140V1112C740.5 1110.07 742.067 1108.5 744 1108.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="749" y="1130.73">100</tspan></text>
+<path d="M852 1108.5H936C937.933 1108.5 939.5 1110.07 939.5 1112V1140C939.5 1141.93 937.933 1143.5 936 1143.5H852C850.067 1143.5 848.5 1141.93 848.5 1140V1112C848.5 1110.07 850.067 1108.5 852 1108.5Z" fill="white"/>
+<path d="M852 1108.5H936C937.933 1108.5 939.5 1110.07 939.5 1112V1140C939.5 1141.93 937.933 1143.5 936 1143.5H852C850.067 1143.5 848.5 1141.93 848.5 1140V1112C848.5 1110.07 850.067 1108.5 852 1108.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="857" y="1130.73">15</tspan></text>
+<path d="M960 1108.5H1044C1045.93 1108.5 1047.5 1110.07 1047.5 1112V1140C1047.5 1141.93 1045.93 1143.5 1044 1143.5H960C958.067 1143.5 956.5 1141.93 956.5 1140V1112C956.5 1110.07 958.067 1108.5 960 1108.5Z" fill="white"/>
+<path d="M960 1108.5H1044C1045.93 1108.5 1047.5 1110.07 1047.5 1112V1140C1047.5 1141.93 1045.93 1143.5 1044 1143.5H960C958.067 1143.5 956.5 1141.93 956.5 1140V1112C956.5 1110.07 958.067 1108.5 960 1108.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="965" y="1130.73">80</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1064" y="1130.73">&#x2014;</tspan></text>
+<path d="M1174 1120H1176H1192" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1190 1120V1134C1190 1134.53 1189.79 1135.04 1189.41 1135.41C1189.04 1135.79 1188.53 1136 1188 1136H1178C1177.47 1136 1176.96 1135.79 1176.59 1135.41C1176.21 1135.04 1176 1134.53 1176 1134V1120M1179 1120V1118C1179 1117.47 1179.21 1116.96 1179.59 1116.59C1179.96 1116.21 1180.47 1116 1181 1116H1185C1185.53 1116 1186.04 1116.21 1186.41 1116.59C1186.79 1116.96 1187 1117.47 1187 1118V1120" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1181 1125V1131" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1185 1125V1131" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="56" y="1152" width="1172" height="1" fill="#E3EAF0"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="55" y="1182">Weights and dimensions are editable inline. Pallet assignment uses a dropdown.</tspan></text>
+<path d="M37 1225.5H1243C1245.49 1225.5 1247.5 1227.51 1247.5 1230V1826C1247.5 1828.49 1245.49 1830.5 1243 1830.5H37C34.5147 1830.5 32.5 1828.49 32.5 1826V1230C32.5 1227.51 34.5147 1225.5 37 1225.5Z" fill="white"/>
+<path d="M37 1225.5H1243C1245.49 1225.5 1247.5 1227.51 1247.5 1230V1826C1247.5 1828.49 1245.49 1830.5 1243 1830.5H37C34.5147 1830.5 32.5 1828.49 32.5 1826V1230C32.5 1227.51 34.5147 1225.5 37 1225.5Z" stroke="#E3EAF0"/>
+<path d="M51 1253L57 1259L63 1253" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="77" y="1241" width="30" height="30" rx="15" fill="#657D98"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="87" y="1261.45">4</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="119" y="1262.18">Shipment details</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="272" y="1260.36">GSPN shipment number required</tspan></text>
+<path d="M1164 1246C1164 1243.79 1165.79 1242 1168 1242H1229C1231.21 1242 1233 1243.79 1233 1246V1266C1233 1268.21 1231.21 1270 1229 1270H1168C1165.79 1270 1164 1268.21 1164 1266V1246Z" fill="#FCE7E7"/>
+<text fill="#B4232C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1174.5" y="1260.36">Pending</tspan></text>
+<rect x="33" y="1286" width="1216" height="1" fill="#E3EAF0"/>
+<rect width="1216" height="543" transform="translate(33 1287)" fill="white"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="1322.36">GSPN return shipment number</tspan></text>
+<path d="M59 1333.5H431C432.933 1333.5 434.5 1335.07 434.5 1337V1367C434.5 1368.93 432.933 1370.5 431 1370.5H59C57.067 1370.5 55.5 1368.93 55.5 1367V1337L55.5049 1336.82C55.5984 1334.97 57.1273 1333.5 59 1333.5Z" fill="white"/>
+<path d="M59 1333.5H431C432.933 1333.5 434.5 1335.07 434.5 1337V1367C434.5 1368.93 432.933 1370.5 431 1370.5H59C57.067 1370.5 55.5 1368.93 55.5 1367V1337L55.5049 1336.82C55.5984 1334.97 57.1273 1333.5 59 1333.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="1356.73">&#x2014;</tspan></text>
+<path d="M60 1387.5H1222C1224.49 1387.5 1226.5 1389.51 1226.5 1392V1577C1226.5 1579.49 1224.49 1581.5 1222 1581.5H60C57.5147 1581.5 55.5 1579.49 55.5 1577V1392C55.5 1389.51 57.5147 1387.5 60 1387.5Z" fill="white"/>
+<path d="M60 1387.5H1222C1224.49 1387.5 1226.5 1389.51 1226.5 1392V1577C1226.5 1579.49 1224.49 1581.5 1222 1581.5H60C57.5147 1581.5 55.5 1579.49 55.5 1577V1392C55.5 1389.51 57.5147 1387.5 60 1387.5Z" stroke="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="72" y="1420.45">Cargo configuration &#xb7; printed on commercial invoice</tspan></text>
+<rect x="72.5" y="1436.5" width="1139" height="102" stroke="#E3EAF0"/>
+<rect width="1140" height="48" transform="translate(73 1437)" fill="#EFF4F8"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="81" y="1465.36">Package</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="281" y="1465.36">Length (cm)</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="469" y="1465.36">Width (cm)</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="657" y="1465.36">Height (cm)</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="845" y="1465.36">Gross (kg)</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="1033" y="1465.36">Net (kg)</tspan></text>
+<rect width="1140" height="52" transform="translate(73 1485)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="81" y="1515.73">B1</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="281" y="1515.73">100</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="469" y="1515.73">15</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="657" y="1515.73">80</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="845" y="1515.73">12.00</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="1033" y="1515.73">12.00</tspan></text>
+<rect x="73" y="1537" width="1140" height="1" fill="#E3EAF0"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="72" y="1561">Calculated from pallet and assigned boxes. This is the configuration used in the PDF.</tspan></text>
+<path d="M59 1598.5H283C284.933 1598.5 286.5 1600.07 286.5 1602V1632C286.5 1633.93 284.933 1635.5 283 1635.5H59C57.067 1635.5 55.5 1633.93 55.5 1632V1602L55.5049 1601.82C55.5984 1599.97 57.1273 1598.5 59 1598.5Z" fill="#EDF2F6"/>
+<path d="M59 1598.5H283C284.933 1598.5 286.5 1600.07 286.5 1602V1632C286.5 1633.93 284.933 1635.5 283 1635.5H59C57.067 1635.5 55.5 1633.93 55.5 1632V1602L55.5049 1601.82C55.5984 1599.97 57.1273 1598.5 59 1598.5Z" stroke="#E3EAF0"/>
+<text fill="#697A8F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="86.5" y="1621.36">Generate commercial invoice</tspan></text>
+<path d="M303 1598.5H475C476.933 1598.5 478.5 1600.07 478.5 1602V1632C478.5 1633.93 476.933 1635.5 475 1635.5H303C301.067 1635.5 299.5 1633.93 299.5 1632V1602L299.505 1601.82C299.598 1599.97 301.127 1598.5 303 1598.5Z" fill="#EDF2F6"/>
+<path d="M303 1598.5H475C476.933 1598.5 478.5 1600.07 478.5 1602V1632C478.5 1633.93 476.933 1635.5 475 1635.5H303C301.067 1635.5 299.5 1633.93 299.5 1632V1602L299.505 1601.82C299.598 1599.97 301.127 1598.5 303 1598.5Z" stroke="#E3EAF0"/>
+<text fill="#697A8F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="337" y="1621.36">Print return labels</tspan></text>
+<path d="M495 1598.5H683C684.933 1598.5 686.5 1600.07 686.5 1602V1632C686.5 1633.93 684.933 1635.5 683 1635.5H495C493.067 1635.5 491.5 1633.93 491.5 1632V1602L491.505 1601.82C491.598 1599.97 493.127 1598.5 495 1598.5Z" fill="white"/>
+<path d="M495 1598.5H683C684.933 1598.5 686.5 1600.07 686.5 1602V1632C686.5 1633.93 684.933 1635.5 683 1635.5H495C493.067 1635.5 491.5 1633.93 491.5 1632V1602L491.505 1601.82C491.598 1599.97 493.127 1598.5 495 1598.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="522.5" y="1621.36">Print handling symbols</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="55" y="1664">Enter the GSPN shipment number and complete package data to enable return labels.</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="55" y="1697.36">&#x203a; Commercial invoice record</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="1731.36">Commercial invoice sent date</tspan></text>
+<path d="M59 1742.5H381C382.933 1742.5 384.5 1744.07 384.5 1746V1776C384.5 1777.93 382.933 1779.5 381 1779.5H59C57.067 1779.5 55.5 1777.93 55.5 1776V1746L55.5049 1745.82C55.5984 1743.97 57.1273 1742.5 59 1742.5Z" fill="white"/>
+<path d="M59 1742.5H381C382.933 1742.5 384.5 1744.07 384.5 1746V1776C384.5 1777.93 382.933 1779.5 381 1779.5H59C57.067 1779.5 55.5 1777.93 55.5 1776V1746L55.5049 1745.82C55.5984 1743.97 57.1273 1742.5 59 1742.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="1765.73">dd/mm/yyyy</tspan></text>
+<path d="M373 1754H359C357.895 1754 357 1754.9 357 1756V1768C357 1769.1 357.895 1770 359 1770H373C374.105 1770 375 1769.1 375 1768V1756C375 1754.9 374.105 1754 373 1754Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M370 1752V1756M362 1752V1756M357 1760H375" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip0_36_816)">
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="55" y="1797">yesterday</tspan></text>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="120" y="1797">today</tspan></text>
+</g>
+<path d="M37 1847.5H1243C1245.49 1847.5 1247.5 1849.51 1247.5 1852V2071C1247.5 2073.49 1245.49 2075.5 1243 2075.5H37C34.5147 2075.5 32.5 2073.49 32.5 2071V1852C32.5 1849.51 34.5147 1847.5 37 1847.5Z" fill="white"/>
+<path d="M37 1847.5H1243C1245.49 1847.5 1247.5 1849.51 1247.5 1852V2071C1247.5 2073.49 1245.49 2075.5 1243 2075.5H37C34.5147 2075.5 32.5 2073.49 32.5 2071V1852C32.5 1849.51 34.5147 1847.5 37 1847.5Z" stroke="#E3EAF0"/>
+<path d="M51 1875L57 1881L63 1875" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="77" y="1863" width="30" height="30" rx="15" fill="#657D98"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="87" y="1883.45">5</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="119" y="1884.18">Collection</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="216" y="1882.36">Courier reference and date required</tspan></text>
+<path d="M1164 1868C1164 1865.79 1165.79 1864 1168 1864H1229C1231.21 1864 1233 1865.79 1233 1868V1888C1233 1890.21 1231.21 1892 1229 1892H1168C1165.79 1892 1164 1890.21 1164 1888V1868Z" fill="#FCE7E7"/>
+<text fill="#B4232C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1174.5" y="1882.36">Pending</tspan></text>
+<rect x="33" y="1908" width="1216" height="1" fill="#E3EAF0"/>
+<rect width="1216" height="166" transform="translate(33 1909)" fill="white"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="55" y="1958.36">Courier reference</tspan></text>
+<path d="M59 1969.5H625C626.933 1969.5 628.5 1971.07 628.5 1973V2003C628.5 2004.93 626.933 2006.5 625 2006.5H59C57.067 2006.5 55.5 2004.93 55.5 2003V1973L55.5049 1972.82C55.5984 1970.97 57.1273 1969.5 59 1969.5Z" fill="white"/>
+<path d="M59 1969.5H625C626.933 1969.5 628.5 1971.07 628.5 1973V2003C628.5 2004.93 626.933 2006.5 625 2006.5H59C57.067 2006.5 55.5 2004.93 55.5 2003V1973L55.5049 1972.82C55.5984 1970.97 57.1273 1969.5 59 1969.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="66" y="1992.73">Enter courier reference</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="653" y="1944.36">Collection date</tspan></text>
+<path d="M657 1955.5H1223C1224.93 1955.5 1226.5 1957.07 1226.5 1959V1989C1226.5 1990.93 1224.93 1992.5 1223 1992.5H657C655.067 1992.5 653.5 1990.93 653.5 1989V1959L653.505 1958.82C653.598 1956.97 655.127 1955.5 657 1955.5Z" fill="white"/>
+<path d="M657 1955.5H1223C1224.93 1955.5 1226.5 1957.07 1226.5 1959V1989C1226.5 1990.93 1224.93 1992.5 1223 1992.5H657C655.067 1992.5 653.5 1990.93 653.5 1989V1959L653.505 1958.82C653.598 1956.97 655.127 1955.5 657 1955.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="664" y="1978.73">dd/mm/yyyy</tspan></text>
+<path d="M1215 1967H1201C1199.9 1967 1199 1967.9 1199 1969V1981C1199 1982.1 1199.9 1983 1201 1983H1215C1216.1 1983 1217 1982.1 1217 1981V1969C1217 1967.9 1216.1 1967 1215 1967Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1212 1965V1969M1204 1965V1969M1199 1973H1217" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip1_36_816)">
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="653" y="2010">yesterday</tspan></text>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" font-weight="500" letter-spacing="0em"><tspan x="718" y="2010">today</tspan></text>
+</g>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="55" y="2049">Recording both fields completes the shipment. It moves to the archive after seven days.</tspan></text>
+<rect x="32" y="2092" width="1216" height="1" fill="#E3EAF0"/>
+<path d="M36 2109.5H148C149.933 2109.5 151.5 2111.07 151.5 2113V2143C151.5 2144.93 149.933 2146.5 148 2146.5H36C34.067 2146.5 32.5 2144.93 32.5 2143V2113L32.5049 2112.82C32.5984 2110.97 34.1273 2109.5 36 2109.5Z" fill="white"/>
+<path d="M36 2109.5H148C149.933 2109.5 151.5 2111.07 151.5 2113V2143C151.5 2144.93 149.933 2146.5 148 2146.5H36C34.067 2146.5 32.5 2144.93 32.5 2143V2113L32.5049 2112.82C32.5984 2110.97 34.1273 2109.5 36 2109.5Z" stroke="#B4232C"/>
+<text fill="#B4232C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="57.5" y="2132.36">Delete draft</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="168" y="2132">Confirmation required. Assigned parts return to Pending parts.</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="32" y="2175">&#xa9; 2026 NAVIG home labs &#xb7; Internal operational tool exclusively for TRISON</tspan></text>
+<defs>
+<clipPath id="clip0_36_816">
+<rect width="95" height="18" fill="white" transform="translate(55 1784)"/>
+</clipPath>
+<clipPath id="clip1_36_816">
+<rect width="95" height="18" fill="white" transform="translate(653 1997)"/>
+</clipPath>
+</defs>
+</svg>

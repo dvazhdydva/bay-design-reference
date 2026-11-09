@@ -1,0 +1,46 @@
+<svg width="640" height="415" viewBox="0 0 640 415" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="640" height="415" fill="#F3F5F8"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="24" y="51.1818">Archive</tspan></text>
+<g clip-path="url(#clip0_4_131156)">
+<g clip-path="url(#clip1_4_131156)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="24" y="86.8636">Serial, model, code, description or job</tspan></text>
+<rect x="25" y="98" width="502" height="42" rx="5" fill="white"/>
+<rect x="25" y="98" width="502" height="42" rx="5" stroke="#185DB4" stroke-width="2"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="36" y="124.091">PolarLine*AX99</tspan></text>
+</g>
+<rect x="540" y="97" width="76" height="44" rx="6" fill="#185DB4"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="554" y="124.091">Search</tspan></text>
+</g>
+<g clip-path="url(#clip2_4_131156)">
+<rect x="24.5" y="157.5" width="591" height="43" rx="5.5" fill="white"/>
+<rect x="24.5" y="157.5" width="591" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="36" y="184.091">Reason &#xb7; Missing after stocktake</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="597" y="183.364">&#x2304;</tspan></text>
+</g>
+<rect x="24.5" y="217.5" width="591" height="173" fill="white"/>
+<rect x="24.5" y="217.5" width="591" height="173" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="18" letter-spacing="0em"><tspan x="48" y="258.545">No archived articles match</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="48" y="288.727">Check the serial or remove the reason filter. This search has not changed Inventory or </tspan><tspan x="48" y="306.727">any archived records.</tspan></text>
+<g clip-path="url(#clip3_4_131156)">
+<rect x="48.5" y="323.5" width="109" height="43" rx="5.5" fill="white"/>
+<rect x="48.5" y="323.5" width="109" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="62" y="350.091">Reset filters</tspan></text>
+<rect x="166.5" y="323.5" width="113" height="43" rx="5.5" fill="white"/>
+<rect x="166.5" y="323.5" width="113" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="180" y="350.091">Clear search</tspan></text>
+</g>
+<defs>
+<clipPath id="clip0_4_131156">
+<rect width="592" height="67" fill="white" transform="translate(24 74)"/>
+</clipPath>
+<clipPath id="clip1_4_131156">
+<rect width="504" height="67" fill="white" transform="translate(24 74)"/>
+</clipPath>
+<clipPath id="clip2_4_131156">
+<rect width="592" height="44" fill="white" transform="translate(24 157)"/>
+</clipPath>
+<clipPath id="clip3_4_131156">
+<rect width="232" height="44" fill="white" transform="translate(48 323)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,81 @@
+<svg width="1280" height="584" viewBox="0 0 1280 584" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="584" fill="#F3F7FA"/>
+<rect width="1280" height="64" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="16" y="39.6364">RepairBay</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="200" y="36.3636">Active jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="314" y="36.3636">Archived jobs</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="443" y="36.3636">Returns</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="527" y="36.3636">Users</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="597" y="36.3636">Spare parts</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="711" y="36">Warehouse</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="793" y="36.3636">Reading&#x2304;</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="901" y="36.3636">Alex Naumov</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1025" y="36.3636">Sign out</tspan></text>
+<rect x="200" y="60" width="90" height="4" fill="#2D805F"/>
+<text fill="#2D805F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="32" y="109.364">&#x2190; Jobs</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="21" font-weight="bold" letter-spacing="0em"><tspan x="32" y="152.636">Serial: 0S6EHNDX902283M</tspan></text>
+<path d="M402 142H393C391.895 142 391 142.895 391 144V153C391 154.105 391.895 155 393 155H402C403.105 155 404 154.105 404 153V144C404 142.895 403.105 142 402 142Z" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M387 148H386C385.47 148 384.961 147.789 384.586 147.414C384.211 147.039 384 146.53 384 146V137C384 136.47 384.211 135.961 384.586 135.586C384.961 135.211 385.47 135 386 135H395C395.53 135 396.039 135.211 396.414 135.586C396.789 135.961 397 136.47 397 137V138" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M420 126.5H516C517.933 126.5 519.5 128.067 519.5 130V160C519.5 161.933 517.933 163.5 516 163.5H420C418.067 163.5 416.5 161.933 416.5 160V130L416.505 129.82C416.598 127.971 418.127 126.5 420 126.5Z" fill="white"/>
+<path d="M420 126.5H516C517.933 126.5 519.5 128.067 519.5 130V160C519.5 161.933 517.933 163.5 516 163.5H420C418.067 163.5 416.5 161.933 416.5 160V130L416.505 129.82C416.598 127.971 418.127 126.5 420 126.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="438.5" y="149.364">Print label</tspan></text>
+<path d="M536 126.5H666C667.933 126.5 669.5 128.067 669.5 130V160C669.5 161.933 667.933 163.5 666 163.5H536C534.067 163.5 532.5 161.933 532.5 160V130L532.505 129.82C532.598 127.971 534.127 126.5 536 126.5Z" fill="white"/>
+<path d="M536 126.5H666C667.933 126.5 669.5 128.067 669.5 130V160C669.5 161.933 667.933 163.5 666 163.5H536C534.067 163.5 532.5 161.933 532.5 160V130L532.505 129.82C532.598 127.971 534.127 126.5 536 126.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="554" y="149.364">Copy job details</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="858.5" y="149.364">Saved</tspan></text>
+<path d="M1004.5 126.5H1091.5C1093.43 126.5 1095 128.067 1095 130V160C1095 161.933 1093.43 163.5 1091.5 163.5H1004.5C1002.57 163.5 1001 161.933 1001 160V130L1001 129.82C1001.1 127.971 1002.63 126.5 1004.5 126.5Z" fill="#EDF2F6"/>
+<path d="M1004.5 126.5H1091.5C1093.43 126.5 1095 128.067 1095 130V160C1095 161.933 1093.43 163.5 1091.5 163.5H1004.5C1002.57 163.5 1001 161.933 1001 160V130L1001 129.82C1001.1 127.971 1002.63 126.5 1004.5 126.5Z" stroke="#E3EAF0"/>
+<text fill="#697A8F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1025.5" y="149.364">Discard</tspan></text>
+<path d="M1111.5 126.5H1243.5C1245.43 126.5 1247 128.067 1247 130V160C1247 161.933 1245.43 163.5 1243.5 163.5H1111.5C1109.57 163.5 1108 161.933 1108 160V130L1108 129.82C1108.1 127.971 1109.63 126.5 1111.5 126.5Z" fill="#EDF2F6"/>
+<path d="M1111.5 126.5H1243.5C1245.43 126.5 1247 128.067 1247 130V160C1247 161.933 1245.43 163.5 1243.5 163.5H1111.5C1109.57 163.5 1108 161.933 1108 160V130L1108 129.82C1108.1 127.971 1109.63 126.5 1111.5 126.5Z" stroke="#E3EAF0"/>
+<text fill="#697A8F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1137" y="149.364">Save changes</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="32" y="189.364">Model: QM50C     |     Job site: KFC Worcester DT     |     Fz: Splendid Restaurants (Harland) Ltd     |     Simpro job: 23018</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="32" y="219.364">1 of 4 sections done</tspan></text>
+<path d="M194 208C194 206.895 194.895 206 196 206H552C553.105 206 554 206.895 554 208C554 209.105 553.105 210 552 210H196C194.895 210 194 209.105 194 208Z" fill="#E3EAF0"/>
+<rect x="194" y="206" width="90" height="4" fill="#2D805F"/>
+<path d="M37 236.5H1243C1245.49 236.5 1247.5 238.515 1247.5 241V293C1247.5 295.485 1245.49 297.5 1243 297.5H37C34.5147 297.5 32.5 295.485 32.5 293V241C32.5 238.515 34.5147 236.5 37 236.5Z" fill="white"/>
+<path d="M37 236.5H1243C1245.49 236.5 1247.5 238.515 1247.5 241V293C1247.5 295.485 1245.49 297.5 1243 297.5H37C34.5147 297.5 32.5 295.485 32.5 293V241C32.5 238.515 34.5147 236.5 37 236.5Z" stroke="#E3EAF0"/>
+<path d="M38 237.5H1244C1246.49 237.5 1248.5 239.515 1248.5 242V292C1248.5 294.485 1246.49 296.5 1244 296.5H38C35.5147 296.5 33.5 294.485 33.5 292V242C33.5 239.515 35.5147 237.5 38 237.5Z" fill="white"/>
+<path d="M38 237.5H1244C1246.49 237.5 1248.5 239.515 1248.5 242V292C1248.5 294.485 1246.49 296.5 1244 296.5H38C35.5147 296.5 33.5 294.485 33.5 292V242C33.5 239.515 35.5147 237.5 38 237.5Z" stroke="#E3EAF0"/>
+<path d="M55 261L61 267L55 273" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="80" y="252" width="30" height="30" rx="15" fill="#657D98"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="91" y="272.455">1</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="124" y="273.182">Unit details</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="233" y="271.727">0S6EHNDX902283M &#xb7; QM50C &#xb7; KFC Worcester DT &#xb7; Splendid Restaurants &#xb7; 23018</tspan></text>
+<path d="M1180 257C1180 254.791 1181.79 253 1184 253H1228C1230.21 253 1232 254.791 1232 257V277C1232 279.209 1230.21 281 1228 281H1184C1181.79 281 1180 279.209 1180 277V257Z" fill="#DCF5E5"/>
+<text fill="#17613C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1190.5" y="271.364">Done</tspan></text>
+<path d="M37 310.5H1243C1245.49 310.5 1247.5 312.515 1247.5 315V367C1247.5 369.485 1245.49 371.5 1243 371.5H37C34.5147 371.5 32.5 369.485 32.5 367V315C32.5 312.515 34.5147 310.5 37 310.5Z" fill="white"/>
+<path d="M37 310.5H1243C1245.49 310.5 1247.5 312.515 1247.5 315V367C1247.5 369.485 1245.49 371.5 1243 371.5H37C34.5147 371.5 32.5 369.485 32.5 367V315C32.5 312.515 34.5147 310.5 37 310.5Z" stroke="#E3EAF0"/>
+<path d="M38 311.5H1244C1246.49 311.5 1248.5 313.515 1248.5 316V366C1248.5 368.485 1246.49 370.5 1244 370.5H38C35.5147 370.5 33.5 368.485 33.5 366V316C33.5 313.515 35.5147 311.5 38 311.5Z" fill="white"/>
+<path d="M38 311.5H1244C1246.49 311.5 1248.5 313.515 1248.5 316V366C1248.5 368.485 1246.49 370.5 1244 370.5H38C35.5147 370.5 33.5 368.485 33.5 366V316C33.5 313.515 35.5147 311.5 38 311.5Z" stroke="#E3EAF0"/>
+<path d="M55 335L61 341L55 347" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="80" y="326" width="30" height="30" rx="15" fill="#657D98"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="90" y="346.455">2</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="124" y="347.182">Job details</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="230" y="345.727">No variation job &#xb7; TBC &#xb7; No fault recorded</tspan></text>
+<path d="M1159 331C1159 328.791 1160.79 327 1163 327H1228C1230.21 327 1232 328.791 1232 331V351C1232 353.209 1230.21 355 1228 355H1163C1160.79 355 1159 353.209 1159 351V331Z" fill="#FCE7E7"/>
+<text fill="#B4232C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1171.5" y="345.364">Pending</tspan></text>
+<path d="M37 384.5H1243C1245.49 384.5 1247.5 386.515 1247.5 389V441C1247.5 443.485 1245.49 445.5 1243 445.5H37C34.5147 445.5 32.5 443.485 32.5 441V389C32.5 386.515 34.5147 384.5 37 384.5Z" fill="white"/>
+<path d="M37 384.5H1243C1245.49 384.5 1247.5 386.515 1247.5 389V441C1247.5 443.485 1245.49 445.5 1243 445.5H37C34.5147 445.5 32.5 443.485 32.5 441V389C32.5 386.515 34.5147 384.5 37 384.5Z" stroke="#E3EAF0"/>
+<path d="M38 385.5H1244C1246.49 385.5 1248.5 387.515 1248.5 390V440C1248.5 442.485 1246.49 444.5 1244 444.5H38C35.5147 444.5 33.5 442.485 33.5 440V390C33.5 387.515 35.5147 385.5 38 385.5Z" fill="white"/>
+<path d="M38 385.5H1244C1246.49 385.5 1248.5 387.515 1248.5 390V440C1248.5 442.485 1246.49 444.5 1244 444.5H38C35.5147 444.5 33.5 442.485 33.5 440V390C33.5 387.515 35.5147 385.5 38 385.5Z" stroke="#E3EAF0"/>
+<path d="M55 409L61 415L55 421" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="80" y="400" width="30" height="30" rx="15" fill="#657D98"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="90" y="420.455">3</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="124" y="421.182">GSPN details</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="246" y="419.727">ASC job: &#x2014; &#xb7; GSPN SO: &#x2014;</tspan></text>
+<path d="M1159 405C1159 402.791 1160.79 401 1163 401H1228C1230.21 401 1232 402.791 1232 405V425C1232 427.209 1230.21 429 1228 429H1163C1160.79 429 1159 427.209 1159 425V405Z" fill="#FCE7E7"/>
+<text fill="#B4232C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1171.5" y="419.364">Pending</tspan></text>
+<path d="M37 458.5H1243C1245.49 458.5 1247.5 460.515 1247.5 463V515C1247.5 517.485 1245.49 519.5 1243 519.5H37C34.5147 519.5 32.5 517.485 32.5 515V463C32.5 460.515 34.5147 458.5 37 458.5Z" fill="white"/>
+<path d="M37 458.5H1243C1245.49 458.5 1247.5 460.515 1247.5 463V515C1247.5 517.485 1245.49 519.5 1243 519.5H37C34.5147 519.5 32.5 517.485 32.5 515V463C32.5 460.515 34.5147 458.5 37 458.5Z" stroke="#E3EAF0"/>
+<path d="M38 459.5H1244C1246.49 459.5 1248.5 461.515 1248.5 464V514C1248.5 516.485 1246.49 518.5 1244 518.5H38C35.5147 518.5 33.5 516.485 33.5 514V464C33.5 461.515 35.5147 459.5 38 459.5Z" fill="white"/>
+<path d="M38 459.5H1244C1246.49 459.5 1248.5 461.515 1248.5 464V514C1248.5 516.485 1246.49 518.5 1244 518.5H38C35.5147 518.5 33.5 516.485 33.5 514V464C33.5 461.515 35.5147 459.5 38 459.5Z" stroke="#E3EAF0"/>
+<path d="M55 483L61 489L55 495" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="80" y="474" width="30" height="30" rx="15" fill="#657D98"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="90" y="494.455">4</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="124" y="495.182">Repair outcome</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="269" y="493.727">Not completed</tspan></text>
+<path d="M1159 479C1159 476.791 1160.79 475 1163 475H1228C1230.21 475 1232 476.791 1232 479V499C1232 501.209 1230.21 503 1228 503H1163C1160.79 503 1159 501.209 1159 499V479Z" fill="#FCE7E7"/>
+<text fill="#B4232C" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1171.5" y="493.364">Pending</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="32" y="546.727">Disclosure specimen: all four headers are shown closed for comparison. On real entry, only Done sections auto-collapse; other sections follow their current disclosure state.</tspan></text>
+</svg>

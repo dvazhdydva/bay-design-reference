@@ -1,0 +1,18 @@
+<svg width="1192" height="188" viewBox="0 0 1192 188" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1192" height="188" fill="white"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="16" y="32.4545">IW claim / credit</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="16" y="64.7273">Claim number and total invoice amount, including labour, parts and other charges. This does not confirm approval or payment.</tspan></text>
+<path d="M20 106.5H242C243.933 106.5 245.5 108.067 245.5 110V140C245.5 141.933 243.933 143.5 242 143.5H20C18.067 143.5 16.5 141.933 16.5 140V110L16.5049 109.82C16.5984 107.971 18.1273 106.5 20 106.5Z" fill="#EDF2F6"/>
+<path d="M20 106.5H242C243.933 106.5 245.5 108.067 245.5 110V140C245.5 141.933 243.933 143.5 242 143.5H20C18.067 143.5 16.5 141.933 16.5 140V110L16.5049 109.82C16.5984 107.971 18.1273 106.5 20 106.5Z" stroke="#E3EAF0"/>
+<path d="M69.5 128V132C69.5 132.53 69.2893 133.039 68.9142 133.414C68.5391 133.789 68.0304 134 67.5 134H53.5C52.9696 134 52.4609 133.789 52.0858 133.414C51.7107 133.039 51.5 132.53 51.5 132V128" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M55.5 123L60.5 128L65.5 123" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M60.5 128V116" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#697A8F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="76.5" y="129.364">Fetch claim from GSPN</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="262" y="95.3636">Claim / credit number</tspan></text>
+<path d="M266 106.5H688C689.933 106.5 691.5 108.067 691.5 110V140C691.5 141.933 689.933 143.5 688 143.5H266C264.067 143.5 262.5 141.933 262.5 140V110L262.505 109.82C262.598 107.971 264.127 106.5 266 106.5Z" fill="white"/>
+<path d="M266 106.5H688C689.933 106.5 691.5 108.067 691.5 110V140C691.5 141.933 689.933 143.5 688 143.5H266C264.067 143.5 262.5 141.933 262.5 140V110L262.505 109.82C262.598 107.971 264.127 106.5 266 106.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="708" y="95.3636">Total claim amount (&#xa3;)</tspan></text>
+<path d="M712 106.5H1172C1173.93 106.5 1175.5 108.067 1175.5 110V140C1175.5 141.933 1173.93 143.5 1172 143.5H712C710.067 143.5 708.5 141.933 708.5 140V110L708.505 109.82C708.598 107.971 710.127 106.5 712 106.5Z" fill="white"/>
+<path d="M712 106.5H1172C1173.93 106.5 1175.5 108.067 1175.5 110V140C1175.5 141.933 1173.93 143.5 1172 143.5H712C710.067 143.5 708.5 141.933 708.5 140V110L708.505 109.82C708.598 107.971 710.127 106.5 712 106.5Z" stroke="#CDDAE7"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="16" y="168">Automatic claim lookup will be connected later. Enter the claim number and amount manually for now.</tspan></text>
+</svg>

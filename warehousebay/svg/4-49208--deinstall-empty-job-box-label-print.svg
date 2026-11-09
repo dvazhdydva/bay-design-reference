@@ -1,0 +1,23 @@
+<svg width="460" height="310" viewBox="0 0 460 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="459" height="309" fill="white"/>
+<rect x="0.5" y="0.5" width="459" height="309" stroke="#172738"/>
+<g clip-path="url(#clip0_4_49208)">
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="24" y="37.5909">WarehouseBay &#xb7; North depot</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" font-weight="bold" letter-spacing="0em"><tspan x="375" y="36.5">DEINSTALL</tspan></text>
+</g>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="24" y="86.6818">#10460</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0em"><tspan x="24" y="128.818">Demo Market &#x2014; Liverpool Waterfront</tspan></text>
+<mask id="path-6-inside-1_4_49208" fill="white">
+<path d="M24 150H436V222H24V150Z"/>
+</mask>
+<path d="M24 150V151H436V150V149H24V150ZM436 222V221H24V222V223H436V222Z" fill="#D6DEE7" mask="url(#path-6-inside-1_4_49208)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="24" y="177.091">FZ &#xb7; Cold-chain</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="24" y="205.091">Expected return date &#xb7; TBC</tspan></text>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="24" y="250.864">Expected return &#xb7; Awaiting registered units</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="24" y="282.5">Job / box label only. Match arriving registration to deinstall job #10460.</tspan></text>
+<defs>
+<clipPath id="clip0_4_49208">
+<rect width="412" height="17" fill="white" transform="translate(24 24)"/>
+</clipPath>
+</defs>
+</svg>

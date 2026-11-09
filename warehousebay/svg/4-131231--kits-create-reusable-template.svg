@@ -1,0 +1,238 @@
+<svg width="824" height="1145" viewBox="0 0 824 1145" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_4_131231)">
+<g clip-path="url(#clip0_4_131231)">
+<rect x="32" y="20" width="760" height="1081" rx="8" fill="white"/>
+<mask id="path-3-inside-1_4_131231" fill="white">
+<path d="M32 20H792V123H32V20Z"/>
+</mask>
+<path d="M792 123V122H32V123V124H792V123Z" fill="#E4E9EF" mask="url(#path-3-inside-1_4_131231)"/>
+<g clip-path="url(#clip1_4_131231)">
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="22" font-weight="bold" letter-spacing="0em"><tspan x="56" y="67.5">Create template</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="56" y="94.7273">Save a reusable component list &#xb7; No physical stock created</tspan></text>
+</g>
+<path d="M751 61L741 71M741 61L751 71" stroke="#607184" stroke-width="1.7" stroke-linecap="round"/>
+<g clip-path="url(#clip2_4_131231)">
+<g clip-path="url(#clip3_4_131231)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="159.864">Template name</tspan></text>
+<rect x="56.5" y="170.5" width="475" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="170.5" width="475" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="197.091">Installation essentials</tspan></text>
+</g>
+<g clip-path="url(#clip4_4_131231)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="548" y="159.864">Template code</tspan></text>
+<rect x="548.5" y="170.5" width="219" height="43" rx="5.5" fill="white"/>
+<rect x="548.5" y="170.5" width="219" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="560" y="197.091">TPL-INST-004</tspan></text>
+</g>
+</g>
+<g clip-path="url(#clip5_4_131231)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="242.864">Description</tspan></text>
+<rect x="56.5" y="253.5" width="711" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="253.5" width="711" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="280.091">Clips, Cat6 cable and M8 fasteners for installation and service work</tspan></text>
+</g>
+<rect x="56" y="313" width="712" height="79" rx="6" fill="#EAF2FD"/>
+<g clip-path="url(#clip6_4_131231)">
+<path d="M76.9996 337V334M76.9996 330.999H77.0071M84.5002 334C84.5002 338.142 81.1421 341.5 76.9996 341.5C72.8572 341.5 69.499 338.142 69.499 334C69.499 329.857 72.8572 326.499 76.9996 326.499C81.1421 326.499 84.5002 329.857 84.5002 334Z" stroke="#185DB4" stroke-width="1.7" stroke-linecap="round"/>
+</g>
+<g clip-path="url(#clip7_4_131231)">
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="96" y="338.727">A template is not stock</tspan></text>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="96" y="358.864">Save quantities in pcs, kg and m for future picking. This does not deduct stock, create a serial or change existing </tspan><tspan x="96" y="375.864">physical kits.</tspan></text>
+</g>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="56" y="423.318">Components per package</tspan></text>
+<g clip-path="url(#clip8_4_131231)">
+<rect x="56" y="443" width="712" height="248" fill="white"/>
+<g clip-path="url(#clip9_4_131231)">
+<rect width="712" height="44" transform="translate(56 443)" fill="#F7F9FB"/>
+<mask id="path-24-inside-2_4_131231" fill="white">
+<path d="M56 443H356V487H56V443Z"/>
+</mask>
+<path d="M356 443H355V487H356H357V443H356Z" fill="#E4E9EF" mask="url(#path-24-inside-2_4_131231)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="68" y="469.364">Component / model</tspan></text>
+<mask id="path-27-inside-3_4_131231" fill="white">
+<path d="M356 443H668V487H356V443Z"/>
+</mask>
+<path d="M668 443H667V487H668H669V443H668Z" fill="#E4E9EF" mask="url(#path-27-inside-3_4_131231)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="368" y="469.364">Description</tspan></text>
+<mask id="path-30-inside-4_4_131231" fill="white">
+<path d="M668 443H768V487H668V443Z"/>
+</mask>
+<path d="M768 443H767V487H768H769V443H768Z" fill="#E4E9EF" mask="url(#path-30-inside-4_4_131231)"/>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="680" y="469.364">Target</tspan></text>
+</g>
+<g clip-path="url(#clip10_4_131231)">
+<mask id="path-33-inside-5_4_131231" fill="white">
+<path d="M56 487H768V555H56V487Z"/>
+</mask>
+<path d="M56 487H768V555H56V487Z" fill="white"/>
+<mask id="path-35-inside-6_4_131231" fill="white">
+<path d="M56 487H356V555H56V487Z"/>
+</mask>
+<path d="M356 487H355V555H356H357V487H356Z" fill="#E4E9EF" mask="url(#path-35-inside-6_4_131231)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="68" y="516.727">BayForm shelving clips</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="IBM Plex Mono" font-size="11" letter-spacing="0em"><tspan x="68" y="535.625">ART-CLP-025 &#xb7; BF-250-CLIP-ZN</tspan></text>
+<mask id="path-39-inside-7_4_131231" fill="white">
+<path d="M356 487H668V555H356V487Z"/>
+</mask>
+<path d="M668 487H667V555H668H669V487H668Z" fill="#E4E9EF" mask="url(#path-39-inside-7_4_131231)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="368" y="525.727">Zinc-plated clips &#xb7; 25 mm</tspan></text>
+<mask id="path-42-inside-8_4_131231" fill="white">
+<path d="M668 487H768V555H668V487Z"/>
+</mask>
+<path d="M768 487H767V555H768H769V487H768Z" fill="#E4E9EF" mask="url(#path-42-inside-8_4_131231)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="680" y="525.727">16 pcs</tspan></text>
+</g>
+<path d="M56 487V488H768V487V486H56V487Z" fill="#E4E9EF" mask="url(#path-33-inside-5_4_131231)"/>
+<g clip-path="url(#clip11_4_131231)">
+<mask id="path-45-inside-9_4_131231" fill="white">
+<path d="M56 555H768V623H56V555Z"/>
+</mask>
+<path d="M56 555H768V623H56V555Z" fill="white"/>
+<mask id="path-47-inside-10_4_131231" fill="white">
+<path d="M56 555H356V623H56V555Z"/>
+</mask>
+<path d="M356 555H355V623H356H357V555H356Z" fill="#E4E9EF" mask="url(#path-47-inside-10_4_131231)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="68" y="584.727">Arcline Cat6 cable, grey</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="IBM Plex Mono" font-size="11" letter-spacing="0em"><tspan x="68" y="603.625">ART-CAB-006 &#xb7; ARC-C6-305-GR</tspan></text>
+<mask id="path-51-inside-11_4_131231" fill="white">
+<path d="M356 555H668V623H356V555Z"/>
+</mask>
+<path d="M668 555H667V623H668H669V555H668Z" fill="#E4E9EF" mask="url(#path-51-inside-11_4_131231)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="368" y="593.727">U/UTP cable &#xb7; cut length</tspan></text>
+<mask id="path-54-inside-12_4_131231" fill="white">
+<path d="M668 555H768V623H668V555Z"/>
+</mask>
+<path d="M768 555H767V623H768H769V555H768Z" fill="#E4E9EF" mask="url(#path-54-inside-12_4_131231)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="680" y="593.727">10 m</tspan></text>
+</g>
+<path d="M56 555V556H768V555V554H56V555Z" fill="#E4E9EF" mask="url(#path-45-inside-9_4_131231)"/>
+<g clip-path="url(#clip12_4_131231)">
+<mask id="path-57-inside-13_4_131231" fill="white">
+<path d="M56 623H768V691H56V623Z"/>
+</mask>
+<path d="M56 623H768V691H56V623Z" fill="white"/>
+<mask id="path-59-inside-14_4_131231" fill="white">
+<path d="M56 623H356V691H56V623Z"/>
+</mask>
+<path d="M356 623H355V691H356H357V623H356Z" fill="#E4E9EF" mask="url(#path-59-inside-14_4_131231)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="68" y="652.727">Stainless steel fasteners M8</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="IBM Plex Mono" font-size="11" letter-spacing="0em"><tspan x="68" y="671.625">ART-FIX-008 &#xb7; SS-M8-MIX</tspan></text>
+<mask id="path-63-inside-15_4_131231" fill="white">
+<path d="M356 623H668V691H356V623Z"/>
+</mask>
+<path d="M668 623H667V691H668H669V623H668Z" fill="#E4E9EF" mask="url(#path-63-inside-15_4_131231)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="368" y="661.727">Mixed bolts, nuts, washers</tspan></text>
+<mask id="path-66-inside-16_4_131231" fill="white">
+<path d="M668 623H768V691H668V623Z"/>
+</mask>
+<path d="M768 623H767V691H768H769V623H768Z" fill="#E4E9EF" mask="url(#path-66-inside-16_4_131231)"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="680" y="661.727">0.5 kg</tspan></text>
+</g>
+<path d="M56 623V624H768V623V622H56V623Z" fill="#E4E9EF" mask="url(#path-57-inside-13_4_131231)"/>
+</g>
+<rect x="56.5" y="443.5" width="711" height="247" stroke="#D6DEE7"/>
+<rect x="56.5" y="707.5" width="711" height="183" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="72" y="736.591">Edit component &#xb7; Arcline Cat6 cable, grey</tspan></text>
+<g clip-path="url(#clip13_4_131231)">
+<g clip-path="url(#clip14_4_131231)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="72" y="764.864">Quantity per package</tspan></text>
+<rect x="72.5" y="775.5" width="447" height="43" rx="5.5" fill="white"/>
+<rect x="72.5" y="775.5" width="447" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="84" y="802.091">10</tspan></text>
+</g>
+<g clip-path="url(#clip15_4_131231)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="532" y="764.864">Inventory unit</tspan></text>
+<rect x="532.5" y="775.5" width="219" height="43" rx="5.5" fill="white"/>
+<rect x="532.5" y="775.5" width="219" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="544" y="802.091">m &#xb7; Metered</tspan></text>
+</g>
+</g>
+<g clip-path="url(#clip16_4_131231)">
+<rect x="72.5" y="831.5" width="127" height="43" rx="5.5" fill="white"/>
+<rect x="72.5" y="831.5" width="127" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="86" y="858.091">Apply quantity</tspan></text>
+<rect x="208.5" y="831.5" width="162" height="43" rx="5.5" fill="white"/>
+<rect x="208.5" y="831.5" width="162" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#B03738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="222" y="858.091">Remove component</tspan></text>
+</g>
+<rect x="56.5" y="907.5" width="229" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="907.5" width="229" height="43" rx="5.5" stroke="#D6DEE7"/>
+<path d="M73.749 929H84.2502M78.9996 923.749V934.25" stroke="#607184" stroke-width="1.7" stroke-linecap="round"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="96" y="934.091">Add Inventory component</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="56" y="979.864">Storages and Locations are chosen when picking or filling a physical kit, not when saving this template. Admin, Warehouse </tspan><tspan x="56" y="996.864">manager and Warehouse can create templates.</tspan></text>
+<mask id="path-85-inside-17_4_131231" fill="white">
+<path d="M32 1025H792V1101H32V1025Z"/>
+</mask>
+<path d="M32 1025V1026H792V1025V1024H32V1025Z" fill="#E4E9EF" mask="url(#path-85-inside-17_4_131231)"/>
+<rect x="559.5" y="1041.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="559.5" y="1041.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="573" y="1068.09">Cancel</tspan></text>
+<rect x="643" y="1041" width="125" height="44" rx="6" fill="#185DB4"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="657" y="1068.09">Save template</tspan></text>
+</g>
+<rect x="32.5" y="20.5" width="759" height="1080" rx="7.5" stroke="#D6DEE7"/>
+</g>
+<defs>
+<filter id="filter0_d_4_131231" x="0" y="0" width="824" height="1145" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="12"/>
+<feGaussianBlur stdDeviation="16"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0705882 0 0 0 0 0.168627 0 0 0 0 0.27451 0 0 0 0.109804 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4_131231"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4_131231" result="shape"/>
+</filter>
+<clipPath id="clip0_4_131231">
+<rect x="32" y="20" width="760" height="1081" rx="8" fill="white"/>
+</clipPath>
+<clipPath id="clip1_4_131231">
+<rect width="652" height="55" fill="white" transform="translate(56 44)"/>
+</clipPath>
+<clipPath id="clip2_4_131231">
+<rect width="712" height="67" fill="white" transform="translate(56 147)"/>
+</clipPath>
+<clipPath id="clip3_4_131231">
+<rect width="476" height="67" fill="white" transform="translate(56 147)"/>
+</clipPath>
+<clipPath id="clip4_4_131231">
+<rect width="220" height="67" fill="white" transform="translate(548 147)"/>
+</clipPath>
+<clipPath id="clip5_4_131231">
+<rect width="712" height="67" fill="white" transform="translate(56 230)"/>
+</clipPath>
+<clipPath id="clip6_4_131231">
+<rect width="18" height="18" fill="white" transform="translate(68 325)"/>
+</clipPath>
+<clipPath id="clip7_4_131231">
+<rect width="660" height="55" fill="white" transform="translate(96 325)"/>
+</clipPath>
+<clipPath id="clip8_4_131231">
+<rect x="56" y="443" width="712" height="248" fill="white"/>
+</clipPath>
+<clipPath id="clip9_4_131231">
+<rect width="712" height="44" fill="white" transform="translate(56 443)"/>
+</clipPath>
+<clipPath id="clip10_4_131231">
+<path d="M56 487H768V555H56V487Z" fill="white"/>
+</clipPath>
+<clipPath id="clip11_4_131231">
+<path d="M56 555H768V623H56V555Z" fill="white"/>
+</clipPath>
+<clipPath id="clip12_4_131231">
+<path d="M56 623H768V691H56V623Z" fill="white"/>
+</clipPath>
+<clipPath id="clip13_4_131231">
+<rect width="680" height="67" fill="white" transform="translate(72 752)"/>
+</clipPath>
+<clipPath id="clip14_4_131231">
+<rect width="448" height="67" fill="white" transform="translate(72 752)"/>
+</clipPath>
+<clipPath id="clip15_4_131231">
+<rect width="220" height="67" fill="white" transform="translate(532 752)"/>
+</clipPath>
+<clipPath id="clip16_4_131231">
+<rect width="299" height="44" fill="white" transform="translate(72 831)"/>
+</clipPath>
+</defs>
+</svg>

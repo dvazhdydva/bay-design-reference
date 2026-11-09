@@ -1,0 +1,99 @@
+<svg width="624" height="752" viewBox="0 0 624 752" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_4_131316)">
+<g clip-path="url(#clip0_4_131316)">
+<rect x="32" y="20" width="560" height="688" rx="8" fill="white"/>
+<mask id="path-3-inside-1_4_131316" fill="white">
+<path d="M32 20H592V123H32V20Z"/>
+</mask>
+<path d="M592 123V122H32V123V124H592V123Z" fill="#E4E9EF" mask="url(#path-3-inside-1_4_131316)"/>
+<g clip-path="url(#clip1_4_131316)">
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="22" font-weight="bold" letter-spacing="0em"><tspan x="56" y="67.5">Top up physical kit</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="56" y="94.7273">KIT-ND-2026-000042 &#xb7; Available &#xb7; K-01-02</tspan></text>
+</g>
+<path d="M551 61L541 71M541 61L551 71" stroke="#607184" stroke-width="1.7" stroke-linecap="round"/>
+<rect x="56" y="147" width="512" height="79" rx="6" fill="#FDEEEE"/>
+<g clip-path="url(#clip2_4_131316)">
+<path d="M76.9996 164.999V168M76.9996 171H77.0071M84.5002 168C84.5002 172.142 81.1421 175.5 76.9996 175.5C72.8572 175.5 69.499 172.142 69.499 168C69.499 163.857 72.8572 160.499 76.9996 160.499C81.1421 160.499 84.5002 163.857 84.5002 168Z" stroke="#B03738" stroke-width="1.7" stroke-linecap="round"/>
+</g>
+<g clip-path="url(#clip3_4_131316)">
+<text fill="#B03738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="96" y="172.727">Top-up not saved</tspan></text>
+<text fill="#B03738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="96" y="192.864">Component availability changed while this form was open. No stock has been </tspan><tspan x="96" y="209.864">deducted and your entered quantities are kept.</tspan></text>
+</g>
+<g clip-path="url(#clip4_4_131316)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="254.864">Component</tspan></text>
+<rect x="56.5" y="265.5" width="511" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="265.5" width="511" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="292.091">Arcline Cat6 cable, grey &#xb7; ART-CAB-006</tspan></text>
+</g>
+<g clip-path="url(#clip5_4_131316)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="337.864">Storage / Location</tspan></text>
+<rect x="56.5" y="348.5" width="511" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="348.5" width="511" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="375.091">North depot / Cable store / C-04-01</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="549" y="374.364">&#x2304;</tspan></text>
+</g>
+<g clip-path="url(#clip6_4_131316)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="56" y="420.864">Top-up quantity &#xb7; m</tspan></text>
+<rect x="56.5" y="431.5" width="511" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="431.5" width="511" height="43" rx="5.5" stroke="#B03738"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="68" y="458.091">4</tspan></text>
+<text fill="#B03738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="56" y="493.864">Only 3 m is available at C-04-01. Reduce the quantity or choose another source.</tspan></text>
+</g>
+<g clip-path="url(#clip7_4_131316)">
+<rect x="56.5" y="514.5" width="186" height="43" rx="5.5" fill="white"/>
+<rect x="56.5" y="514.5" width="186" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="70" y="541.091">Choose another source</tspan></text>
+<rect x="251.5" y="514.5" width="121" height="43" rx="5.5" fill="white"/>
+<rect x="251.5" y="514.5" width="121" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="265" y="541.091">Refresh stock</tspan></text>
+</g>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="56" y="586.864">Save is disabled until every source has enough available stock. Kit contents remain 12 pcs </tspan><tspan x="56" y="603.864">clips, 6 m cable and 0.4 kg fasteners.</tspan></text>
+<mask id="path-28-inside-2_4_131316" fill="white">
+<path d="M32 632H592V708H32V632Z"/>
+</mask>
+<path d="M32 632V633H592V632V631H32V632Z" fill="#E4E9EF" mask="url(#path-28-inside-2_4_131316)"/>
+<rect x="309.5" y="648.5" width="75" height="43" rx="5.5" fill="white"/>
+<rect x="309.5" y="648.5" width="75" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="323" y="675.091">Cancel</tspan></text>
+<rect x="393" y="648" width="175" height="44" rx="6" fill="#F3F5F8"/>
+<text fill="#8D9BA9" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="407" y="675.091">Save top-up &#38; deduct</tspan></text>
+</g>
+<rect x="32.5" y="20.5" width="559" height="687" rx="7.5" stroke="#D6DEE7"/>
+</g>
+<defs>
+<filter id="filter0_d_4_131316" x="0" y="0" width="624" height="752" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="12"/>
+<feGaussianBlur stdDeviation="16"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0705882 0 0 0 0 0.168627 0 0 0 0 0.27451 0 0 0 0.109804 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4_131316"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4_131316" result="shape"/>
+</filter>
+<clipPath id="clip0_4_131316">
+<rect x="32" y="20" width="560" height="688" rx="8" fill="white"/>
+</clipPath>
+<clipPath id="clip1_4_131316">
+<rect width="452" height="55" fill="white" transform="translate(56 44)"/>
+</clipPath>
+<clipPath id="clip2_4_131316">
+<rect width="18" height="18" fill="white" transform="translate(68 159)"/>
+</clipPath>
+<clipPath id="clip3_4_131316">
+<rect width="460" height="55" fill="white" transform="translate(96 159)"/>
+</clipPath>
+<clipPath id="clip4_4_131316">
+<rect width="512" height="67" fill="white" transform="translate(56 242)"/>
+</clipPath>
+<clipPath id="clip5_4_131316">
+<rect width="512" height="67" fill="white" transform="translate(56 325)"/>
+</clipPath>
+<clipPath id="clip6_4_131316">
+<rect width="512" height="90" fill="white" transform="translate(56 408)"/>
+</clipPath>
+<clipPath id="clip7_4_131316">
+<rect width="317" height="44" fill="white" transform="translate(56 514)"/>
+</clipPath>
+</defs>
+</svg>

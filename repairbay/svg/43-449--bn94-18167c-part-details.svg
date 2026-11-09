@@ -1,0 +1,50 @@
+<svg width="961" height="554" viewBox="0 0 961 554" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 0.5H954C957.038 0.5 959.5 2.96244 959.5 6V548C959.5 551.038 957.038 553.5 954 553.5H6C2.96244 553.5 0.5 551.038 0.5 548V6C0.500005 2.96244 2.96244 0.5 6 0.5Z" fill="white"/>
+<path d="M6 0.5H954C957.038 0.5 959.5 2.96244 959.5 6V548C959.5 551.038 957.038 553.5 954 553.5H6C2.96244 553.5 0.5 551.038 0.5 548V6C0.500005 2.96244 2.96244 0.5 6 0.5Z" stroke="#E3EAF0"/>
+<rect width="960" height="72" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="25" y="43.1818">BN94-18167C &#xb7; Part details</tspan></text>
+<path d="M933 31L921 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M921 31L933 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip0_43_449)">
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="25" y="113.455">Main PCB assembly</tspan></text>
+<rect x="25.5" y="135.5" width="911" height="155" stroke="#E3EAF0"/>
+<rect width="912" height="48" transform="translate(26 136)" fill="#EFF4F8"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="34" y="164.364">Warehouse</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="254" y="164.364">Location</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="834" y="164.364">Quantity</tspan></text>
+<rect width="912" height="52" transform="translate(26 184)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="34" y="214.727">Reading</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="254" y="214.727">Shelf by the bench</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="834" y="214.727">4</tspan></text>
+<rect x="26" y="236" width="912" height="1" fill="#E3EAF0"/>
+<rect width="912" height="52" transform="translate(26 237)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="34" y="267.727">Stockport</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="254" y="267.727">Crate #1</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="834" y="267.727">1</tspan></text>
+<rect x="26" y="289" width="912" height="1" fill="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="25" y="323.455">Documents linked to this part number</tspan></text>
+<path d="M43.44 356.05L34.25 365.24C33.1242 366.366 31.5972 366.998 30.005 366.998C28.4129 366.998 26.8859 366.366 25.76 365.24C24.6342 364.114 24.0017 362.587 24.0017 360.995C24.0017 359.403 24.6342 357.876 25.76 356.75L34.95 347.56C35.7006 346.809 36.7186 346.388 37.78 346.388C38.8415 346.388 39.8595 346.809 40.61 347.56C41.3606 348.311 41.7823 349.329 41.7823 350.39C41.7823 351.451 41.3606 352.469 40.61 353.22L31.41 362.41C31.0348 362.785 30.5258 362.996 29.995 362.996C29.4643 362.996 28.9553 362.785 28.58 362.41C28.2048 362.035 27.9939 361.526 27.9939 360.995C27.9939 360.464 28.2048 359.955 28.58 359.58L37.07 351.1" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="55" y="361.727">Service bulletin.pdf</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="567" y="361">From previous PO</tspan></text>
+<path d="M43.44 396.05L34.25 405.24C33.1242 406.366 31.5972 406.998 30.005 406.998C28.4129 406.998 26.8859 406.366 25.76 405.24C24.6342 404.114 24.0017 402.587 24.0017 400.995C24.0017 399.403 24.6342 397.876 25.76 396.75L34.95 387.56C35.7006 386.809 36.7186 386.388 37.78 386.388C38.8415 386.388 39.8595 386.809 40.61 387.56C41.3606 388.311 41.7823 389.329 41.7823 390.39C41.7823 391.451 41.3606 392.469 40.61 393.22L31.41 402.41C31.0348 402.785 30.5258 402.996 29.995 402.996C29.4643 402.996 28.9553 402.785 28.58 402.41C28.2048 402.035 27.9939 401.526 27.9939 400.995C27.9939 400.464 28.2048 399.955 28.58 399.58L37.07 391.1" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="55" y="401.727">Repair guide.pdf</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="11" letter-spacing="0em"><tspan x="567" y="401">From previous repair</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="25" y="441.455">Previous repairs (4)</tspan></text>
+<rect x="25.5" y="463.5" width="911" height="155" stroke="#E3EAF0"/>
+<rect width="912" height="48" transform="translate(26 464)" fill="#EFF4F8"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="34" y="492.364">Date</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="184" y="492.364">Repair / ASC job</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="424" y="492.364">Unit serial</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="764" y="492.364">Outcome</tspan></text>
+<rect width="912" height="52" transform="translate(26 512)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="34" y="542.727">28 Oct 2026</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="184" y="542.727">R-20946-IW</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="424" y="542.727">DEMO0001</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="764" y="542.727">Repaired</tspan></text>
+</g>
+<defs>
+<clipPath id="clip0_43_449">
+<rect width="960" height="480" fill="white" transform="translate(1 73)"/>
+</clipPath>
+</defs>
+</svg>

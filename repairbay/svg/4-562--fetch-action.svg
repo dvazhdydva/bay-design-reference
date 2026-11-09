@@ -1,0 +1,92 @@
+<svg width="1298" height="266" viewBox="0 0 1298 266" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M28 32.5H250C251.933 32.5 253.5 34.067 253.5 36V66C253.5 67.933 251.933 69.5 250 69.5H28C26.067 69.5 24.5 67.933 24.5 66V36L24.5049 35.8203C24.5984 33.9708 26.1273 32.5 28 32.5Z" fill="white"/>
+<path d="M28 32.5H250C251.933 32.5 253.5 34.067 253.5 36V66C253.5 67.933 251.933 69.5 250 69.5H28C26.067 69.5 24.5 67.933 24.5 66V36L24.5049 35.8203C24.5984 33.9708 26.1273 32.5 28 32.5Z" stroke="#1769B3"/>
+<path d="M94.5 54V58C94.5 58.5304 94.2893 59.0391 93.9142 59.4142C93.5391 59.7893 93.0304 60 92.5 60H78.5C77.9696 60 77.4609 59.7893 77.0858 59.4142C76.7107 59.0391 76.5 58.5304 76.5 58V54" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80.5 49L85.5 54L90.5 49" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M85.5 54V42" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="101.5" y="55.3636">Fetch from GSPN</tspan></text>
+<path d="M278 32.5H500C501.933 32.5 503.5 34.067 503.5 36V66C503.5 67.933 501.933 69.5 500 69.5H278C276.067 69.5 274.5 67.933 274.5 66V36L274.505 35.8203C274.598 33.9708 276.127 32.5 278 32.5Z" fill="#EDF5FF"/>
+<path d="M278 32.5H500C501.933 32.5 503.5 34.067 503.5 36V66C503.5 67.933 501.933 69.5 500 69.5H278C276.067 69.5 274.5 67.933 274.5 66V36L274.505 35.8203C274.598 33.9708 276.127 32.5 278 32.5Z" stroke="#1769B3"/>
+<path d="M344.5 54V58C344.5 58.5304 344.289 59.0391 343.914 59.4142C343.539 59.7893 343.03 60 342.5 60H328.5C327.97 60 327.461 59.7893 327.086 59.4142C326.711 59.0391 326.5 58.5304 326.5 58V54" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M330.5 49L335.5 54L340.5 49" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M335.5 54V42" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="351.5" y="55.3636">Fetch from GSPN</tspan></text>
+<path d="M528 33H750C751.657 33 753 34.3431 753 36V66C753 67.6569 751.657 69 750 69H528C526.343 69 525 67.6569 525 66V36L525.004 35.8457C525.084 34.2606 526.395 33 528 33Z" fill="#EDF5FF"/>
+<path d="M528 33H750C751.657 33 753 34.3431 753 36V66C753 67.6569 751.657 69 750 69H528C526.343 69 525 67.6569 525 66V36L525.004 35.8457C525.084 34.2606 526.395 33 528 33Z" stroke="#1769B3" stroke-width="2"/>
+<path d="M594.5 54V58C594.5 58.5304 594.289 59.0391 593.914 59.4142C593.539 59.7893 593.03 60 592.5 60H578.5C577.97 60 577.461 59.7893 577.086 59.4142C576.711 59.0391 576.5 58.5304 576.5 58V54" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M580.5 49L585.5 54L590.5 49" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M585.5 54V42" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="601.5" y="55.3636">Fetch from GSPN</tspan></text>
+<path d="M778 32.5H1000C1001.93 32.5 1003.5 34.067 1003.5 36V66C1003.5 67.933 1001.93 69.5 1000 69.5H778C776.067 69.5 774.5 67.933 774.5 66V36L774.505 35.8203C774.598 33.9708 776.127 32.5 778 32.5Z" fill="#EDF2F6"/>
+<path d="M778 32.5H1000C1001.93 32.5 1003.5 34.067 1003.5 36V66C1003.5 67.933 1001.93 69.5 1000 69.5H778C776.067 69.5 774.5 67.933 774.5 66V36L774.505 35.8203C774.598 33.9708 776.127 32.5 778 32.5Z" stroke="#E3EAF0"/>
+<path d="M844.5 54V58C844.5 58.5304 844.289 59.0391 843.914 59.4142C843.539 59.7893 843.03 60 842.5 60H828.5C827.97 60 827.461 59.7893 827.086 59.4142C826.711 59.0391 826.5 58.5304 826.5 58V54" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M830.5 49L835.5 54L840.5 49" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M835.5 54V42" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#697A8F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="851.5" y="55.3636">Fetch from GSPN</tspan></text>
+<path d="M1028 32.5H1250C1251.93 32.5 1253.5 34.067 1253.5 36V66C1253.5 67.933 1251.93 69.5 1250 69.5H1028C1026.07 69.5 1024.5 67.933 1024.5 66V36L1024.5 35.8203C1024.6 33.9708 1026.13 32.5 1028 32.5Z" fill="white"/>
+<path d="M1028 32.5H1250C1251.93 32.5 1253.5 34.067 1253.5 36V66C1253.5 67.933 1251.93 69.5 1250 69.5H1028C1026.07 69.5 1024.5 67.933 1024.5 66V36L1024.5 35.8203C1024.6 33.9708 1026.13 32.5 1028 32.5Z" stroke="#1769B3"/>
+<path d="M1113.5 54V58C1113.5 58.5304 1113.29 59.0391 1112.91 59.4142C1112.54 59.7893 1112.03 60 1111.5 60H1097.5C1096.97 60 1096.46 59.7893 1096.09 59.4142C1095.71 59.0391 1095.5 58.5304 1095.5 58V54" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1099.5 49L1104.5 54L1109.5 49" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1104.5 54V42" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1120.5" y="55.3636">Fetching&#x2026;</tspan></text>
+<path d="M28 102.5H250C251.933 102.5 253.5 104.067 253.5 106V136C253.5 137.933 251.933 139.5 250 139.5H28C26.067 139.5 24.5 137.933 24.5 136V106L24.5049 105.82C24.5984 103.971 26.1273 102.5 28 102.5Z" fill="white"/>
+<path d="M28 102.5H250C251.933 102.5 253.5 104.067 253.5 106V136C253.5 137.933 251.933 139.5 250 139.5H28C26.067 139.5 24.5 137.933 24.5 136V106L24.5049 105.82C24.5984 103.971 26.1273 102.5 28 102.5Z" stroke="#7051B5"/>
+<path d="M90.5 124V128C90.5 128.53 90.2893 129.039 89.9142 129.414C89.5391 129.789 89.0304 130 88.5 130H74.5C73.9696 130 73.4609 129.789 73.0858 129.414C72.7107 129.039 72.5 128.53 72.5 128V124" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M76.5 119L81.5 124L86.5 119" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M81.5 124V112" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#7051B5" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="97.5" y="125.364">Fetch from Simpro</tspan></text>
+<path d="M278 102.5H500C501.933 102.5 503.5 104.067 503.5 106V136C503.5 137.933 501.933 139.5 500 139.5H278C276.067 139.5 274.5 137.933 274.5 136V106L274.505 105.82C274.598 103.971 276.127 102.5 278 102.5Z" fill="#F3EEFC"/>
+<path d="M278 102.5H500C501.933 102.5 503.5 104.067 503.5 106V136C503.5 137.933 501.933 139.5 500 139.5H278C276.067 139.5 274.5 137.933 274.5 136V106L274.505 105.82C274.598 103.971 276.127 102.5 278 102.5Z" stroke="#7051B5"/>
+<path d="M340.5 124V128C340.5 128.53 340.289 129.039 339.914 129.414C339.539 129.789 339.03 130 338.5 130H324.5C323.97 130 323.461 129.789 323.086 129.414C322.711 129.039 322.5 128.53 322.5 128V124" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M326.5 119L331.5 124L336.5 119" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M331.5 124V112" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#7051B5" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="347.5" y="125.364">Fetch from Simpro</tspan></text>
+<path d="M528 103H750C751.657 103 753 104.343 753 106V136C753 137.657 751.657 139 750 139H528C526.343 139 525 137.657 525 136V106L525.004 105.846C525.084 104.261 526.395 103 528 103Z" fill="#F3EEFC"/>
+<path d="M528 103H750C751.657 103 753 104.343 753 106V136C753 137.657 751.657 139 750 139H528C526.343 139 525 137.657 525 136V106L525.004 105.846C525.084 104.261 526.395 103 528 103Z" stroke="#7051B5" stroke-width="2"/>
+<path d="M590.5 124V128C590.5 128.53 590.289 129.039 589.914 129.414C589.539 129.789 589.03 130 588.5 130H574.5C573.97 130 573.461 129.789 573.086 129.414C572.711 129.039 572.5 128.53 572.5 128V124" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M576.5 119L581.5 124L586.5 119" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M581.5 124V112" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#7051B5" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="597.5" y="125.364">Fetch from Simpro</tspan></text>
+<path d="M778 102.5H1000C1001.93 102.5 1003.5 104.067 1003.5 106V136C1003.5 137.933 1001.93 139.5 1000 139.5H778C776.067 139.5 774.5 137.933 774.5 136V106L774.505 105.82C774.598 103.971 776.127 102.5 778 102.5Z" fill="#EDF2F6"/>
+<path d="M778 102.5H1000C1001.93 102.5 1003.5 104.067 1003.5 106V136C1003.5 137.933 1001.93 139.5 1000 139.5H778C776.067 139.5 774.5 137.933 774.5 136V106L774.505 105.82C774.598 103.971 776.127 102.5 778 102.5Z" stroke="#E3EAF0"/>
+<path d="M840.5 124V128C840.5 128.53 840.289 129.039 839.914 129.414C839.539 129.789 839.03 130 838.5 130H824.5C823.97 130 823.461 129.789 823.086 129.414C822.711 129.039 822.5 128.53 822.5 128V124" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M826.5 119L831.5 124L836.5 119" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M831.5 124V112" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#697A8F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="847.5" y="125.364">Fetch from Simpro</tspan></text>
+<path d="M1028 102.5H1250C1251.93 102.5 1253.5 104.067 1253.5 106V136C1253.5 137.933 1251.93 139.5 1250 139.5H1028C1026.07 139.5 1024.5 137.933 1024.5 136V106L1024.5 105.82C1024.6 103.971 1026.13 102.5 1028 102.5Z" fill="white"/>
+<path d="M1028 102.5H1250C1251.93 102.5 1253.5 104.067 1253.5 106V136C1253.5 137.933 1251.93 139.5 1250 139.5H1028C1026.07 139.5 1024.5 137.933 1024.5 136V106L1024.5 105.82C1024.6 103.971 1026.13 102.5 1028 102.5Z" stroke="#7051B5"/>
+<path d="M1113.5 124V128C1113.5 128.53 1113.29 129.039 1112.91 129.414C1112.54 129.789 1112.03 130 1111.5 130H1097.5C1096.97 130 1096.46 129.789 1096.09 129.414C1095.71 129.039 1095.5 128.53 1095.5 128V124" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1099.5 119L1104.5 124L1109.5 119" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1104.5 124V112" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#7051B5" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1120.5" y="125.364">Fetching&#x2026;</tspan></text>
+<path d="M28 172.5H250C251.933 172.5 253.5 174.067 253.5 176V206C253.5 207.933 251.933 209.5 250 209.5H28C26.067 209.5 24.5 207.933 24.5 206V176L24.5049 175.82C24.5984 173.971 26.1273 172.5 28 172.5Z" fill="white"/>
+<path d="M28 172.5H250C251.933 172.5 253.5 174.067 253.5 176V206C253.5 207.933 251.933 209.5 250 209.5H28C26.067 209.5 24.5 207.933 24.5 206V176L24.5049 175.82C24.5984 173.971 26.1273 172.5 28 172.5Z" stroke="#087F83"/>
+<path d="M77.5 194V198C77.5 198.53 77.2893 199.039 76.9142 199.414C76.5391 199.789 76.0304 200 75.5 200H61.5C60.9696 200 60.4609 199.789 60.0858 199.414C59.7107 199.039 59.5 198.53 59.5 198V194" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M63.5 189L68.5 194L73.5 189" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M68.5 194V182" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#087F83" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="84.5" y="195.364">Fetch claim from GSPN</tspan></text>
+<path d="M278 172.5H500C501.933 172.5 503.5 174.067 503.5 176V206C503.5 207.933 501.933 209.5 500 209.5H278C276.067 209.5 274.5 207.933 274.5 206V176L274.505 175.82C274.598 173.971 276.127 172.5 278 172.5Z" fill="#E9F7F6"/>
+<path d="M278 172.5H500C501.933 172.5 503.5 174.067 503.5 176V206C503.5 207.933 501.933 209.5 500 209.5H278C276.067 209.5 274.5 207.933 274.5 206V176L274.505 175.82C274.598 173.971 276.127 172.5 278 172.5Z" stroke="#087F83"/>
+<path d="M327.5 194V198C327.5 198.53 327.289 199.039 326.914 199.414C326.539 199.789 326.03 200 325.5 200H311.5C310.97 200 310.461 199.789 310.086 199.414C309.711 199.039 309.5 198.53 309.5 198V194" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M313.5 189L318.5 194L323.5 189" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M318.5 194V182" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#087F83" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="334.5" y="195.364">Fetch claim from GSPN</tspan></text>
+<path d="M528 173H750C751.657 173 753 174.343 753 176V206C753 207.657 751.657 209 750 209H528C526.343 209 525 207.657 525 206V176L525.004 175.846C525.084 174.261 526.395 173 528 173Z" fill="#E9F7F6"/>
+<path d="M528 173H750C751.657 173 753 174.343 753 176V206C753 207.657 751.657 209 750 209H528C526.343 209 525 207.657 525 206V176L525.004 175.846C525.084 174.261 526.395 173 528 173Z" stroke="#087F83" stroke-width="2"/>
+<path d="M577.5 194V198C577.5 198.53 577.289 199.039 576.914 199.414C576.539 199.789 576.03 200 575.5 200H561.5C560.97 200 560.461 199.789 560.086 199.414C559.711 199.039 559.5 198.53 559.5 198V194" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M563.5 189L568.5 194L573.5 189" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M568.5 194V182" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#087F83" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="584.5" y="195.364">Fetch claim from GSPN</tspan></text>
+<path d="M778 172.5H1000C1001.93 172.5 1003.5 174.067 1003.5 176V206C1003.5 207.933 1001.93 209.5 1000 209.5H778C776.067 209.5 774.5 207.933 774.5 206V176L774.505 175.82C774.598 173.971 776.127 172.5 778 172.5Z" fill="#EDF2F6"/>
+<path d="M778 172.5H1000C1001.93 172.5 1003.5 174.067 1003.5 176V206C1003.5 207.933 1001.93 209.5 1000 209.5H778C776.067 209.5 774.5 207.933 774.5 206V176L774.505 175.82C774.598 173.971 776.127 172.5 778 172.5Z" stroke="#E3EAF0"/>
+<path d="M827.5 194V198C827.5 198.53 827.289 199.039 826.914 199.414C826.539 199.789 826.03 200 825.5 200H811.5C810.97 200 810.461 199.789 810.086 199.414C809.711 199.039 809.5 198.53 809.5 198V194" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M813.5 189L818.5 194L823.5 189" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M818.5 194V182" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#697A8F" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="834.5" y="195.364">Fetch claim from GSPN</tspan></text>
+<path d="M1028 172.5H1250C1251.93 172.5 1253.5 174.067 1253.5 176V206C1253.5 207.933 1251.93 209.5 1250 209.5H1028C1026.07 209.5 1024.5 207.933 1024.5 206V176L1024.5 175.82C1024.6 173.971 1026.13 172.5 1028 172.5Z" fill="white"/>
+<path d="M1028 172.5H1250C1251.93 172.5 1253.5 174.067 1253.5 176V206C1253.5 207.933 1251.93 209.5 1250 209.5H1028C1026.07 209.5 1024.5 207.933 1024.5 206V176L1024.5 175.82C1024.6 173.971 1026.13 172.5 1028 172.5Z" stroke="#087F83"/>
+<path d="M1113.5 194V198C1113.5 198.53 1113.29 199.039 1112.91 199.414C1112.54 199.789 1112.03 200 1111.5 200H1097.5C1096.97 200 1096.46 199.789 1096.09 199.414C1095.71 199.039 1095.5 198.53 1095.5 198V194" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1099.5 189L1104.5 194L1109.5 189" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1104.5 194V182" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#087F83" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="1120.5" y="195.364">Fetching&#x2026;</tspan></text>
+</svg>

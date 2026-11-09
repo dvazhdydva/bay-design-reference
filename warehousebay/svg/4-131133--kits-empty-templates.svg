@@ -1,0 +1,41 @@
+<svg width="640" height="498" viewBox="0 0 640 498" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="640" height="498" fill="#F3F5F8"/>
+<g clip-path="url(#clip0_4_131133)">
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="24" y="56.1818">Kits</tspan></text>
+<rect x="468" y="24" width="148" height="44" rx="6" fill="#185DB4"/>
+<path d="M485.749 46.0001H496.25M491 40.7495V51.2507" stroke="white" stroke-width="1.7" stroke-linecap="round"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="508" y="51.0909">New template</tspan></text>
+</g>
+<mask id="path-5-inside-1_4_131133" fill="white">
+<path d="M24 84H616V128H24V84Z"/>
+</mask>
+<path d="M616 128V127H24V128V129H616V128Z" fill="#D6DEE7" mask="url(#path-5-inside-1_4_131133)"/>
+<mask id="path-7-inside-2_4_131133" fill="white">
+<path d="M24 84H115V128H24V84Z"/>
+</mask>
+<path d="M115 128V125H24V128V131H115V128Z" fill="#185DB4" mask="url(#path-7-inside-2_4_131133)"/>
+<text fill="#185DB4" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="24" y="111.091">Templates &#xb7; 0</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="139" y="111.091">Physical kits &#xb7; 0</tspan></text>
+<g clip-path="url(#clip1_4_131133)">
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="24" y="156.864">Template name, code or component</tspan></text>
+<rect x="24.5" y="167.5" width="591" height="43" rx="5.5" fill="white"/>
+<rect x="24.5" y="167.5" width="591" height="43" rx="5.5" stroke="#D6DEE7"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="36" y="194.091">*</tspan></text>
+</g>
+<rect x="24.5" y="227.5" width="591" height="213" fill="white"/>
+<rect x="24.5" y="227.5" width="591" height="213" stroke="#D6DEE7"/>
+<path d="M324.667 255.666H327C327.618 255.666 328.212 255.911 328.649 256.349C329.087 256.787 329.333 257.38 329.333 257.999V274.334C329.333 274.953 329.087 275.546 328.649 275.984C328.212 276.421 327.618 276.667 327 276.667H313.001C312.382 276.667 311.789 276.421 311.351 275.984C310.914 275.546 310.668 274.953 310.668 274.334V257.999C310.668 257.38 310.914 256.787 311.351 256.349C311.789 255.911 312.382 255.666 313.001 255.666H315.334M320 263.833H324.667M320 269.667H324.667M315.334 263.833H315.346M315.334 269.667H315.346M316.501 253.332H323.5C324.144 253.332 324.667 253.854 324.667 254.499V256.832C324.667 257.477 324.144 257.999 323.5 257.999H316.501C315.856 257.999 315.334 257.477 315.334 256.832V254.499C315.334 253.854 315.856 253.332 316.501 253.332Z" stroke="#607184" stroke-width="1.7" stroke-linecap="round"/>
+<text fill="#172738" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="18" letter-spacing="0em"><tspan x="247.323" y="308.545">No templates yet</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="57.2578" y="338.727">Save a component list for future picking. Templates do not hold stock; create physical </tspan><tspan x="273.681" y="356.727">kits separately.</tspan></text>
+<rect x="251" y="373" width="138" height="44" rx="6" fill="#185DB4"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="265" y="400.091">Create template</tspan></text>
+<text fill="#607184" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" letter-spacing="0em"><tspan x="24" y="469.864">Admin, Warehouse manager and Warehouse can create templates.</tspan></text>
+<defs>
+<clipPath id="clip0_4_131133">
+<rect width="592" height="44" fill="white" transform="translate(24 24)"/>
+</clipPath>
+<clipPath id="clip1_4_131133">
+<rect width="592" height="67" fill="white" transform="translate(24 144)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="701" height="286" viewBox="0 0 701 286" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 0.5H695C697.485 0.5 699.5 2.51472 699.5 5V281C699.5 283.485 697.485 285.5 695 285.5H5C2.51472 285.5 0.5 283.485 0.5 281V5L0.505859 4.76855C0.626322 2.39083 2.59234 0.5 5 0.5Z" fill="white"/>
+<path d="M5 0.5H695C697.485 0.5 699.5 2.51472 699.5 5V281C699.5 283.485 697.485 285.5 695 285.5H5C2.51472 285.5 0.5 283.485 0.5 281V5L0.505859 4.76855C0.626322 2.39083 2.59234 0.5 5 0.5Z" stroke="#E3EAF0"/>
+<rect width="700" height="72" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="25" y="43.1818">Unable to fetch data</tspan></text>
+<path d="M674 31L662 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M662 31L674 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" font-weight="600" letter-spacing="0em"><tspan x="25" y="113.455">Your GSPN session may have expired.</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="25" y="149.727">Sign in to GSPN in this Chrome profile, verify the current Chrome bridge, then retry. Your entered values </tspan><tspan x="25" y="169.727">have been kept.</tspan></text>
+<path d="M389 223.5H481C482.933 223.5 484.5 225.067 484.5 227V257C484.5 258.933 482.933 260.5 481 260.5H389C387.067 260.5 385.5 258.933 385.5 257V227L385.505 226.82C385.598 224.971 387.127 223.5 389 223.5Z" fill="white"/>
+<path d="M389 223.5H481C482.933 223.5 484.5 225.067 484.5 227V257C484.5 258.933 482.933 260.5 481 260.5H389C387.067 260.5 385.5 258.933 385.5 257V227L385.505 226.82C385.598 224.971 387.127 223.5 389 223.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="414.5" y="246.364">Cancel</tspan></text>
+<path d="M501 223.5H673C674.933 223.5 676.5 225.067 676.5 227V257C676.5 258.933 674.933 260.5 673 260.5H501C499.067 260.5 497.5 258.933 497.5 257V227L497.505 226.82C497.598 224.971 499.127 223.5 501 223.5Z" fill="#2D805F"/>
+<path d="M501 223.5H673C674.933 223.5 676.5 225.067 676.5 227V257C676.5 258.933 674.933 260.5 673 260.5H501C499.067 260.5 497.5 258.933 497.5 257V227L497.505 226.82C497.598 224.971 499.127 223.5 501 223.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="571" y="246.364">Retry</tspan></text>
+</svg>

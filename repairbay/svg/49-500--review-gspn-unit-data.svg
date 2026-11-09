@@ -1,0 +1,61 @@
+<svg width="941" height="580" viewBox="0 0 941 580" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 0.5H935C937.485 0.5 939.5 2.51472 939.5 5V575C939.5 577.485 937.485 579.5 935 579.5H5C2.51472 579.5 0.5 577.485 0.5 575V5C0.5 2.51472 2.51472 0.5 5 0.5Z" fill="white"/>
+<path d="M5 0.5H935C937.485 0.5 939.5 2.51472 939.5 5V575C939.5 577.485 937.485 579.5 935 579.5H5C2.51472 579.5 0.5 577.485 0.5 575V5C0.5 2.51472 2.51472 0.5 5 0.5Z" stroke="#E3EAF0"/>
+<rect width="940" height="72" transform="translate(1 1)" fill="#172E49"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="17" font-weight="bold" letter-spacing="0em"><tspan x="25" y="43.1818">Review GSPN unit data</tspan></text>
+<path d="M914 31L902 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M902 31L914 43" stroke="#586E8B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip0_49_500)">
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="25" y="110.364">Source: GSPN &#xb7; Labor warranty (L) &#xb7; Serial: 0JBBHNQWB00350B</tspan></text>
+<rect x="25.5" y="131.5" width="891" height="314" stroke="#E3EAF0"/>
+<rect width="892" height="48" transform="translate(26 132)" fill="#EFF4F8"/>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="34" y="160.364">Field</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="224" y="160.364">Current in RepairBay</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="484" y="160.364">From GSPN</tspan></text>
+<text fill="#586E8B" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="764" y="160.364">Status</tspan></text>
+<rect width="892" height="52" transform="translate(26 180)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="34" y="210.727">Model</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="224" y="210.727">OM55N-S</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="484" y="210.727">OM55N-S</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="764" y="210.727">Unchanged</tspan></text>
+<rect x="26" y="232" width="892" height="1" fill="#E3EAF0"/>
+<rect width="892" height="52" transform="translate(26 233)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="34" y="263.727">Model code</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="224" y="263.727">LH55OMNESGBXEN</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="484" y="263.727">LH55OMNESGBXEN</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="764" y="263.727">Unchanged</tspan></text>
+<rect x="26" y="285" width="892" height="1" fill="#E3EAF0"/>
+<rect width="892" height="52" transform="translate(26 286)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="34" y="316.727">Version</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="224" y="316.727">AA01</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="484" y="316.727">AA02</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="764" y="316.727">Changed</tspan></text>
+<rect x="26" y="338" width="892" height="1" fill="#E3EAF0"/>
+<rect width="892" height="52" transform="translate(26 339)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="34" y="369.727">Purchase date</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="224" y="369.727">&#x2014;</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="484" y="369.727">01 Nov 2023</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="764" y="369.727">Added</tspan></text>
+<rect x="26" y="391" width="892" height="1" fill="#E3EAF0"/>
+<rect width="892" height="52" transform="translate(26 392)" fill="white"/>
+<text fill="#1769B3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="34" y="422.727">Warranty expiry</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="224" y="422.727">&#x2014;</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="484" y="422.727">28 Feb 2027</tspan></text>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="764" y="422.727">Added</tspan></text>
+<rect x="26" y="444" width="892" height="1" fill="#E3EAF0"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="25" y="475.364">Reason for changing existing information *</tspan></text>
+<path d="M29 486.5H913C914.933 486.5 916.5 488.067 916.5 490V520C916.5 521.933 914.933 523.5 913 523.5H29C27.067 523.5 25.5 521.933 25.5 520V490L25.5049 489.82C25.5984 487.971 27.1273 486.5 29 486.5Z" fill="white"/>
+<path d="M29 486.5H913C914.933 486.5 916.5 488.067 916.5 490V520C916.5 521.933 914.933 523.5 913 523.5H29C27.067 523.5 25.5 521.933 25.5 520V490L25.5049 489.82C25.5984 487.971 27.1273 486.5 29 486.5Z" stroke="#CDDAE7"/>
+</g>
+<path d="M629 517.5H721C722.933 517.5 724.5 519.067 724.5 521V551C724.5 552.933 722.933 554.5 721 554.5H629C627.067 554.5 625.5 552.933 625.5 551V521L625.505 520.82C625.598 518.971 627.127 517.5 629 517.5Z" fill="white"/>
+<path d="M629 517.5H721C722.933 517.5 724.5 519.067 724.5 521V551C724.5 552.933 722.933 554.5 721 554.5H629C627.067 554.5 625.5 552.933 625.5 551V521L625.505 520.82C625.598 518.971 627.127 517.5 629 517.5Z" stroke="#CDDAE7"/>
+<text fill="#14263E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="654.5" y="540.364">Cancel</tspan></text>
+<path d="M741 517.5H913C914.933 517.5 916.5 519.067 916.5 521V551C916.5 552.933 914.933 554.5 913 554.5H741C739.067 554.5 737.5 552.933 737.5 551V521L737.505 520.82C737.598 518.971 739.127 517.5 741 517.5Z" fill="#2D805F"/>
+<path d="M741 517.5H913C914.933 517.5 916.5 519.067 916.5 521V551C916.5 552.933 914.933 554.5 913 554.5H741C739.067 554.5 737.5 552.933 737.5 551V521L737.505 520.82C737.598 518.971 739.127 517.5 741 517.5Z" stroke="#CDDAE7"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="787.5" y="540.364">Apply to form</tspan></text>
+<defs>
+<clipPath id="clip0_49_500">
+<rect width="940" height="420" fill="white" transform="translate(1 73)"/>
+</clipPath>
+</defs>
+</svg>
